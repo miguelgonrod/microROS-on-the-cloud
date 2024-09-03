@@ -1,0 +1,35 @@
+{
+  "package_name": "nav_msgs",
+  "output_dir": "/home/robot/app/robot_ws/build/nav_msgs/rosidl_typesupport_microxrcedds_cpp/nav_msgs",
+  "template_dir": "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource",
+  "idl_tuples": [
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/GridCells.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/MapMetaData.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/OccupancyGrid.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Odometry.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Path.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetMap.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetPlan.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/LoadMap.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/SetMap.idl"
+  ],
+  "target_dependencies": [
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib/rosidl_typesupport_microxrcedds_cpp/rosidl_typesupport_microxrcedds_cpp",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp/__init__.py",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/msg/GridCells.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/msg/MapMetaData.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/msg/OccupancyGrid.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/msg/Odometry.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/msg/Path.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/srv/GetMap.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/srv/GetPlan.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/srv/LoadMap.idl",
+    "/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs/srv/SetMap.idl"
+  ]
+}

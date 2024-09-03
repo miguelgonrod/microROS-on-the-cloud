@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/parameter_server"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/parameter_server.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/parameter_server-complete.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-build.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-configure.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-download.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-install.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-mkdir.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-patch.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"parameter_server"
+		],
+		"name" : "parameter_server"
+	}
+}

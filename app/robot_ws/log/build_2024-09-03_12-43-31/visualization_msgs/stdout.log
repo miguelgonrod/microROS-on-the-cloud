@@ -1,0 +1,674 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found builtin_interfaces: 1.2.1 (/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found geometry_msgs: 4.2.4 (/home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake)
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Found sensor_msgs: 4.2.4 (/home/robot/app/robot_ws/install/sensor_msgs/share/sensor_msgs/cmake)
+-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+-- Found PythonExtra: .so  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/visualization_msgs
+[  0%] [34m[1mGenerating C code for ROS interfaces[0m
+[  0%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[  0%] Built target ament_cmake_python_copy_visualization_msgs
+running egg_info
+creating visualization_msgs.egg-info
+writing visualization_msgs.egg-info/PKG-INFO
+writing dependency_links to visualization_msgs.egg-info/dependency_links.txt
+writing top-level names to visualization_msgs.egg-info/top_level.txt
+writing manifest file 'visualization_msgs.egg-info/SOURCES.txt'
+reading manifest file 'visualization_msgs.egg-info/SOURCES.txt'
+writing manifest file 'visualization_msgs.egg-info/SOURCES.txt'
+[  0%] Built target ament_cmake_python_build_visualization_msgs_egg
+[  0%] Built target visualization_msgs__cpp
+[  1%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/image_marker__functions.c.o[0m
+[  2%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/interactive_marker_feedback__functions.c.o[0m
+[  3%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/interactive_marker_init__functions.c.o[0m
+[  3%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/interactive_marker_pose__functions.c.o[0m
+[  4%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/interactive_marker_update__functions.c.o[0m
+[  4%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/marker__functions.c.o[0m
+[  5%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/marker_array__functions.c.o[0m
+[  6%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/menu_entry__functions.c.o[0m
+[  6%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/mesh_file__functions.c.o[0m
+[  7%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/uv_coordinate__functions.c.o[0m
+[  8%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/srv/detail/get_interactive_markers__functions.c.o[0m
+[  8%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/interactive_marker_control__functions.c.o[0m
+[  9%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_c.dir/rosidl_generator_c/visualization_msgs/msg/detail/interactive_marker__functions.c.o[0m
+[  9%] [32m[1mLinking C shared library libvisualization_msgs__rosidl_generator_c.so[0m
+[  9%] Built target visualization_msgs__rosidl_generator_c
+[ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/image_marker__type_support.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/interactive_marker__type_support.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/interactive_marker_control__type_support.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/interactive_marker_feedback__type_support.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/interactive_marker_init__type_support.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/interactive_marker_pose__type_support.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/interactive_marker_update__type_support.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/marker__type_support.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/marker_array__type_support.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/menu_entry__type_support.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/mesh_file__type_support.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/msg/detail/uv_coordinate__type_support.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/visualization_msgs/srv/detail/get_interactive_markers__type_support.cpp.o[0m
+[ 18%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[ 18%] Built target visualization_msgs__rosidl_typesupport_introspection_cpp
+[ 19%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[ 21%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[ 21%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[ 22%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[ 23%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/image_marker__type_support.cpp.o[0m
+[ 24%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/interactive_marker__type_support.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/interactive_marker_control__type_support.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/interactive_marker_feedback__type_support.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/interactive_marker_init__type_support.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/interactive_marker_pose__type_support.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/interactive_marker_update__type_support.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/marker__type_support.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/marker_array__type_support.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/menu_entry__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/uv_coordinate__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/msg/mesh_file__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/image_marker__type_support_c.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/visualization_msgs/srv/get_interactive_markers__type_support.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/interactive_marker__type_support_c.cpp.o[0m
+[ 33%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/image_marker__type_support_c.c.o[0m
+[ 33%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_c.so[0m
+[ 33%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker__type_support_c.c.o[0m
+[ 33%] Built target visualization_msgs__rosidl_typesupport_c
+[ 34%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_control__type_support_c.c.o[0m
+[ 34%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[ 34%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/interactive_marker_control__type_support_c.cpp.o[0m
+[ 36%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_feedback__type_support_c.c.o[0m
+[ 36%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_init__type_support_c.c.o[0m
+[ 37%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_pose__type_support_c.c.o[0m
+[ 37%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_update__type_support_c.c.o[0m
+[ 38%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/marker__type_support_c.c.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/interactive_marker_feedback__type_support_c.cpp.o[0m
+[ 39%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/interactive_marker_init__type_support_c.cpp.o[0m
+[ 40%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/marker_array__type_support_c.c.o[0m
+[ 40%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/menu_entry__type_support_c.c.o[0m
+[ 41%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/mesh_file__type_support_c.c.o[0m
+[ 42%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/uv_coordinate__type_support_c.c.o[0m
+[ 42%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/srv/detail/microxrcedds/get_interactive_markers__type_support_c.c.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/interactive_marker_pose__type_support_c.cpp.o[0m
+[ 44%] [32m[1mLinking C shared library libvisualization_msgs__rosidl_typesupport_microxrcedds_c.so[0m
+[ 44%] Built target visualization_msgs__rosidl_typesupport_microxrcedds_c
+[ 44%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/interactive_marker_update__type_support_c.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/marker__type_support_c.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/marker_array__type_support_c.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/menu_entry__type_support_c.cpp.o[0m
+[ 47%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/image_marker__type_support.c.o[0m
+[ 47%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/interactive_marker__type_support.c.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/image_marker__type_support_cpp.cpp.o[0m
+[ 48%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/interactive_marker_control__type_support.c.o[0m
+[ 49%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker__type_support_cpp.cpp.o[0m
+[ 49%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/interactive_marker_feedback__type_support.c.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/mesh_file__type_support_c.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_control__type_support_cpp.cpp.o[0m
+[ 52%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/interactive_marker_init__type_support.c.o[0m
+[ 53%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/interactive_marker_pose__type_support.c.o[0m
+[ 53%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/interactive_marker_update__type_support.c.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/msg/detail/uv_coordinate__type_support_c.cpp.o[0m
+[ 54%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/marker__type_support.c.o[0m
+[ 55%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/marker_array__type_support.c.o[0m
+[ 55%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/menu_entry__type_support.c.o[0m
+[ 56%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/mesh_file__type_support.c.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_feedback__type_support_cpp.cpp.o[0m
+[ 56%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/msg/detail/uv_coordinate__type_support.c.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_init__type_support_cpp.cpp.o[0m
+[ 58%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/visualization_msgs/srv/detail/get_interactive_markers__type_support.c.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/visualization_msgs/srv/detail/get_interactive_markers__type_support_c.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_pose__type_support_cpp.cpp.o[0m
+[ 60%] [32m[1mLinking C shared library libvisualization_msgs__rosidl_typesupport_introspection_c.so[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_update__type_support_cpp.cpp.o[0m
+[ 61%] Built target visualization_msgs__rosidl_typesupport_introspection_c
+[ 62%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/marker__type_support_cpp.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/marker_array__type_support_cpp.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/menu_entry__type_support_cpp.cpp.o[0m
+[ 64%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/mesh_file__type_support_cpp.cpp.o[0m
+[ 65%] Built target visualization_msgs__rosidl_typesupport_fastrtps_c
+[ 65%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/uv_coordinate__type_support_cpp.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/image_marker__type_support.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/srv/detail/microxrcedds/get_interactive_markers__type_support_cpp.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/interactive_marker__type_support.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/interactive_marker_control__type_support.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/interactive_marker_pose__type_support.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/interactive_marker_update__type_support.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/marker__type_support.cpp.o[0m
+[ 71%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_microxrcedds_cpp.so[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/image_marker__type_support.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/interactive_marker__type_support.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/interactive_marker_init__type_support.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/marker_array__type_support.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/interactive_marker_control__type_support.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/interactive_marker_feedback__type_support.cpp.o[0m
+[ 75%] Built target visualization_msgs__rosidl_typesupport_microxrcedds_cpp
+[ 76%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/menu_entry__type_support.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/mesh_file__type_support.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/msg/uv_coordinate__type_support.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/visualization_msgs/srv/get_interactive_markers__type_support.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/interactive_marker_init__type_support.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/interactive_marker_feedback__type_support.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/interactive_marker_pose__type_support.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/marker_array__type_support.cpp.o[0m
+[ 81%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_cpp.so[0m
+[ 81%] Built target visualization_msgs__rosidl_typesupport_cpp
+[ 81%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/mesh_file__type_support.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/uv_coordinate__type_support.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/srv/detail/dds_fastrtps/get_interactive_markers__type_support.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/menu_entry__type_support.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/interactive_marker_update__type_support.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/visualization_msgs/msg/detail/dds_fastrtps/marker__type_support.cpp.o[0m
+[ 85%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[ 85%] Built target visualization_msgs__rosidl_typesupport_fastrtps_cpp
+[ 85%] Built target visualization_msgs
+[ 86%] [34m[1mGenerating Python code for ROS interfaces[0m
+[ 86%] Built target visualization_msgs__py
+[ 87%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_interactive_marker_s.c.o[0m
+[ 87%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_interactive_marker_control_s.c.o[0m
+[ 88%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_image_marker_s.c.o[0m
+[ 89%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_interactive_marker_feedback_s.c.o[0m
+[ 89%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_marker_s.c.o[0m
+[ 90%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_marker_array_s.c.o[0m
+[ 90%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_menu_entry_s.c.o[0m
+[ 91%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_mesh_file_s.c.o[0m
+[ 92%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_uv_coordinate_s.c.o[0m
+[ 92%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/srv/_get_interactive_markers_s.c.o[0m
+[ 93%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_interactive_marker_update_s.c.o[0m
+[ 94%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_interactive_marker_pose_s.c.o[0m
+[ 94%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_generator_py.dir/rosidl_generator_py/visualization_msgs/msg/_interactive_marker_init_s.c.o[0m
+[ 95%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/libvisualization_msgs__rosidl_generator_py.so[0m
+[ 95%] Built target visualization_msgs__rosidl_generator_py
+[ 96%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[ 96%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c__pyext.dir/rosidl_generator_py/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c.o[0m
+[ 96%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[ 96%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 97%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 98%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 99%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[100%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[100%] Built target visualization_msgs__rosidl_typesupport_introspection_c__pyext
+[100%] Built target visualization_msgs__rosidl_typesupport_fastrtps_c__pyext
+[100%] Built target visualization_msgs__rosidl_typesupport_c__pyext
+[100%] Built target visualization_msgs__rosidl_typesupport_microxrcedds_c__pyext
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/ament_index/resource_index/rosidl_interfaces/visualization_msgs
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/get_interactive_markers.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/menu_entry.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_control.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_pose.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/marker_array.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/uv_coordinate.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__functions.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__type_support.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__struct.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__functions.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_update.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_init.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/image_marker.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/mesh_file.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_feedback.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/marker.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/rosidl_generator_c__visibility_control.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/library_path.sh
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/library_path.dsv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_generator_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_generator_c.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_fastrtps_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/get_interactive_markers.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/marker.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/uv_coordinate.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_update.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/menu_entry.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/mesh_file.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_init.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__struct.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__builder.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__traits.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/image_marker.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_control.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_pose.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_feedback.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/marker_array.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/dds_fastrtps
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/dds_fastrtps
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_fastrtps_cpp.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/microxrcedds
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/marker__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_microxrcedds_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_microxrcedds_c.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_introspection_c.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__type_support.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_introspection_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_c.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/microxrcedds
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/microxrcedds/get_interactive_markers__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/marker__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/uv_coordinate__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/image_marker__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_feedback__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_update__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/menu_entry__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/mesh_file__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_init__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/marker_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_pose__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_control__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/marker__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_microxrcedds_cpp.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_microxrcedds_cpp.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__type_support.cpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_introspection_cpp.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_cpp.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/pythonpath.sh
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/pythonpath.dsv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info/PKG-INFO
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info/top_level.txt
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/__init__.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv/__init__.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv/_get_interactive_markers.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv/_get_interactive_markers_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_introspection_c.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_c.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/__init__.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_image_marker.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_feedback.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_uv_coordinate.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_control.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_mesh_file_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_feedback_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_pose_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker_array_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_menu_entry_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_image_marker_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_update_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_update.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_menu_entry.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_control_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_uv_coordinate_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_init_s.c
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_mesh_file.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker_array.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_init.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_pose.py
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/libvisualization_msgs__rosidl_generator_py.so
+Listing '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/__init__.py'...
+Listing '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/__init__.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_image_marker.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_control.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_feedback.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_init.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_pose.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_update.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker_array.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_menu_entry.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_mesh_file.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_uv_coordinate.py'...
+Listing '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv/__init__.py'...
+Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv/_get_interactive_markers.py'...
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_generator_py.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_generator_py.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/ImageMarker.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarker.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerControl.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerFeedback.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerInit.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerPose.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerUpdate.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/Marker.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MarkerArray.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MenuEntry.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MeshFile.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/UVCoordinate.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/srv/GetInteractiveMarkers.idl
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/ImageMarker.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarker.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerControl.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerFeedback.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerInit.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerPose.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerUpdate.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/Marker.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MarkerArray.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MenuEntry.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MeshFile.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/UVCoordinate.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/srv/GetInteractiveMarkers.srv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/srv/GetInteractiveMarkers_Request.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/srv/GetInteractiveMarkers_Response.msg
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/ament_index/resource_index/package_run_dependencies/visualization_msgs
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/ament_index/resource_index/parent_prefix_path/visualization_msgs
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/ament_prefix_path.dsv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/path.dsv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/local_setup.bash
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/local_setup.sh
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/package.dsv
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/ament_index/resource_index/packages/visualization_msgs
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_cExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_cppExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_cExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_pyExport.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_pyExport-noconfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/rosidl_cmake-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgsConfig.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgsConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/package.xml

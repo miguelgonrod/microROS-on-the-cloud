@@ -1,0 +1,45 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rosidl_cmake: 3.1.5 (/opt/ros/humble/share/rosidl_cmake/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found fastrtps_cmake_module: 2.2.2 (/opt/ros/humble/share/fastrtps_cmake_module/cmake)
+-- Found rmw_dds_common: 1.6.0 (/opt/ros/humble/share/rmw_dds_common/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_fastrtps_shared_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_shared_cpp/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Found ament_cmake_gtest: 1.3.10 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+-- Found micro_ros_msgs: 3.0.1 (/home/robot/app/robot_ws/install/micro_ros_msgs/share/micro_ros_msgs/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_agent
+[35m[1mConsolidate compiler generated dependencies of target micro_ros_agent[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/agent/graph_manager/graph_manager.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/agent/Agent.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/main.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/agent/utils/demangle.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/micro_ros_agent.dir/src/agent/graph_manager/graph_typesupport.cpp.o[0m
+[100%] [32m[1mLinking CXX executable micro_ros_agent[0m
+[100%] Built target micro_ros_agent
+-- Install configuration: ""
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/ament_index/resource_index/package_run_dependencies/micro_ros_agent
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/ament_index/resource_index/parent_prefix_path/micro_ros_agent
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/environment/path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.bash
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.sh
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/package.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/ament_index/resource_index/packages/micro_ros_agent
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/micro_ros_agentConfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/micro_ros_agentConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/package.xml
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/lib/micro_ros_agent/micro_ros_agent
+-- Set runtime path of "/home/robot/app/robot_ws/install/micro_ros_agent/lib/micro_ros_agent/micro_ros_agent" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/launch
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/launch/micro_ros_agent_launch.py

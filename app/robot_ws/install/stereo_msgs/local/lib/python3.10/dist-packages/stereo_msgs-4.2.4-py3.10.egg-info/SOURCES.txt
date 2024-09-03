@@ -1,0 +1,8 @@
+setup.py
+stereo_msgs/__init__.py
+stereo_msgs.egg-info/PKG-INFO
+stereo_msgs.egg-info/SOURCES.txt
+stereo_msgs.egg-info/dependency_links.txt
+stereo_msgs.egg-info/top_level.txt
+stereo_msgs/msg/__init__.py
+stereo_msgs/msg/_disparity_image.py

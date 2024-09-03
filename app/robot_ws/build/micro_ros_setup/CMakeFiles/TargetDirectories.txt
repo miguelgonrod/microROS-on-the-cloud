@@ -1,0 +1,9 @@
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/uninstall.dir
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/micro_ros_setup_uninstall.dir
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/test.dir
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/edit_cache.dir
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/rebuild_cache.dir
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/list_install_components.dir
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/install.dir
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/install/local.dir
+/home/robot/app/robot_ws/build/micro_ros_setup/CMakeFiles/install/strip.dir

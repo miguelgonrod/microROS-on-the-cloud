@@ -1,0 +1,6 @@
+Invoking command in '/home/robot/app/robot_ws/build/builtin_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/rcl_interfaces/builtin_interfaces -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/builtin_interfaces
+Invoked command in '/home/robot/app/robot_ws/build/builtin_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/rcl_interfaces/builtin_interfaces -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/builtin_interfaces
+Invoking command in '/home/robot/app/robot_ws/build/builtin_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/builtin_interfaces -- -j8 -l8
+Invoked command in '/home/robot/app/robot_ws/build/builtin_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/builtin_interfaces -- -j8 -l8
+Invoking command in '/home/robot/app/robot_ws/build/builtin_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/builtin_interfaces
+Invoked command in '/home/robot/app/robot_ws/build/builtin_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/builtin_interfaces

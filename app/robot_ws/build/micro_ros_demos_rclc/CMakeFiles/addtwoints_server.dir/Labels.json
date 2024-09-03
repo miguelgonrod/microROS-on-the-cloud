@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/addtwoints_server"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/addtwoints_server.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/addtwoints_server-complete.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-stamp/addtwoints_server-build.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-stamp/addtwoints_server-configure.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-stamp/addtwoints_server-download.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-stamp/addtwoints_server-install.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-stamp/addtwoints_server-mkdir.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-stamp/addtwoints_server-patch.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-stamp/addtwoints_server-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"addtwoints_server"
+		],
+		"name" : "addtwoints_server"
+	}
+}

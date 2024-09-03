@@ -1,0 +1,13 @@
+# Target labels
+ parameter_server
+# Source files and their labels
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/parameter_server
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/parameter_server.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/parameter_server-complete.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-build.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-configure.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-download.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-install.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-mkdir.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-patch.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-stamp/parameter_server-update.rule

@@ -1,0 +1,304 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/diagnostic_msgs
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_generator_c[0m
+[  8%] Built target diagnostic_msgs__rosidl_generator_c
+[ 10%] Built target diagnostic_msgs__cpp
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_microxrcedds_c[0m
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_c[0m
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[ 10%] Built target ament_cmake_python_copy_diagnostic_msgs
+[ 18%] Built target diagnostic_msgs__rosidl_typesupport_microxrcedds_c
+[ 27%] Built target diagnostic_msgs__rosidl_typesupport_c
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_microxrcedds_cpp[0m
+[ 36%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_cpp
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_introspection_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_cpp[0m
+[ 45%] Built target diagnostic_msgs__rosidl_typesupport_microxrcedds_cpp
+[ 54%] Built target diagnostic_msgs__rosidl_typesupport_introspection_cpp
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_introspection_c[0m
+[ 63%] Built target diagnostic_msgs__rosidl_typesupport_cpp
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_fastrtps_c[0m
+[ 72%] Built target diagnostic_msgs__rosidl_typesupport_introspection_c
+[ 81%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_c
+[ 81%] Built target diagnostic_msgs
+running egg_info
+writing diagnostic_msgs.egg-info/PKG-INFO
+writing dependency_links to diagnostic_msgs.egg-info/dependency_links.txt
+writing top-level names to diagnostic_msgs.egg-info/top_level.txt
+reading manifest file 'diagnostic_msgs.egg-info/SOURCES.txt'
+writing manifest file 'diagnostic_msgs.egg-info/SOURCES.txt'
+[ 81%] Built target ament_cmake_python_build_diagnostic_msgs_egg
+[ 82%] Built target diagnostic_msgs__py
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_generator_py[0m
+[ 89%] Built target diagnostic_msgs__rosidl_generator_py
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_microxrcedds_c__pyext[0m
+[ 92%] Built target diagnostic_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_c__pyext[0m
+[ 94%] Built target diagnostic_msgs__rosidl_typesupport_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[ 97%] Built target diagnostic_msgs__rosidl_typesupport_introspection_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target diagnostic_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[100%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_c__pyext
+-- Install configuration: ""
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/ament_index/resource_index/rosidl_interfaces/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/add_diagnostics.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/self_test.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/key_value.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/diagnostic_status.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/diagnostic_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/rosidl_generator_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/library_path.sh
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/library_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_generator_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail/microxrcedds
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/microxrcedds
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_microxrcedds_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/self_test.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/add_diagnostics.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/key_value.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/diagnostic_status.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/diagnostic_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail/microxrcedds
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail/microxrcedds/add_diagnostics__type_support_cpp.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail/microxrcedds/self_test__type_support_cpp.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/microxrcedds
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/microxrcedds/key_value__type_support_cpp.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/microxrcedds/diagnostic_status__type_support_cpp.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/detail/microxrcedds/diagnostic_array__type_support_cpp.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_microxrcedds_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/dds_fastrtps
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/dds_fastrtps
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/srv/detail/add_diagnostics__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/diagnostic_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/include/diagnostic_msgs/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/pythonpath.sh
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/pythonpath.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-4.2.4-py3.10.egg-info
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-4.2.4-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-4.2.4-py3.10.egg-info/PKG-INFO
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-4.2.4-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs-4.2.4-py3.10.egg-info/top_level.txt
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/__init__.py
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/__init__.py
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_add_diagnostics_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_add_diagnostics.py
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_self_test.py
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv/_self_test_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/libdiagnostic_msgs__rosidl_generator_py.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_introspection_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/__init__.py
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_status_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_status.py
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_diagnostic_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_key_value_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg/_key_value.py
+Listing '/home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs'...
+Compiling '/home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/__init__.py'...
+Listing '/home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/msg'...
+Listing '/home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/srv'...
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_generator_py.so
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticStatus.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/KeyValue.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticArray.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticStatus.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/msg/KeyValue.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics.srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics_Request.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics_Response.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest.srv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest_Request.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest_Response.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/ament_index/resource_index/package_run_dependencies/diagnostic_msgs
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/share/ament_index/resource_index/parent_prefix_path/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/environment/path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.bash
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.sh
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/package.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/ament_index/resource_index/packages/diagnostic_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_pyExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/export_diagnostic_msgs__rosidl_generator_pyExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/rosidl_cmake-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgsConfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgsConfig-version.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/diagnostic_msgs/share/diagnostic_msgs/package.xml

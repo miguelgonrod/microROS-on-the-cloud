@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/my_custom_message__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/my_custom_message/msg/detail/microxrcedds/my_custom_message__type_support_cpp.cpp.o"
+  "CMakeFiles/my_custom_message__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/my_custom_message/msg/detail/microxrcedds/my_custom_message__type_support_cpp.cpp.o.d"
+  "libmy_custom_message__rosidl_typesupport_microxrcedds_cpp.pdb"
+  "libmy_custom_message__rosidl_typesupport_microxrcedds_cpp.so"
+  "rosidl_typesupport_microxrcedds_cpp/my_custom_message/msg/detail/microxrcedds/my_custom_message__type_support_cpp.cpp"
+  "rosidl_typesupport_microxrcedds_cpp/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_microxrcedds_cpp.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/my_custom_message__rosidl_typesupport_microxrcedds_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

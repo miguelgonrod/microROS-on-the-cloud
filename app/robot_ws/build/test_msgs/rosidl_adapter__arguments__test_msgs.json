@@ -1,0 +1,23 @@
+{
+  "package_name": "test_msgs",
+  "non_idl_tuples": [
+    "/opt/ros/humble/share/test_interface_files:msg/Arrays.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/BasicTypes.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/BoundedPlainSequences.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/BoundedSequences.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/Constants.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/Defaults.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/Empty.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/MultiNested.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/Nested.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/Strings.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/UnboundedSequences.msg",
+    "/opt/ros/humble/share/test_interface_files:msg/WStrings.msg",
+    "/opt/ros/humble/share/test_interface_files:srv/Arrays.srv",
+    "/opt/ros/humble/share/test_interface_files:srv/BasicTypes.srv",
+    "/opt/ros/humble/share/test_interface_files:srv/Empty.srv",
+    "/opt/ros/humble/share/test_interface_files:action/Fibonacci.action",
+    "/home/robot/app/robot_ws/src/ros2/rcl_interfaces/test_msgs:msg/Builtins.msg",
+    "/home/robot/app/robot_ws/src/ros2/rcl_interfaces/test_msgs:action/NestedMessage.action"
+  ]
+}

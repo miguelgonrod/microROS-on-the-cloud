@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,librosidl_typesupport_microxrcedds_c.so -o librosidl_typesupport_microxrcedds_c.so CMakeFiles/rosidl_typesupport_microxrcedds_c.dir/src/identifier.c.o  -Wl,-rpath,/opt/ros/humble/lib: /opt/ros/humble/lib/librosidl_runtime_c.so /opt/ros/humble/lib/librcutils.so -ldl 

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/fragmented_subscription"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/fragmented_subscription.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/fragmented_subscription-complete.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-stamp/fragmented_subscription-build.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-stamp/fragmented_subscription-configure.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-stamp/fragmented_subscription-download.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-stamp/fragmented_subscription-install.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-stamp/fragmented_subscription-mkdir.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-stamp/fragmented_subscription-patch.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-stamp/fragmented_subscription-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fragmented_subscription"
+		],
+		"name" : "fragmented_subscription"
+	}
+}

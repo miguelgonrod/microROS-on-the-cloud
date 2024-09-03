@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libmicrocdr.so.2.0 -o libmicrocdr.so.2.0.1 CMakeFiles/microcdr.dir/src/c/common.c.o CMakeFiles/microcdr.dir/src/c/types/basic.c.o CMakeFiles/microcdr.dir/src/c/types/string.c.o CMakeFiles/microcdr.dir/src/c/types/array.c.o CMakeFiles/microcdr.dir/src/c/types/sequence.c.o 

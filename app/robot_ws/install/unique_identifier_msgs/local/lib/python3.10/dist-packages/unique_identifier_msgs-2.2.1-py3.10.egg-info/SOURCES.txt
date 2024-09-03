@@ -1,0 +1,8 @@
+setup.py
+unique_identifier_msgs/__init__.py
+unique_identifier_msgs.egg-info/PKG-INFO
+unique_identifier_msgs.egg-info/SOURCES.txt
+unique_identifier_msgs.egg-info/dependency_links.txt
+unique_identifier_msgs.egg-info/top_level.txt
+unique_identifier_msgs/msg/__init__.py
+unique_identifier_msgs/msg/_uuid.py

@@ -1,0 +1,250 @@
+[0.057s] Invoking command in '/home/robot/app/robot_ws/build/std_srvs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/common_interfaces/std_srvs -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/std_srvs
+[0.100s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.574s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.582s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.591s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.683s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.616s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.096s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.732s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.788s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.833s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.834s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.836s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.891s] -- Configuring done
+[3.024s] -- Generating done
+[3.053s] -- Build files have been written to: /home/robot/app/robot_ws/build/std_srvs
+[3.064s] Invoked command in '/home/robot/app/robot_ws/build/std_srvs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/common_interfaces/std_srvs -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/std_srvs
+[3.071s] Invoking command in '/home/robot/app/robot_ws/build/std_srvs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/std_srvs -- -j8 -l8
+[3.225s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_generator_c[0m
+[3.301s] [ 10%] Built target std_srvs__rosidl_generator_c
+[3.302s] [ 12%] Built target std_srvs__cpp
+[3.379s] [ 14%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[3.379s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_fastrtps_cpp[0m
+[3.402s] [ 14%] Built target ament_cmake_python_copy_std_srvs
+[3.443s] [ 17%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[3.457s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_introspection_c[0m
+[3.465s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_introspection_cpp[0m
+[3.468s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_fastrtps_c[0m
+[3.586s] [ 27%] Built target std_srvs__rosidl_typesupport_fastrtps_cpp
+[3.625s] [ 38%] Built target std_srvs__rosidl_typesupport_introspection_c
+[3.632s] [ 48%] Built target std_srvs__rosidl_typesupport_introspection_cpp
+[3.671s] [ 59%] Built target std_srvs__rosidl_typesupport_fastrtps_c
+[5.677s] running egg_info
+[5.677s] writing std_srvs.egg-info/PKG-INFO
+[5.678s] writing dependency_links to std_srvs.egg-info/dependency_links.txt
+[5.679s] writing top-level names to std_srvs.egg-info/top_level.txt
+[5.694s] reading manifest file 'std_srvs.egg-info/SOURCES.txt'
+[5.708s] writing manifest file 'std_srvs.egg-info/SOURCES.txt'
+[5.818s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_c[0m
+[5.893s] [ 61%] [32mBuilding CXX object CMakeFiles/std_srvs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_srvs/srv/empty__type_support.cpp.o[0m
+[5.935s] [ 61%] Built target ament_cmake_python_build_std_srvs_egg
+[5.942s] [ 63%] [32mBuilding CXX object CMakeFiles/std_srvs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_srvs/srv/trigger__type_support.cpp.o[0m
+[5.944s] [ 65%] [32mBuilding CXX object CMakeFiles/std_srvs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_srvs/srv/set_bool__type_support.cpp.o[0m
+[6.106s] [ 68%] [32m[1mLinking CXX shared library libstd_srvs__rosidl_typesupport_c.so[0m
+[6.267s] [ 68%] Built target std_srvs__rosidl_typesupport_c
+[6.276s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_cpp[0m
+[6.363s] [ 70%] [32mBuilding CXX object CMakeFiles/std_srvs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_srvs/srv/set_bool__type_support.cpp.o[0m
+[6.374s] [ 72%] [32mBuilding CXX object CMakeFiles/std_srvs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_srvs/srv/empty__type_support.cpp.o[0m
+[6.389s] [ 74%] [32mBuilding CXX object CMakeFiles/std_srvs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_srvs/srv/trigger__type_support.cpp.o[0m
+[7.783s] [ 76%] [32m[1mLinking CXX shared library libstd_srvs__rosidl_typesupport_cpp.so[0m
+[7.959s] [ 76%] Built target std_srvs__rosidl_typesupport_cpp
+[8.018s] [ 76%] Built target std_srvs
+[8.168s] [ 78%] Built target std_srvs__py
+[8.211s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_generator_py[0m
+[8.274s] [ 80%] [32mBuilding C object CMakeFiles/std_srvs__rosidl_generator_py.dir/rosidl_generator_py/std_srvs/srv/_empty_s.c.o[0m
+[8.301s] [ 82%] [32mBuilding C object CMakeFiles/std_srvs__rosidl_generator_py.dir/rosidl_generator_py/std_srvs/srv/_trigger_s.c.o[0m
+[8.317s] [ 85%] [32mBuilding C object CMakeFiles/std_srvs__rosidl_generator_py.dir/rosidl_generator_py/std_srvs/srv/_set_bool_s.c.o[0m
+[8.890s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/std_srvs/libstd_srvs__rosidl_generator_py.so[0m
+[9.005s] [ 87%] Built target std_srvs__rosidl_generator_py
+[9.029s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_c__pyext[0m
+[9.030s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_fastrtps_c__pyext[0m
+[9.050s] [35m[1mConsolidate compiler generated dependencies of target std_srvs__rosidl_typesupport_introspection_c__pyext[0m
+[9.093s] [ 89%] [32mBuilding C object CMakeFiles/std_srvs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/std_srvs/_std_srvs_s.ep.rosidl_typesupport_c.c.o[0m
+[9.125s] [ 91%] [32m[1mLinking C shared library rosidl_generator_py/std_srvs/std_srvs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.126s] [ 93%] [32mBuilding C object CMakeFiles/std_srvs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/std_srvs/_std_srvs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[9.277s] [ 95%] Built target std_srvs__rosidl_typesupport_fastrtps_c__pyext
+[9.465s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/std_srvs/std_srvs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.536s] [100%] [32m[1mLinking C shared library rosidl_generator_py/std_srvs/std_srvs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.580s] [100%] Built target std_srvs__rosidl_typesupport_c__pyext
+[9.643s] [100%] Built target std_srvs__rosidl_typesupport_introspection_c__pyext
+[9.822s] Invoked command in '/home/robot/app/robot_ws/build/std_srvs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/std_srvs -- -j8 -l8
+[10.202s] Invoking command in '/home/robot/app/robot_ws/build/std_srvs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/std_srvs
+[12.662s] -- Install configuration: ""
+[12.663s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/ament_index/resource_index/rosidl_interfaces/std_srvs
+[12.663s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs
+[12.663s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv
+[12.664s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/set_bool.h
+[12.664s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail
+[12.664s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__functions.c
+[12.664s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__functions.c
+[12.664s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__functions.h
+[12.665s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__type_support.h
+[12.665s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__struct.h
+[12.665s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__functions.c
+[12.665s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__functions.h
+[12.666s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__type_support.h
+[12.669s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__functions.h
+[12.674s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__struct.h
+[12.675s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__type_support.h
+[12.675s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__struct.h
+[12.675s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/trigger.h
+[12.675s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/empty.h
+[12.675s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/msg
+[12.676s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/msg/rosidl_generator_c__visibility_control.h
+[12.677s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/environment/library_path.sh
+[12.678s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/environment/library_path.dsv
+[12.679s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_generator_c.so
+[12.679s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs
+[12.679s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv
+[12.679s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail
+[12.680s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__rosidl_typesupport_fastrtps_c.h
+[12.680s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__rosidl_typesupport_fastrtps_c.h
+[12.681s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__rosidl_typesupport_fastrtps_c.h
+[12.685s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/msg
+[12.685s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[12.686s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_typesupport_fastrtps_c.so
+[12.686s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs
+[12.689s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv
+[12.689s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail
+[12.690s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__rosidl_typesupport_introspection_c.h
+[12.690s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__rosidl_typesupport_introspection_c.h
+[12.690s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__type_support.c
+[12.690s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__type_support.c
+[12.690s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__rosidl_typesupport_introspection_c.h
+[12.691s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__type_support.c
+[12.691s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/msg
+[12.691s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[12.691s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_typesupport_introspection_c.so
+[12.691s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_typesupport_c.so
+[12.692s] -- Set runtime path of "/home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_typesupport_c.so" to ""
+[12.710s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs
+[12.716s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv
+[12.716s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/set_bool.hpp
+[12.716s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/trigger.hpp
+[12.717s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/empty.hpp
+[12.717s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail
+[12.717s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__struct.hpp
+[12.717s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__struct.hpp
+[12.717s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__struct.hpp
+[12.718s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__traits.hpp
+[12.718s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__traits.hpp
+[12.718s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__builder.hpp
+[12.718s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__traits.hpp
+[12.718s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__builder.hpp
+[12.719s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__builder.hpp
+[12.737s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs
+[12.737s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv
+[12.737s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail
+[12.737s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__rosidl_typesupport_fastrtps_cpp.hpp
+[12.738s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/dds_fastrtps
+[12.738s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__rosidl_typesupport_fastrtps_cpp.hpp
+[12.738s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__rosidl_typesupport_fastrtps_cpp.hpp
+[12.738s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/msg
+[12.738s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[12.739s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_typesupport_fastrtps_cpp.so
+[12.739s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs
+[12.739s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv
+[12.747s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail
+[12.748s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__type_support.cpp
+[12.748s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__rosidl_typesupport_introspection_cpp.hpp
+[12.748s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__rosidl_typesupport_introspection_cpp.hpp
+[12.748s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/set_bool__type_support.cpp
+[12.749s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/trigger__type_support.cpp
+[12.750s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/include/std_srvs/std_srvs/srv/detail/empty__rosidl_typesupport_introspection_cpp.hpp
+[12.750s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_typesupport_introspection_cpp.so
+[12.750s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_typesupport_cpp.so
+[12.750s] -- Set runtime path of "/home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_typesupport_cpp.so" to ""
+[12.751s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/environment/pythonpath.sh
+[12.751s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/environment/pythonpath.dsv
+[12.751s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs-4.2.4-py3.10.egg-info
+[12.752s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs-4.2.4-py3.10.egg-info/dependency_links.txt
+[12.752s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs-4.2.4-py3.10.egg-info/PKG-INFO
+[12.752s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs-4.2.4-py3.10.egg-info/SOURCES.txt
+[12.752s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs-4.2.4-py3.10.egg-info/top_level.txt
+[12.752s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs
+[12.753s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/__init__.py
+[12.753s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/_std_srvs_s.ep.rosidl_typesupport_c.c
+[12.753s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv
+[12.753s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/__init__.py
+[12.754s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_trigger_s.c
+[12.754s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_set_bool_s.c
+[12.754s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_empty_s.c
+[12.754s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_trigger.py
+[12.754s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_empty.py
+[12.755s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_set_bool.py
+[12.755s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/_std_srvs_s.ep.rosidl_typesupport_introspection_c.c
+[12.755s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[12.756s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/libstd_srvs__rosidl_generator_py.so
+[12.756s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/_std_srvs_s.ep.rosidl_typesupport_fastrtps_c.c
+[12.756s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[12.756s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/_std_srvs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[12.757s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[12.757s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[12.757s] Listing '/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs'...
+[12.757s] Compiling '/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/__init__.py'...
+[12.757s] Listing '/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv'...
+[12.758s] Compiling '/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/__init__.py'...
+[12.758s] Compiling '/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_empty.py'...
+[12.758s] Compiling '/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_set_bool.py'...
+[12.758s] Compiling '/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/srv/_trigger.py'...
+[12.759s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[12.759s] -- Set runtime path of "/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[12.767s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[12.767s] -- Set runtime path of "/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[12.767s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[12.768s] -- Set runtime path of "/home/robot/app/robot_ws/install/std_srvs/local/lib/python3.10/dist-packages/std_srvs/std_srvs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[12.768s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_generator_py.so
+[12.768s] -- Set runtime path of "/home/robot/app/robot_ws/install/std_srvs/lib/libstd_srvs__rosidl_generator_py.so" to ""
+[12.768s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/Empty.idl
+[12.768s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/SetBool.idl
+[12.769s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/Trigger.idl
+[12.769s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/Empty.srv
+[12.769s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/Empty_Request.msg
+[12.769s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/Empty_Response.msg
+[12.769s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/SetBool.srv
+[12.770s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/SetBool_Request.msg
+[12.775s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/SetBool_Response.msg
+[12.775s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/Trigger.srv
+[12.775s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/Trigger_Request.msg
+[12.776s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/srv/Trigger_Response.msg
+[12.779s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/ament_index/resource_index/package_run_dependencies/std_srvs
+[12.780s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/ament_index/resource_index/parent_prefix_path/std_srvs
+[12.780s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/environment/ament_prefix_path.sh
+[12.780s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/environment/ament_prefix_path.dsv
+[12.780s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/environment/path.sh
+[12.781s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/environment/path.dsv
+[12.781s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/local_setup.bash
+[12.781s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/local_setup.sh
+[12.781s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/local_setup.zsh
+[12.781s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/local_setup.dsv
+[12.782s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/package.dsv
+[12.782s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/ament_index/resource_index/packages/std_srvs
+[12.782s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_generator_cExport.cmake
+[12.782s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_generator_cExport-noconfig.cmake
+[12.782s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_typesupport_fastrtps_cExport.cmake
+[12.783s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[12.783s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvs__rosidl_typesupport_introspection_cExport.cmake
+[12.783s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[12.783s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvs__rosidl_typesupport_cExport.cmake
+[12.783s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvs__rosidl_typesupport_cExport-noconfig.cmake
+[12.784s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_generator_cppExport.cmake
+[12.784s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_typesupport_fastrtps_cppExport.cmake
+[12.784s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[12.784s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvs__rosidl_typesupport_introspection_cppExport.cmake
+[12.785s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[12.785s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvs__rosidl_typesupport_cppExport.cmake
+[12.785s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvs__rosidl_typesupport_cppExport-noconfig.cmake
+[12.786s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_generator_pyExport.cmake
+[12.786s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/export_std_srvs__rosidl_generator_pyExport-noconfig.cmake
+[12.787s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/rosidl_cmake-extras.cmake
+[12.787s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/ament_cmake_export_include_directories-extras.cmake
+[12.787s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/ament_cmake_export_libraries-extras.cmake
+[12.787s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/ament_cmake_export_targets-extras.cmake
+[12.788s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[12.788s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/ament_cmake_export_dependencies-extras.cmake
+[12.788s] -- Installing: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[12.788s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvsConfig.cmake
+[12.789s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/cmake/std_srvsConfig-version.cmake
+[12.789s] -- Up-to-date: /home/robot/app/robot_ws/install/std_srvs/share/std_srvs/package.xml
+[12.790s] Invoked command in '/home/robot/app/robot_ws/build/std_srvs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/std_srvs

@@ -1,0 +1,1 @@
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/ping_uros_agent/ping_uros_agent

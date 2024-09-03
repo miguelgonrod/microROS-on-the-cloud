@@ -1,0 +1,39 @@
+[1.283s] Invoking command in '/home/robot/app/robot_ws/src/ros2/common_interfaces/sensor_msgs_py': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/build/sensor_msgs_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages:/home/robot/app/robot_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/sensor_msgs_py build --build-base /home/robot/app/robot_ws/build/sensor_msgs_py/build install --record /home/robot/app/robot_ws/build/sensor_msgs_py/install.log --single-version-externally-managed install_data
+[1.676s] running egg_info
+[1.677s] creating ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info
+[1.677s] writing ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/PKG-INFO
+[1.679s] writing dependency_links to ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/dependency_links.txt
+[1.679s] writing requirements to ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/requires.txt
+[1.680s] writing top-level names to ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/top_level.txt
+[1.680s] writing manifest file '../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[1.683s] reading manifest file '../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[1.683s] adding license file 'LICENSE'
+[1.685s] writing manifest file '../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[1.685s] running build
+[1.685s] running build_py
+[1.685s] creating /home/robot/app/robot_ws/build/sensor_msgs_py/build
+[1.685s] creating /home/robot/app/robot_ws/build/sensor_msgs_py/build/lib
+[1.685s] creating /home/robot/app/robot_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[1.686s] copying sensor_msgs_py/__init__.py -> /home/robot/app/robot_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[1.686s] copying sensor_msgs_py/numpy_compat.py -> /home/robot/app/robot_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[1.686s] copying sensor_msgs_py/point_cloud2.py -> /home/robot/app/robot_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[1.687s] running install
+[1.687s] running install_lib
+[1.690s] creating /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py
+[1.690s] copying /home/robot/app/robot_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/__init__.py -> /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py
+[1.690s] copying /home/robot/app/robot_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/numpy_compat.py -> /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py
+[1.690s] copying /home/robot/app/robot_ws/build/sensor_msgs_py/build/lib/sensor_msgs_py/point_cloud2.py -> /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py
+[1.691s] byte-compiling /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py/__init__.py to __init__.cpython-310.pyc
+[1.692s] byte-compiling /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py/numpy_compat.py to numpy_compat.cpython-310.pyc
+[1.693s] byte-compiling /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py/point_cloud2.py to point_cloud2.cpython-310.pyc
+[1.696s] running install_data
+[1.696s] creating /home/robot/app/robot_ws/install/sensor_msgs_py/share/ament_index
+[1.696s] creating /home/robot/app/robot_ws/install/sensor_msgs_py/share/ament_index/resource_index
+[1.696s] creating /home/robot/app/robot_ws/install/sensor_msgs_py/share/ament_index/resource_index/packages
+[1.696s] copying resource/sensor_msgs_py -> /home/robot/app/robot_ws/install/sensor_msgs_py/share/ament_index/resource_index/packages
+[1.697s] copying package.xml -> /home/robot/app/robot_ws/install/sensor_msgs_py/share/sensor_msgs_py
+[1.700s] running install_egg_info
+[1.703s] Copying ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info to /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py-4.2.4-py3.10.egg-info
+[1.704s] running install_scripts
+[1.748s] writing list of installed files to '/home/robot/app/robot_ws/build/sensor_msgs_py/install.log'
+[1.791s] Invoked command in '/home/robot/app/robot_ws/src/ros2/common_interfaces/sensor_msgs_py' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/build/sensor_msgs_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages:/home/robot/app/robot_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/sensor_msgs_py build --build-base /home/robot/app/robot_ws/build/sensor_msgs_py/build install --record /home/robot/app/robot_ws/build/sensor_msgs_py/install.log --single-version-externally-managed install_data

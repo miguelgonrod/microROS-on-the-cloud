@@ -1,0 +1,10 @@
+setup.py
+std_srvs/__init__.py
+std_srvs.egg-info/PKG-INFO
+std_srvs.egg-info/SOURCES.txt
+std_srvs.egg-info/dependency_links.txt
+std_srvs.egg-info/top_level.txt
+std_srvs/srv/__init__.py
+std_srvs/srv/_empty.py
+std_srvs/srv/_set_bool.py
+std_srvs/srv/_trigger.py

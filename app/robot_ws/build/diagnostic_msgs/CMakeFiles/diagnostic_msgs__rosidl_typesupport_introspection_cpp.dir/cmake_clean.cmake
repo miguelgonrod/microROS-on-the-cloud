@@ -1,0 +1,29 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_array__type_support.cpp.o"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_array__type_support.cpp.o.d"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_status__type_support.cpp.o"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_status__type_support.cpp.o.d"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/key_value__type_support.cpp.o"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/key_value__type_support.cpp.o.d"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/add_diagnostics__type_support.cpp.o"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/add_diagnostics__type_support.cpp.o.d"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/self_test__type_support.cpp.o"
+  "CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/self_test__type_support.cpp.o.d"
+  "libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.pdb"
+  "libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.so"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_array__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_array__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_status__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/diagnostic_status__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/key_value__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/detail/key_value__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/add_diagnostics__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/add_diagnostics__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/self_test__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/detail/self_test__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

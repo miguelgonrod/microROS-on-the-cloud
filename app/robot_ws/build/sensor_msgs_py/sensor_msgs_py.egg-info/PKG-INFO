@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: sensor-msgs-py
+Version: 4.2.4
+Summary: A package for easy creation and reading of PointCloud2 messages in Python.
+Home-page: UNKNOWN
+Author: Sebastian Grans
+Author-email: sebastian.grans@gmail.com
+Maintainer: Geoffrey Biggs, Tully Foote
+Maintainer-email: geoff@openrobotics.org, tfoote@openrobotics.org
+License: BSD
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

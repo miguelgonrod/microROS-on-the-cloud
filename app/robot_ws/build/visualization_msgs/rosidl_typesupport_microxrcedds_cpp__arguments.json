@@ -1,0 +1,43 @@
+{
+  "package_name": "visualization_msgs",
+  "output_dir": "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_typesupport_microxrcedds_cpp/visualization_msgs",
+  "template_dir": "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource",
+  "idl_tuples": [
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/ImageMarker.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarker.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerControl.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerFeedback.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerInit.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerPose.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerUpdate.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/Marker.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MarkerArray.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MenuEntry.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MeshFile.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/UVCoordinate.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:srv/GetInteractiveMarkers.idl"
+  ],
+  "target_dependencies": [
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib/rosidl_typesupport_microxrcedds_cpp/rosidl_typesupport_microxrcedds_cpp",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp/__init__.py",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/ImageMarker.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/InteractiveMarker.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/InteractiveMarkerControl.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/InteractiveMarkerFeedback.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/InteractiveMarkerInit.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/InteractiveMarkerPose.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/InteractiveMarkerUpdate.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/Marker.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/MarkerArray.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/MenuEntry.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/MeshFile.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/msg/UVCoordinate.idl",
+    "/home/robot/app/robot_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs/srv/GetInteractiveMarkers.idl"
+  ]
+}

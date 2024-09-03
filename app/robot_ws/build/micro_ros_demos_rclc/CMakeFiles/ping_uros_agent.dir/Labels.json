@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_uros_agent"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_uros_agent.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_uros_agent-complete.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-stamp/ping_uros_agent-build.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-stamp/ping_uros_agent-configure.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-stamp/ping_uros_agent-download.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-stamp/ping_uros_agent-install.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-stamp/ping_uros_agent-mkdir.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-stamp/ping_uros_agent-patch.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-stamp/ping_uros_agent-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ping_uros_agent"
+		],
+		"name" : "ping_uros_agent"
+	}
+}

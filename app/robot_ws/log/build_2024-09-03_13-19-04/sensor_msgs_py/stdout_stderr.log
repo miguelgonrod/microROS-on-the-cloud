@@ -1,0 +1,18 @@
+running egg_info
+writing ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/dependency_links.txt
+writing requirements to ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/requires.txt
+writing top-level names to ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/top_level.txt
+reading manifest file '../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py-4.2.4-py3.10.egg-info' (and everything under it)
+Copying ../../../../build/sensor_msgs_py/sensor_msgs_py.egg-info to /home/robot/app/robot_ws/install/sensor_msgs_py/lib/python3.10/site-packages/sensor_msgs_py-4.2.4-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/robot/app/robot_ws/build/sensor_msgs_py/install.log'

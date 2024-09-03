@@ -1,0 +1,33 @@
+{
+  "package_name": "action_msgs",
+  "output_dir": "/home/robot/app/robot_ws/build/action_msgs/rosidl_typesupport_fastrtps_c/action_msgs",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource",
+  "idl_tuples": [
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalInfo.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatus.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatusArray.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs:srv/CancelGoal.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_fastrtps_c/rosidl_typesupport_fastrtps_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_fastrtps_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/idl__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/idl__type_support_c.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/msg__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/msg__type_support_c.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/srv__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/srv__type_support_c.cpp.em",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalInfo.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalStatus.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalStatusArray.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs/srv/CancelGoal.idl",
+    "/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "/home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

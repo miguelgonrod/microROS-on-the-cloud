@@ -1,0 +1,10 @@
+setup.py
+statistics_msgs/__init__.py
+statistics_msgs.egg-info/PKG-INFO
+statistics_msgs.egg-info/SOURCES.txt
+statistics_msgs.egg-info/dependency_links.txt
+statistics_msgs.egg-info/top_level.txt
+statistics_msgs/msg/__init__.py
+statistics_msgs/msg/_metrics_message.py
+statistics_msgs/msg/_statistic_data_point.py
+statistics_msgs/msg/_statistic_data_type.py

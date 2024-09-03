@@ -1,0 +1,8 @@
+setup.py
+rosgraph_msgs/__init__.py
+rosgraph_msgs.egg-info/PKG-INFO
+rosgraph_msgs.egg-info/SOURCES.txt
+rosgraph_msgs.egg-info/dependency_links.txt
+rosgraph_msgs.egg-info/top_level.txt
+rosgraph_msgs/msg/__init__.py
+rosgraph_msgs/msg/_clock.py

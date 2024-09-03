@@ -1,0 +1,210 @@
+[0.017s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/micro_ros_setup
+[0.146s] -- The C compiler identification is GNU 11.4.0
+[0.365s] -- The CXX compiler identification is GNU 11.4.0
+[0.387s] -- Detecting C compiler ABI info
+[0.520s] -- Detecting C compiler ABI info - done
+[0.539s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.539s] -- Detecting C compile features
+[0.540s] -- Detecting C compile features - done
+[0.547s] -- Detecting CXX compiler ABI info
+[0.693s] -- Detecting CXX compiler ABI info - done
+[0.711s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.712s] -- Detecting CXX compile features
+[0.713s] -- Detecting CXX compile features - done
+[0.728s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.032s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.209s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.413s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.458s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.465s] -- Added test 'lint_cmake' to check CMake code style
+[1.468s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.493s] -- Added test 'xmllint' to check XML markup files
+[1.496s] -- Configuring done
+[1.501s] -- Generating done
+[1.503s] -- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_setup
+[1.509s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/micro_ros_setup
+[1.512s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/micro_ros_setup -- -j8 -l8
+[1.574s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/micro_ros_setup -- -j8 -l8
+[1.677s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/micro_ros_setup
+[1.706s] -- Install configuration: ""
+[1.709s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/ament_index/resource_index/package_run_dependencies/micro_ros_setup
+[1.711s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/ament_index/resource_index/parent_prefix_path/micro_ros_setup
+[1.712s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/environment/ament_prefix_path.sh
+[1.712s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/environment/ament_prefix_path.dsv
+[1.713s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/environment/path.sh
+[1.714s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/environment/path.dsv
+[1.715s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/local_setup.bash
+[1.716s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/local_setup.sh
+[1.716s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/local_setup.zsh
+[1.717s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/local_setup.dsv
+[1.717s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/package.dsv
+[1.718s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/ament_index/resource_index/packages/micro_ros_setup
+[1.719s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/cmake/micro_ros_setupConfig.cmake
+[1.719s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/cmake/micro_ros_setupConfig-version.cmake
+[1.720s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/share/micro_ros_setup/package.xml
+[1.721s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config
+[1.722s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra
+[1.723s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/dev_uros_packages.repos
+[1.723s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/dev_ros2_packages.txt
+[1.724s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/list_apps.sh
+[1.724s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5
+[1.724s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/create.sh
+[1.725s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/build.sh
+[1.725s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/configure.sh
+[1.726s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/client-colcon.meta
+[1.726s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/flash.sh
+[1.727s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/client_uros_packages.repos
+[1.728s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/renesas_ra/ra6m5/board.repos
+[1.729s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr
+[1.729s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/dev_uros_packages.repos
+[1.730s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/dev_ros2_packages.txt
+[1.730s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/list_apps.sh
+[1.731s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic
+[1.732s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/supported_platforms
+[1.732s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/package.xml
+[1.732s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/create.sh
+[1.733s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/build.sh
+[1.734s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/configure.sh
+[1.735s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/client-colcon.meta
+[1.735s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/flash.sh
+[1.736s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/client_uros_packages.repos
+[1.737s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/zephyr/generic/board.repos
+[1.737s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android
+[1.738s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/dev_uros_packages.repos
+[1.738s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/dev_ros2_packages.txt
+[1.739s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/generic
+[1.739s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/generic/package.xml
+[1.739s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/generic/create.sh
+[1.740s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/generic/build.sh
+[1.741s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/generic/client-colcon.meta
+[1.742s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/generic/flash.sh
+[1.743s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/android/generic/client_uros_packages.repos
+[1.745s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host
+[1.745s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/dev_uros_packages.repos
+[1.746s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/dev_ros2_packages.txt
+[1.747s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/generic
+[1.747s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/generic/package.xml
+[1.748s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/generic/create.sh
+[1.749s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/generic/client-host-colcon.meta
+[1.750s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/generic/build.sh
+[1.751s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/generic/flash.sh
+[1.752s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/generic/client_host_packages.repos
+[1.753s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/host/client_ros2_packages.txt
+[1.754s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos
+[1.755s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi
+[1.755s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/package.xml
+[1.756s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/create.sh
+[1.757s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/build.sh
+[1.758s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/configure.sh
+[1.759s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/client-colcon.meta
+[1.760s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/flash.sh
+[1.761s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/client_uros_packages.repos
+[1.762s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f767zi/board.repos
+[1.762s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg
+[1.763s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/package.xml
+[1.764s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/create.sh
+[1.765s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/build.sh
+[1.766s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/configure.sh
+[1.767s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/client-colcon.meta
+[1.768s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/flash.sh
+[1.769s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/client_uros_packages.repos
+[1.770s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f746zg/board.repos
+[1.771s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze
+[1.771s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/package.xml
+[1.772s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/create.sh
+[1.773s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/build.sh
+[1.774s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/configure.sh
+[1.775s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/client-colcon.meta
+[1.776s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/flash.sh
+[1.777s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/client_uros_packages.repos
+[1.778s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446ze/board.repos
+[1.778s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407
+[1.779s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/package.xml
+[1.780s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/create.sh
+[1.781s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/build.sh
+[1.782s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/configure.sh
+[1.783s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/client-colcon.meta
+[1.784s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/flash.sh
+[1.785s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/client_uros_packages.repos
+[1.785s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/olimex-stm32-e407/board.repos
+[1.786s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21
+[1.787s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21/package.xml
+[1.787s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21/create.sh
+[1.788s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21/build.sh
+[1.789s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21/configure.sh
+[1.791s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21/client-colcon.meta
+[1.792s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21/flash.sh
+[1.793s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21/client_uros_packages.repos
+[1.793s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/crazyflie21/board.repos
+[1.794s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/dev_uros_packages.repos
+[1.795s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/dev_ros2_packages.txt
+[1.796s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re
+[1.797s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/package.xml
+[1.798s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/create.sh
+[1.799s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/build.sh
+[1.800s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/configure.sh
+[1.801s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/client-colcon.meta
+[1.802s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/flash.sh
+[1.803s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/client_uros_packages.repos
+[1.804s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/nucleo_f446re/board.repos
+[1.804s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/list_apps.sh
+[1.805s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32
+[1.806s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/README.md
+[1.807s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/package.xml
+[1.807s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/create.sh
+[1.808s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/build.sh
+[1.809s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/configure.sh
+[1.810s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/client-colcon.meta
+[1.811s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/flash.sh
+[1.812s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/client_uros_packages.repos
+[1.812s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/freertos/esp32/board.repos
+[1.813s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib
+[1.814s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/dev_uros_packages.repos
+[1.815s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/dev_ros2_packages.txt
+[1.816s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/generic
+[1.816s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/generic/package.xml
+[1.817s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/generic/create.sh
+[1.818s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/generic/demo_toolchain.cmake
+[1.819s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/generic/build.sh
+[1.820s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/generic/client-colcon.meta
+[1.821s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/generic/flash.sh
+[1.822s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/generate_lib/generic/client_uros_packages.repos
+[1.823s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/utils.sh
+[1.823s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/agent_uros_packages.repos
+[1.824s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed
+[1.824s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/dev_uros_packages.repos
+[1.825s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/dev_ros2_packages.txt
+[1.825s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/list_apps.sh
+[1.826s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/generic
+[1.826s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/generic/supported_platforms
+[1.827s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/generic/package.xml
+[1.828s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/generic/create.sh
+[1.828s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/generic/build.sh
+[1.829s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/generic/flash.sh
+[1.830s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/generic/client_uros_packages.repos
+[1.830s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/mbed/generic/board.repos
+[1.831s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian
+[1.831s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/dev_uros_packages.repos
+[1.832s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/dev_ros2_packages.txt
+[1.833s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/generic
+[1.833s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/generic/supported_platforms
+[1.833s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/generic/create.sh
+[1.834s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/generic/build.sh
+[1.834s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/generic/configure.sh
+[1.835s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/generic/client-colcon.meta
+[1.835s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/generic/flash.sh
+[1.836s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/raspbian/generic/client_uros_packages.repos
+[1.836s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/client_uros_packages.repos
+[1.837s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/client_ros2_packages.txt
+[1.838s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/./config/agent_ros2_packages.txt
+[1.839s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/create_ws.sh
+[1.839s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/create_agent_ws.sh
+[1.840s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/create_firmware_ws.sh
+[1.840s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/configure_firmware.sh
+[1.840s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/flash_firmware.sh
+[1.841s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/build_firmware.sh
+[1.842s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/build_agent.sh
+[1.842s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/yaml_filter.py
+[1.843s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/clean_env.sh
+[1.843s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_setup/lib/micro_ros_setup/component
+[1.847s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/micro_ros_setup

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/configured_publisher"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/configured_publisher.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/configured_publisher-complete.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-stamp/configured_publisher-build.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-stamp/configured_publisher-configure.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-stamp/configured_publisher-download.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-stamp/configured_publisher-install.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-stamp/configured_publisher-mkdir.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-stamp/configured_publisher-patch.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-stamp/configured_publisher-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"configured_publisher"
+		],
+		"name" : "configured_publisher"
+	}
+}

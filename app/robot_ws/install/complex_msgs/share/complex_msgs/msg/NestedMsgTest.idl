@@ -1,0 +1,39 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from complex_msgs/msg/NestedMsgTest.msg
+// generated code does not contain a copyright notice
+
+#include "complex_msgs/msg/MultiStringTest.idl"
+
+module complex_msgs {
+  module msg {
+    struct NestedMsgTest {
+      boolean data1;
+
+      octet data2;
+
+      uint8 data3;
+
+      float data4;
+
+      double data5;
+
+      int8 data6;
+
+      uint8 data7;
+
+      int16 data8;
+
+      uint16 data9;
+
+      int32 data10;
+
+      uint32 data11;
+
+      int64 data12;
+
+      uint64 data13;
+
+      complex_msgs::msg::MultiStringTest data14;
+    };
+  };
+};

@@ -1,0 +1,20 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/common_interfaces
+-- Install configuration: ""
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/ament_index/resource_index/package_run_dependencies/common_interfaces
+-- Installing: /home/robot/app/robot_ws/install/common_interfaces/share/ament_index/resource_index/parent_prefix_path/common_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/environment/path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/local_setup.bash
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/local_setup.sh
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/package.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/ament_index/resource_index/packages/common_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/cmake/common_interfacesConfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/cmake/common_interfacesConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/install/common_interfaces/share/common_interfaces/package.xml

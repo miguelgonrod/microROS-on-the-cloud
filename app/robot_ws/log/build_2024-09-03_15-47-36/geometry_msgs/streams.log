@@ -1,0 +1,912 @@
+[0.040s] Invoking command in '/home/robot/app/robot_ws/build/geometry_msgs': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/geometry_msgs -- -j8 -l8
+[0.167s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.539s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.553s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.564s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.659s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.717s] -- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+[1.849s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.659s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.652s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.717s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.792s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.792s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.793s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.942s] -- Configuring done
+[4.294s] -- Generating done
+[4.305s] -- Build files have been written to: /home/robot/app/robot_ws/build/geometry_msgs
+[4.414s] [  0%] Built target geometry_msgs__cpp
+[4.531s] [  0%] Built target ament_cmake_python_copy_geometry_msgs
+[4.590s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_introspection_cpp[0m
+[4.675s] [  9%] Built target geometry_msgs__rosidl_typesupport_introspection_cpp
+[5.216s] running egg_info
+[5.217s] writing geometry_msgs.egg-info/PKG-INFO
+[5.218s] writing dependency_links to geometry_msgs.egg-info/dependency_links.txt
+[5.218s] writing top-level names to geometry_msgs.egg-info/top_level.txt
+[5.223s] reading manifest file 'geometry_msgs.egg-info/SOURCES.txt'
+[5.225s] writing manifest file 'geometry_msgs.egg-info/SOURCES.txt'
+[5.274s] [  9%] Built target ament_cmake_python_build_geometry_msgs_egg
+[5.319s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[5.398s] [ 18%] Built target geometry_msgs__rosidl_typesupport_fastrtps_cpp
+[5.436s] [ 18%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[9.733s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_microxrcedds_cpp[0m
+[9.847s] [ 19%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/accel__type_support_cpp.cpp.o[0m
+[9.848s] [ 19%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/accel_stamped__type_support_cpp.cpp.o[0m
+[10.591s] [ 19%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/inertia_stamped__type_support_cpp.cpp.o[0m
+[10.631s] [ 19%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/point__type_support_cpp.cpp.o[0m
+[11.473s] [ 20%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/point32__type_support_cpp.cpp.o[0m
+[11.495s] [ 20%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/point_stamped__type_support_cpp.cpp.o[0m
+[12.105s] [ 20%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/polygon__type_support_cpp.cpp.o[0m
+[12.144s] [ 20%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/polygon_stamped__type_support_cpp.cpp.o[0m
+[12.843s] [ 21%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/inertia__type_support_cpp.cpp.o[0m
+[12.843s] [ 22%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/pose__type_support_cpp.cpp.o[0m
+[12.920s] [ 22%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/pose2_d__type_support_cpp.cpp.o[0m
+[13.585s] [ 22%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/pose_array__type_support_cpp.cpp.o[0m
+[13.585s] [ 22%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/accel_with_covariance_stamped__type_support_cpp.cpp.o[0m
+[13.722s] [ 23%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/pose_stamped__type_support_cpp.cpp.o[0m
+[13.780s] [ 23%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/pose_with_covariance__type_support_cpp.cpp.o[0m
+[14.256s] [ 23%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/pose_with_covariance_stamped__type_support_cpp.cpp.o[0m
+[14.337s] [ 24%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/quaternion__type_support_cpp.cpp.o[0m
+[14.338s] [ 24%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/accel_with_covariance__type_support_cpp.cpp.o[0m
+[14.593s] [ 24%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/quaternion_stamped__type_support_cpp.cpp.o[0m
+[14.661s] [ 24%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/transform__type_support_cpp.cpp.o[0m
+[14.968s] [ 24%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/transform_stamped__type_support_cpp.cpp.o[0m
+[15.098s] [ 25%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/twist__type_support_cpp.cpp.o[0m
+[15.180s] [ 25%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/twist_stamped__type_support_cpp.cpp.o[0m
+[15.351s] [ 26%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/twist_with_covariance_stamped__type_support_cpp.cpp.o[0m
+[15.362s] [ 26%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/twist_with_covariance__type_support_cpp.cpp.o[0m
+[15.474s] [ 26%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/vector3__type_support_cpp.cpp.o[0m
+[15.840s] [ 26%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/vector3_stamped__type_support_cpp.cpp.o[0m
+[15.973s] [ 27%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/velocity_stamped__type_support_cpp.cpp.o[0m
+[16.143s] [ 27%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/wrench__type_support_cpp.cpp.o[0m
+[16.267s] [ 27%] [32mBuilding CXX object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/geometry_msgs/msg/detail/microxrcedds/wrench_stamped__type_support_cpp.cpp.o[0m
+[16.888s] [ 28%] [32m[1mLinking CXX shared library libgeometry_msgs__rosidl_typesupport_microxrcedds_cpp.so[0m
+[17.192s] [ 28%] Built target geometry_msgs__rosidl_typesupport_microxrcedds_cpp
+[17.236s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_generator_c[0m
+[17.239s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_cpp[0m
+[17.303s] [ 38%] Built target geometry_msgs__rosidl_generator_c
+[17.337s] [ 38%] [32m[1mLinking CXX shared library libgeometry_msgs__rosidl_typesupport_cpp.so[0m
+[17.343s] [ 39%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[17.360s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_fastrtps_c[0m
+[17.525s] [ 48%] Built target geometry_msgs__rosidl_typesupport_cpp
+[17.527s] [ 58%] Built target geometry_msgs__rosidl_typesupport_fastrtps_c
+[17.563s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_c[0m
+[17.583s] [ 58%] [32m[1mLinking CXX shared library libgeometry_msgs__rosidl_typesupport_c.so[0m
+[17.667s] [ 68%] Built target geometry_msgs__rosidl_typesupport_c
+[17.720s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_introspection_c[0m
+[17.768s] [ 78%] Built target geometry_msgs__rosidl_typesupport_introspection_c
+[21.347s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_microxrcedds_c[0m
+[21.397s] [ 78%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/accel__type_support_c.c.o[0m
+[21.397s] [ 78%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/accel_stamped__type_support_c.c.o[0m
+[21.519s] [ 78%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/point32__type_support_c.c.o[0m
+[21.522s] [ 78%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/point_stamped__type_support_c.c.o[0m
+[21.618s] [ 79%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/polygon__type_support_c.c.o[0m
+[21.618s] [ 79%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/polygon_stamped__type_support_c.c.o[0m
+[21.714s] [ 79%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/pose__type_support_c.c.o[0m
+[21.715s] [ 79%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/point__type_support_c.c.o[0m
+[21.808s] [ 79%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/pose_array__type_support_c.c.o[0m
+[21.821s] [ 79%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/pose_stamped__type_support_c.c.o[0m
+[21.934s] [ 80%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/pose_with_covariance__type_support_c.c.o[0m
+[21.945s] [ 80%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/pose_with_covariance_stamped__type_support_c.c.o[0m
+[22.050s] [ 80%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/quaternion__type_support_c.c.o[0m
+[22.065s] [ 81%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/quaternion_stamped__type_support_c.c.o[0m
+[22.158s] [ 81%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/transform__type_support_c.c.o[0m
+[22.180s] [ 81%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/transform_stamped__type_support_c.c.o[0m
+[22.252s] [ 81%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/twist__type_support_c.c.o[0m
+[22.283s] [ 82%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/twist_stamped__type_support_c.c.o[0m
+[22.366s] [ 83%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/twist_with_covariance__type_support_c.c.o[0m
+[22.367s] [ 83%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/pose2_d__type_support_c.c.o[0m
+[22.424s] [ 83%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/twist_with_covariance_stamped__type_support_c.c.o[0m
+[22.509s] [ 83%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/vector3_stamped__type_support_c.c.o[0m
+[22.515s] [ 84%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/vector3__type_support_c.c.o[0m
+[22.569s] [ 84%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/velocity_stamped__type_support_c.c.o[0m
+[22.655s] [ 85%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/wrench__type_support_c.c.o[0m
+[22.656s] [ 86%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/inertia_stamped__type_support_c.c.o[0m
+[22.748s] [ 86%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/wrench_stamped__type_support_c.c.o[0m
+[22.789s] [ 86%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/inertia__type_support_c.c.o[0m
+[22.804s] [ 86%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/accel_with_covariance_stamped__type_support_c.c.o[0m
+[22.895s] [ 87%] [32mBuilding C object CMakeFiles/geometry_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/geometry_msgs/msg/detail/microxrcedds/accel_with_covariance__type_support_c.c.o[0m
+[22.998s] [ 87%] [32m[1mLinking C shared library libgeometry_msgs__rosidl_typesupport_microxrcedds_c.so[0m
+[23.106s] [ 87%] Built target geometry_msgs__rosidl_typesupport_microxrcedds_c
+[23.162s] [ 87%] Built target geometry_msgs
+[23.220s] [ 87%] Built target geometry_msgs__py
+[23.264s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_generator_py[0m
+[23.355s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/geometry_msgs/libgeometry_msgs__rosidl_generator_py.so[0m
+[23.471s] [ 96%] Built target geometry_msgs__rosidl_generator_py
+[23.501s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_microxrcedds_c__pyext[0m
+[23.501s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[23.507s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[23.545s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/geometry_msgs/geometry_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[23.547s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/geometry_msgs/geometry_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[23.560s] [ 99%] [32m[1mLinking C shared library rosidl_generator_py/geometry_msgs/geometry_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[23.668s] [ 99%] Built target geometry_msgs__rosidl_typesupport_introspection_c__pyext
+[23.669s] [ 99%] Built target geometry_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[23.673s] [ 99%] Built target geometry_msgs__rosidl_typesupport_fastrtps_c__pyext
+[23.696s] [35m[1mConsolidate compiler generated dependencies of target geometry_msgs__rosidl_typesupport_c__pyext[0m
+[23.731s] [100%] [32m[1mLinking C shared library rosidl_generator_py/geometry_msgs/geometry_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[23.829s] [100%] Built target geometry_msgs__rosidl_typesupport_c__pyext
+[23.867s] Invoked command in '/home/robot/app/robot_ws/build/geometry_msgs' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/geometry_msgs -- -j8 -l8
+[27.605s] Invoking command in '/home/robot/app/robot_ws/build/geometry_msgs': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/geometry_msgs
+[27.648s] -- Install configuration: ""
+[27.649s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/ament_index/resource_index/rosidl_interfaces/geometry_msgs
+[27.649s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs
+[27.651s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg
+[27.652s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/accel_stamped.h
+[27.653s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/twist_stamped.h
+[27.653s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose2_d.h
+[27.654s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/quaternion.h
+[27.655s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/accel_with_covariance_stamped.h
+[27.656s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/polygon.h
+[27.657s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/twist_with_covariance_stamped.h
+[27.658s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/accel_with_covariance.h
+[27.659s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose_with_covariance.h
+[27.660s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/point.h
+[27.661s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/wrench.h
+[27.662s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/vector3_stamped.h
+[27.663s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/transform.h
+[27.664s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail
+[27.664s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__type_support.h
+[27.665s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__functions.h
+[27.666s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__type_support.h
+[27.667s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__struct.h
+[27.668s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__functions.h
+[27.669s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__functions.h
+[27.670s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__functions.c
+[27.671s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__functions.h
+[27.671s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__struct.h
+[27.672s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__functions.h
+[27.673s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__functions.h
+[27.674s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__type_support.h
+[27.675s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__type_support.h
+[27.675s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__struct.h
+[27.676s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__type_support.h
+[27.677s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__functions.c
+[27.677s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__struct.h
+[27.678s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__struct.h
+[27.679s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__functions.c
+[27.679s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__functions.c
+[27.680s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__struct.h
+[27.680s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__functions.h
+[27.681s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__struct.h
+[27.682s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__functions.h
+[27.682s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__type_support.h
+[27.683s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__functions.h
+[27.684s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__struct.h
+[27.684s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__functions.h
+[27.685s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__functions.c
+[27.685s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__functions.c
+[27.686s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__struct.h
+[27.687s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__functions.h
+[27.687s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__functions.h
+[27.688s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__struct.h
+[27.689s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__struct.h
+[27.689s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__functions.c
+[27.690s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__type_support.h
+[27.690s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__functions.h
+[27.691s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__functions.h
+[27.692s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__type_support.h
+[27.692s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__functions.c
+[27.693s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__type_support.h
+[27.693s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__functions.h
+[27.694s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__functions.h
+[27.695s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__functions.c
+[27.695s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__functions.c
+[27.696s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__functions.c
+[27.696s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__type_support.h
+[27.697s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__functions.c
+[27.698s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__struct.h
+[27.698s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__functions.h
+[27.699s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__functions.c
+[27.699s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__functions.h
+[27.700s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__functions.h
+[27.701s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__type_support.h
+[27.701s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__functions.c
+[27.702s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__struct.h
+[27.703s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__type_support.h
+[27.703s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__struct.h
+[27.704s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__type_support.h
+[27.704s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__functions.c
+[27.705s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__type_support.h
+[27.706s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__functions.h
+[27.706s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__functions.c
+[27.707s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__struct.h
+[27.707s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__functions.h
+[27.708s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__functions.c
+[27.709s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__functions.c
+[27.709s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__struct.h
+[27.710s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__functions.h
+[27.711s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__type_support.h
+[27.712s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__functions.c
+[27.713s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__functions.h
+[27.713s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__functions.c
+[27.714s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__struct.h
+[27.714s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__struct.h
+[27.715s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__functions.c
+[27.716s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__struct.h
+[27.717s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__struct.h
+[27.718s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__functions.c
+[27.718s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__struct.h
+[27.719s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__type_support.h
+[27.720s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__functions.c
+[27.721s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__functions.h
+[27.722s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__struct.h
+[27.723s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__type_support.h
+[27.725s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__functions.c
+[27.726s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__type_support.h
+[27.727s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__functions.c
+[27.728s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__functions.h
+[27.728s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__functions.h
+[27.729s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__functions.c
+[27.730s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__type_support.h
+[27.730s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__functions.c
+[27.731s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__functions.c
+[27.731s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__type_support.h
+[27.732s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__struct.h
+[27.732s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__type_support.h
+[27.733s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__functions.c
+[27.733s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__functions.h
+[27.734s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__functions.h
+[27.734s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__type_support.h
+[27.735s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__functions.c
+[27.736s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__struct.h
+[27.737s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__type_support.h
+[27.737s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__struct.h
+[27.738s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__struct.h
+[27.739s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__type_support.h
+[27.740s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__type_support.h
+[27.741s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__struct.h
+[27.742s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__functions.h
+[27.742s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__type_support.h
+[27.743s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__struct.h
+[27.744s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__type_support.h
+[27.744s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__struct.h
+[27.745s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__functions.h
+[27.746s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__type_support.h
+[27.747s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__type_support.h
+[27.747s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__struct.h
+[27.748s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__type_support.h
+[27.749s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose_stamped.h
+[27.749s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/transform_stamped.h
+[27.750s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/quaternion_stamped.h
+[27.752s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/inertia_stamped.h
+[27.754s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/twist.h
+[27.757s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose.h
+[27.758s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose_array.h
+[27.758s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/wrench_stamped.h
+[27.759s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/point32.h
+[27.760s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/twist_with_covariance.h
+[27.760s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/accel.h
+[27.761s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/vector3.h
+[27.761s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose_with_covariance_stamped.h
+[27.762s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/rosidl_generator_c__visibility_control.h
+[27.762s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/polygon_stamped.h
+[27.763s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/point_stamped.h
+[27.763s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/inertia.h
+[27.763s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/velocity_stamped.h
+[27.764s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/environment/library_path.sh
+[27.764s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/environment/library_path.dsv
+[27.765s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_generator_c.so
+[27.765s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs
+[27.766s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg
+[27.766s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail
+[27.767s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/point__rosidl_typesupport_microxrcedds_c.h
+[27.767s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/wrench_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.768s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/polygon_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.768s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose_array__rosidl_typesupport_microxrcedds_c.h
+[27.768s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/accel_with_covariance_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.769s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/point32__rosidl_typesupport_microxrcedds_c.h
+[27.769s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/inertia_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.770s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/vector3__rosidl_typesupport_microxrcedds_c.h
+[27.770s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/twist_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.771s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/accel__rosidl_typesupport_microxrcedds_c.h
+[27.771s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds
+[27.772s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.772s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose_with_covariance__rosidl_typesupport_microxrcedds_c.h
+[27.772s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/inertia__rosidl_typesupport_microxrcedds_c.h
+[27.773s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/polygon__rosidl_typesupport_microxrcedds_c.h
+[27.773s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose__rosidl_typesupport_microxrcedds_c.h
+[27.774s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/transform__rosidl_typesupport_microxrcedds_c.h
+[27.774s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/vector3_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.775s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/quaternion_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.775s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/wrench__rosidl_typesupport_microxrcedds_c.h
+[27.776s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/point_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.776s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose_with_covariance_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.777s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/accel_with_covariance__rosidl_typesupport_microxrcedds_c.h
+[27.777s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/twist_with_covariance_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.777s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/velocity_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.778s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/accel_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.778s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/twist_with_covariance__rosidl_typesupport_microxrcedds_c.h
+[27.779s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/quaternion__rosidl_typesupport_microxrcedds_c.h
+[27.779s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose2_d__rosidl_typesupport_microxrcedds_c.h
+[27.780s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/transform_stamped__rosidl_typesupport_microxrcedds_c.h
+[27.780s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/twist__rosidl_typesupport_microxrcedds_c.h
+[27.781s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[27.781s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_microxrcedds_c.so
+[27.781s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_microxrcedds_c.so" to ""
+[27.781s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs
+[27.782s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg
+[27.782s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail
+[27.782s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__rosidl_typesupport_fastrtps_c.h
+[27.782s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__rosidl_typesupport_fastrtps_c.h
+[27.782s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__rosidl_typesupport_fastrtps_c.h
+[27.782s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__rosidl_typesupport_fastrtps_c.h
+[27.783s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__rosidl_typesupport_fastrtps_c.h
+[27.783s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__rosidl_typesupport_fastrtps_c.h
+[27.783s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__rosidl_typesupport_fastrtps_c.h
+[27.783s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__rosidl_typesupport_fastrtps_c.h
+[27.783s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__rosidl_typesupport_fastrtps_c.h
+[27.783s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__rosidl_typesupport_fastrtps_c.h
+[27.784s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__rosidl_typesupport_fastrtps_c.h
+[27.784s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__rosidl_typesupport_fastrtps_c.h
+[27.784s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__rosidl_typesupport_fastrtps_c.h
+[27.784s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__rosidl_typesupport_fastrtps_c.h
+[27.784s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__rosidl_typesupport_fastrtps_c.h
+[27.784s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__rosidl_typesupport_fastrtps_c.h
+[27.784s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__rosidl_typesupport_fastrtps_c.h
+[27.785s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__rosidl_typesupport_fastrtps_c.h
+[27.785s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__rosidl_typesupport_fastrtps_c.h
+[27.785s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__rosidl_typesupport_fastrtps_c.h
+[27.785s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__rosidl_typesupport_fastrtps_c.h
+[27.785s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__rosidl_typesupport_fastrtps_c.h
+[27.785s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__rosidl_typesupport_fastrtps_c.h
+[27.786s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__rosidl_typesupport_fastrtps_c.h
+[27.786s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__rosidl_typesupport_fastrtps_c.h
+[27.786s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__rosidl_typesupport_fastrtps_c.h
+[27.786s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__rosidl_typesupport_fastrtps_c.h
+[27.786s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__rosidl_typesupport_fastrtps_c.h
+[27.786s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__rosidl_typesupport_fastrtps_c.h
+[27.787s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__rosidl_typesupport_fastrtps_c.h
+[27.787s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[27.787s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_fastrtps_c.so
+[27.787s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs
+[27.787s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg
+[27.787s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[27.788s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail
+[27.788s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__type_support.c
+[27.788s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__rosidl_typesupport_introspection_c.h
+[27.788s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__rosidl_typesupport_introspection_c.h
+[27.788s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__type_support.c
+[27.788s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__rosidl_typesupport_introspection_c.h
+[27.789s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__type_support.c
+[27.789s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__rosidl_typesupport_introspection_c.h
+[27.789s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__type_support.c
+[27.789s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__type_support.c
+[27.789s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__type_support.c
+[27.789s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__type_support.c
+[27.789s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__rosidl_typesupport_introspection_c.h
+[27.790s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__rosidl_typesupport_introspection_c.h
+[27.790s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__rosidl_typesupport_introspection_c.h
+[27.790s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__rosidl_typesupport_introspection_c.h
+[27.790s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__rosidl_typesupport_introspection_c.h
+[27.790s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__rosidl_typesupport_introspection_c.h
+[27.790s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__rosidl_typesupport_introspection_c.h
+[27.791s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__rosidl_typesupport_introspection_c.h
+[27.791s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__rosidl_typesupport_introspection_c.h
+[27.791s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__type_support.c
+[27.791s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__type_support.c
+[27.791s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__type_support.c
+[27.791s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__type_support.c
+[27.791s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__type_support.c
+[27.791s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__rosidl_typesupport_introspection_c.h
+[27.792s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__type_support.c
+[27.792s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__type_support.c
+[27.792s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__rosidl_typesupport_introspection_c.h
+[27.792s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__rosidl_typesupport_introspection_c.h
+[27.792s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__rosidl_typesupport_introspection_c.h
+[27.792s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__rosidl_typesupport_introspection_c.h
+[27.793s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__rosidl_typesupport_introspection_c.h
+[27.793s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__rosidl_typesupport_introspection_c.h
+[27.793s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__type_support.c
+[27.793s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__type_support.c
+[27.794s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__type_support.c
+[27.794s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__type_support.c
+[27.794s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__type_support.c
+[27.795s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__rosidl_typesupport_introspection_c.h
+[27.795s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__rosidl_typesupport_introspection_c.h
+[27.795s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__type_support.c
+[27.795s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__rosidl_typesupport_introspection_c.h
+[27.795s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__type_support.c
+[27.795s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__rosidl_typesupport_introspection_c.h
+[27.795s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__type_support.c
+[27.795s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__type_support.c
+[27.796s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__rosidl_typesupport_introspection_c.h
+[27.796s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__type_support.c
+[27.796s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__rosidl_typesupport_introspection_c.h
+[27.796s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__rosidl_typesupport_introspection_c.h
+[27.797s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__rosidl_typesupport_introspection_c.h
+[27.797s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__type_support.c
+[27.797s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__type_support.c
+[27.798s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__rosidl_typesupport_introspection_c.h
+[27.798s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__type_support.c
+[27.798s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__type_support.c
+[27.798s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__type_support.c
+[27.799s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__rosidl_typesupport_introspection_c.h
+[27.799s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__type_support.c
+[27.799s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_introspection_c.so
+[27.800s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_c.so
+[27.800s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_c.so" to ""
+[27.800s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs
+[27.800s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg
+[27.800s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/quaternion.hpp
+[27.800s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/twist_with_covariance.hpp
+[27.800s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/transform.hpp
+[27.801s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/polygon_stamped.hpp
+[27.801s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/point32.hpp
+[27.801s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/accel.hpp
+[27.801s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/wrench_stamped.hpp
+[27.801s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/point.hpp
+[27.801s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/inertia.hpp
+[27.801s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose_with_covariance.hpp
+[27.801s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose_stamped.hpp
+[27.802s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/quaternion_stamped.hpp
+[27.802s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose.hpp
+[27.802s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail
+[27.802s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__struct.hpp
+[27.802s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__traits.hpp
+[27.802s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__builder.hpp
+[27.802s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__struct.hpp
+[27.803s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__builder.hpp
+[27.803s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__traits.hpp
+[27.803s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__builder.hpp
+[27.803s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__traits.hpp
+[27.803s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__builder.hpp
+[27.803s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__struct.hpp
+[27.804s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__traits.hpp
+[27.804s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__struct.hpp
+[27.804s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__builder.hpp
+[27.804s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__traits.hpp
+[27.804s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__builder.hpp
+[27.804s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__struct.hpp
+[27.804s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__traits.hpp
+[27.805s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__traits.hpp
+[27.805s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__builder.hpp
+[27.805s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__struct.hpp
+[27.805s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__traits.hpp
+[27.805s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__traits.hpp
+[27.805s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__struct.hpp
+[27.805s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__struct.hpp
+[27.806s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__struct.hpp
+[27.806s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__struct.hpp
+[27.806s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__struct.hpp
+[27.806s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__builder.hpp
+[27.806s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__traits.hpp
+[27.806s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__struct.hpp
+[27.807s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__traits.hpp
+[27.807s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__traits.hpp
+[27.807s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__builder.hpp
+[27.807s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__builder.hpp
+[27.807s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__traits.hpp
+[27.807s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__traits.hpp
+[27.807s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__struct.hpp
+[27.808s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__traits.hpp
+[27.808s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__struct.hpp
+[27.808s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__struct.hpp
+[27.808s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__traits.hpp
+[27.808s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__traits.hpp
+[27.808s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__builder.hpp
+[27.809s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__traits.hpp
+[27.809s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__struct.hpp
+[27.809s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__builder.hpp
+[27.810s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__struct.hpp
+[27.810s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__traits.hpp
+[27.810s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__builder.hpp
+[27.811s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__builder.hpp
+[27.811s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__struct.hpp
+[27.811s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__struct.hpp
+[27.812s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__builder.hpp
+[27.812s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__struct.hpp
+[27.812s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__builder.hpp
+[27.812s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__traits.hpp
+[27.812s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__traits.hpp
+[27.813s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__traits.hpp
+[27.813s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__struct.hpp
+[27.813s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__struct.hpp
+[27.813s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__struct.hpp
+[27.813s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__builder.hpp
+[27.813s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__builder.hpp
+[27.813s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__builder.hpp
+[27.813s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__traits.hpp
+[27.814s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__struct.hpp
+[27.814s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__builder.hpp
+[27.814s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__builder.hpp
+[27.814s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__struct.hpp
+[27.814s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__builder.hpp
+[27.814s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__traits.hpp
+[27.814s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__struct.hpp
+[27.814s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__traits.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__builder.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__struct.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__struct.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__struct.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__builder.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__builder.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__traits.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__builder.hpp
+[27.815s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__traits.hpp
+[27.816s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__traits.hpp
+[27.816s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__struct.hpp
+[27.816s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__traits.hpp
+[27.816s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__builder.hpp
+[27.816s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__builder.hpp
+[27.816s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__traits.hpp
+[27.816s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__builder.hpp
+[27.816s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__builder.hpp
+[27.817s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/transform_stamped.hpp
+[27.817s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/point_stamped.hpp
+[27.817s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/polygon.hpp
+[27.817s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose_array.hpp
+[27.817s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/vector3_stamped.hpp
+[27.817s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/wrench.hpp
+[27.817s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/inertia_stamped.hpp
+[27.817s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/twist.hpp
+[27.818s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/twist_with_covariance_stamped.hpp
+[27.818s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose_with_covariance_stamped.hpp
+[27.818s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/accel_stamped.hpp
+[27.818s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/pose2_d.hpp
+[27.818s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/accel_with_covariance_stamped.hpp
+[27.818s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/accel_with_covariance.hpp
+[27.818s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/vector3.hpp
+[27.818s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/twist_stamped.hpp
+[27.819s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/velocity_stamped.hpp
+[27.819s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs
+[27.819s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg
+[27.819s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail
+[27.819s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose_with_covariance__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.819s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/transform_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.819s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/point_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.819s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/velocity_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.819s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/twist__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.820s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/polygon_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.820s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/inertia_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.820s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose_with_covariance_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.820s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/accel_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.820s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds
+[27.820s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/pose_with_covariance_stamped__type_support_cpp.cpp
+[27.820s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/point__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/wrench_stamped__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/transform_stamped__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/point_stamped__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/pose_array__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/twist_with_covariance_stamped__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/twist_with_covariance__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/transform__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/vector3__type_support_cpp.cpp
+[27.821s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/quaternion__type_support_cpp.cpp
+[27.822s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/polygon_stamped__type_support_cpp.cpp
+[27.822s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/accel_with_covariance__type_support_cpp.cpp
+[27.822s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/pose__type_support_cpp.cpp
+[27.822s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/velocity_stamped__type_support_cpp.cpp
+[27.822s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/accel_with_covariance_stamped__type_support_cpp.cpp
+[27.822s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/polygon__type_support_cpp.cpp
+[27.822s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/inertia_stamped__type_support_cpp.cpp
+[27.822s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/wrench__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/point32__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/pose_stamped__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/pose2_d__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/vector3_stamped__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/twist_stamped__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/accel_stamped__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/pose_with_covariance__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/inertia__type_support_cpp.cpp
+[27.823s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/accel__type_support_cpp.cpp
+[27.824s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/twist__type_support_cpp.cpp
+[27.824s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/microxrcedds/quaternion_stamped__type_support_cpp.cpp
+[27.824s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose_array__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.824s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/wrench_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.824s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/vector3_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.824s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/point32__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.824s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/polygon__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.825s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/accel__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.825s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose2_d__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.825s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/accel_with_covariance__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.825s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/transform__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.825s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/twist_with_covariance_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.825s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.825s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/quaternion_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.825s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/point__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.826s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/vector3__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.826s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/wrench__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.826s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/pose__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.826s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/inertia__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.826s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/accel_with_covariance_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.826s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/twist_stamped__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.827s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/twist_with_covariance__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.827s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/detail/quaternion__rosidl_typesupport_microxrcedds_cpp.hpp
+[27.827s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[27.827s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_microxrcedds_cpp.so
+[27.827s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_microxrcedds_cpp.so" to ""
+[27.827s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs
+[27.827s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg
+[27.828s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[27.828s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail
+[27.828s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__rosidl_typesupport_fastrtps_cpp.hpp
+[27.828s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__rosidl_typesupport_fastrtps_cpp.hpp
+[27.828s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__rosidl_typesupport_fastrtps_cpp.hpp
+[27.828s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__rosidl_typesupport_fastrtps_cpp.hpp
+[27.829s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.829s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__rosidl_typesupport_fastrtps_cpp.hpp
+[27.829s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__rosidl_typesupport_fastrtps_cpp.hpp
+[27.829s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.829s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.829s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__rosidl_typesupport_fastrtps_cpp.hpp
+[27.829s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/dds_fastrtps
+[27.829s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.830s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__rosidl_typesupport_fastrtps_cpp.hpp
+[27.830s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.830s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.830s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__rosidl_typesupport_fastrtps_cpp.hpp
+[27.830s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.830s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__rosidl_typesupport_fastrtps_cpp.hpp
+[27.830s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__rosidl_typesupport_fastrtps_cpp.hpp
+[27.830s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.831s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__rosidl_typesupport_fastrtps_cpp.hpp
+[27.831s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.831s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.831s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__rosidl_typesupport_fastrtps_cpp.hpp
+[27.831s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__rosidl_typesupport_fastrtps_cpp.hpp
+[27.831s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__rosidl_typesupport_fastrtps_cpp.hpp
+[27.831s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__rosidl_typesupport_fastrtps_cpp.hpp
+[27.831s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.832s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.832s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.832s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[27.832s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_fastrtps_cpp.so
+[27.832s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs
+[27.832s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg
+[27.832s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail
+[27.833s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__type_support.cpp
+[27.833s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.833s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__type_support.cpp
+[27.833s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__type_support.cpp
+[27.833s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/velocity_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.834s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.834s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.834s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion__rosidl_typesupport_introspection_cpp.hpp
+[27.834s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__rosidl_typesupport_introspection_cpp.hpp
+[27.835s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.835s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.835s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__type_support.cpp
+[27.835s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_stamped__type_support.cpp
+[27.835s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3__type_support.cpp
+[27.836s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__type_support.cpp
+[27.836s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/vector3_stamped__type_support.cpp
+[27.836s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.836s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__rosidl_typesupport_introspection_cpp.hpp
+[27.836s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__type_support.cpp
+[27.837s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__type_support.cpp
+[27.837s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.837s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__type_support.cpp
+[27.837s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.838s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.838s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.838s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__type_support.cpp
+[27.838s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_array__rosidl_typesupport_introspection_cpp.hpp
+[27.838s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance_stamped__type_support.cpp
+[27.839s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__rosidl_typesupport_introspection_cpp.hpp
+[27.839s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/quaternion_stamped__type_support.cpp
+[27.839s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_stamped__type_support.cpp
+[27.839s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__type_support.cpp
+[27.840s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__rosidl_typesupport_introspection_cpp.hpp
+[27.840s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_with_covariance__type_support.cpp
+[27.840s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__rosidl_typesupport_introspection_cpp.hpp
+[27.840s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__type_support.cpp
+[27.840s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.841s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__type_support.cpp
+[27.841s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__type_support.cpp
+[27.841s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__rosidl_typesupport_introspection_cpp.hpp
+[27.841s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform_stamped__type_support.cpp
+[27.842s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.842s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__type_support.cpp
+[27.842s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point__rosidl_typesupport_introspection_cpp.hpp
+[27.842s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon_stamped__type_support.cpp
+[27.842s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist__rosidl_typesupport_introspection_cpp.hpp
+[27.843s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/transform__rosidl_typesupport_introspection_cpp.hpp
+[27.843s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__rosidl_typesupport_introspection_cpp.hpp
+[27.843s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point_stamped__rosidl_typesupport_introspection_cpp.hpp
+[27.843s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/polygon__type_support.cpp
+[27.843s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/twist_stamped__type_support.cpp
+[27.844s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose_with_covariance__type_support.cpp
+[27.844s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose__rosidl_typesupport_introspection_cpp.hpp
+[27.844s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/pose2_d__rosidl_typesupport_introspection_cpp.hpp
+[27.844s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel__rosidl_typesupport_introspection_cpp.hpp
+[27.844s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/point32__type_support.cpp
+[27.845s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench__type_support.cpp
+[27.845s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/wrench_stamped__type_support.cpp
+[27.845s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/accel_with_covariance__rosidl_typesupport_introspection_cpp.hpp
+[27.845s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/include/geometry_msgs/geometry_msgs/msg/detail/inertia__type_support.cpp
+[27.846s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_introspection_cpp.so
+[27.846s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_cpp.so
+[27.846s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_typesupport_cpp.so" to ""
+[27.846s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/environment/pythonpath.sh
+[27.846s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/environment/pythonpath.dsv
+[27.847s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs-4.2.4-py3.10.egg-info
+[27.847s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs-4.2.4-py3.10.egg-info/dependency_links.txt
+[27.847s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs-4.2.4-py3.10.egg-info/PKG-INFO
+[27.847s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs-4.2.4-py3.10.egg-info/SOURCES.txt
+[27.848s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs-4.2.4-py3.10.egg-info/top_level.txt
+[27.848s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs
+[27.848s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/__init__.py
+[27.848s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/_geometry_msgs_s.ep.rosidl_typesupport_c.c
+[27.848s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[27.849s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[27.849s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[27.849s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[27.849s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/_geometry_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[27.850s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/libgeometry_msgs__rosidl_generator_py.so
+[27.850s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/_geometry_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[27.850s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/_geometry_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[27.850s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg
+[27.851s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_twist_with_covariance_stamped_s.c
+[27.851s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_with_covariance_stamped_s.c
+[27.851s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/__init__.py
+[27.851s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_accel_stamped_s.c
+[27.851s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_twist_stamped_s.c
+[27.852s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_stamped_s.c
+[27.852s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_polygon_stamped_s.c
+[27.852s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_twist_with_covariance.py
+[27.852s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_wrench_stamped_s.c
+[27.853s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_quaternion_stamped.py
+[27.853s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_stamped.py
+[27.853s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_wrench_s.c
+[27.853s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_twist.py
+[27.854s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_point.py
+[27.854s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_quaternion.py
+[27.854s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_accel_with_covariance_stamped.py
+[27.854s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose.py
+[27.854s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_twist_with_covariance_stamped.py
+[27.855s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_inertia.py
+[27.855s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_array_s.c
+[27.855s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_with_covariance_stamped.py
+[27.855s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_inertia_stamped.py
+[27.856s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_array.py
+[27.856s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_twist_s.c
+[27.856s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_s.c
+[27.856s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_transform_stamped_s.c
+[27.857s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_wrench.py
+[27.857s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose2_d.py
+[27.857s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_with_covariance_s.c
+[27.857s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_velocity_stamped_s.c
+[27.857s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_vector3_s.c
+[27.858s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_twist_stamped.py
+[27.858s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_quaternion_s.c
+[27.858s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_accel.py
+[27.858s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_vector3.py
+[27.859s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_wrench_stamped.py
+[27.859s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_polygon_s.c
+[27.859s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose_with_covariance.py
+[27.859s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_transform.py
+[27.859s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_velocity_stamped.py
+[27.860s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_polygon_stamped.py
+[27.860s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_accel_with_covariance_s.c
+[27.860s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_pose2_d_s.c
+[27.860s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_point_s.c
+[27.861s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_inertia_s.c
+[27.861s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_point_stamped_s.c
+[27.861s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_accel_stamped.py
+[27.861s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_polygon.py
+[27.861s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_accel_with_covariance.py
+[27.862s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_vector3_stamped_s.c
+[27.862s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_vector3_stamped.py
+[27.862s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_inertia_stamped_s.c
+[27.862s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_quaternion_stamped_s.c
+[27.862s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_point_stamped.py
+[27.862s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_accel_with_covariance_stamped_s.c
+[27.862s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_point32_s.c
+[27.863s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_point32.py
+[27.863s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_twist_with_covariance_s.c
+[27.863s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_accel_s.c
+[27.863s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_transform_stamped.py
+[27.863s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg/_transform_s.c
+[27.903s] Listing '/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs'...
+[27.903s] Compiling '/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/__init__.py'...
+[27.903s] Listing '/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/msg'...
+[27.912s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[27.913s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so" to ""
+[27.913s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[27.914s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[27.914s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[27.915s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[27.916s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[27.917s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages/geometry_msgs/geometry_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[27.917s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_generator_py.so
+[27.919s] -- Set runtime path of "/home/robot/app/robot_ws/install/geometry_msgs/lib/libgeometry_msgs__rosidl_generator_py.so" to ""
+[27.919s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Accel.idl
+[27.919s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/AccelStamped.idl
+[27.920s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/AccelWithCovariance.idl
+[27.920s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/AccelWithCovarianceStamped.idl
+[27.920s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Inertia.idl
+[27.920s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/InertiaStamped.idl
+[27.920s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Point.idl
+[27.921s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Point32.idl
+[27.921s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PointStamped.idl
+[27.921s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Polygon.idl
+[27.921s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PolygonStamped.idl
+[27.921s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Pose.idl
+[27.922s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Pose2D.idl
+[27.922s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PoseArray.idl
+[27.922s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PoseStamped.idl
+[27.922s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PoseWithCovariance.idl
+[27.923s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PoseWithCovarianceStamped.idl
+[27.923s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Quaternion.idl
+[27.923s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/QuaternionStamped.idl
+[27.923s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Transform.idl
+[27.923s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/TransformStamped.idl
+[27.923s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Twist.idl
+[27.924s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/TwistStamped.idl
+[27.924s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/TwistWithCovariance.idl
+[27.924s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/TwistWithCovarianceStamped.idl
+[27.925s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Vector3.idl
+[27.925s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Vector3Stamped.idl
+[27.925s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/VelocityStamped.idl
+[27.925s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Wrench.idl
+[27.925s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/WrenchStamped.idl
+[27.926s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Accel.msg
+[27.926s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/AccelStamped.msg
+[27.926s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/AccelWithCovariance.msg
+[27.926s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/AccelWithCovarianceStamped.msg
+[27.927s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Inertia.msg
+[27.927s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/InertiaStamped.msg
+[27.928s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Point.msg
+[27.928s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Point32.msg
+[27.929s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PointStamped.msg
+[27.929s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Polygon.msg
+[27.930s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PolygonStamped.msg
+[27.930s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Pose.msg
+[27.930s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Pose2D.msg
+[27.931s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PoseArray.msg
+[27.931s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PoseStamped.msg
+[27.931s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PoseWithCovariance.msg
+[27.932s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/PoseWithCovarianceStamped.msg
+[27.932s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Quaternion.msg
+[27.933s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/QuaternionStamped.msg
+[27.933s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Transform.msg
+[27.933s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/TransformStamped.msg
+[27.934s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Twist.msg
+[27.934s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/TwistStamped.msg
+[27.935s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/TwistWithCovariance.msg
+[27.935s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/TwistWithCovarianceStamped.msg
+[27.935s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Vector3.msg
+[27.936s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Vector3Stamped.msg
+[27.936s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/VelocityStamped.msg
+[27.936s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/Wrench.msg
+[27.937s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/msg/WrenchStamped.msg
+[27.937s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/ament_index/resource_index/package_run_dependencies/geometry_msgs
+[27.937s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/ament_index/resource_index/parent_prefix_path/geometry_msgs
+[27.938s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/environment/ament_prefix_path.sh
+[27.939s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/environment/ament_prefix_path.dsv
+[27.939s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/environment/path.sh
+[27.939s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/environment/path.dsv
+[27.940s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/local_setup.bash
+[27.940s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/local_setup.sh
+[27.940s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/local_setup.zsh
+[27.940s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/local_setup.dsv
+[27.941s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/package.dsv
+[27.942s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/ament_index/resource_index/packages/geometry_msgs
+[27.942s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_generator_cExport.cmake
+[27.942s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_generator_cExport-noconfig.cmake
+[27.943s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[27.944s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[27.944s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgs__rosidl_typesupport_introspection_cExport.cmake
+[27.944s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[27.944s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgs__rosidl_typesupport_cExport.cmake
+[27.944s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[27.945s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_generator_cppExport.cmake
+[27.945s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[27.946s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[27.946s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[27.946s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[27.947s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgs__rosidl_typesupport_cppExport.cmake
+[27.947s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[27.948s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_generator_pyExport.cmake
+[27.948s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/export_geometry_msgs__rosidl_generator_pyExport-noconfig.cmake
+[27.948s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/rosidl_cmake-extras.cmake
+[27.948s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[27.948s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[27.948s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[27.949s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[27.949s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[27.949s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[27.950s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgsConfig.cmake
+[27.950s] -- Up-to-date: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake
+[27.950s] -- Installing: /home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/package.xml
+[27.956s] Invoked command in '/home/robot/app/robot_ws/build/geometry_msgs' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/geometry_msgs

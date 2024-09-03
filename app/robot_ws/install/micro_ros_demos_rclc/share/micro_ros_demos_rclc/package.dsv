@@ -1,0 +1,8 @@
+source;share/micro_ros_demos_rclc/hook/cmake_prefix_path.ps1
+source;share/micro_ros_demos_rclc/hook/cmake_prefix_path.dsv
+source;share/micro_ros_demos_rclc/hook/cmake_prefix_path.sh
+source;share/micro_ros_demos_rclc/local_setup.bash
+source;share/micro_ros_demos_rclc/local_setup.dsv
+source;share/micro_ros_demos_rclc/local_setup.ps1
+source;share/micro_ros_demos_rclc/local_setup.sh
+source;share/micro_ros_demos_rclc/local_setup.zsh

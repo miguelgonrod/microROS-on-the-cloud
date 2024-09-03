@@ -1,0 +1,12 @@
+setup.py
+action_msgs/__init__.py
+action_msgs.egg-info/PKG-INFO
+action_msgs.egg-info/SOURCES.txt
+action_msgs.egg-info/dependency_links.txt
+action_msgs.egg-info/top_level.txt
+action_msgs/msg/__init__.py
+action_msgs/msg/_goal_info.py
+action_msgs/msg/_goal_status.py
+action_msgs/msg/_goal_status_array.py
+action_msgs/srv/__init__.py
+action_msgs/srv/_cancel_goal.py

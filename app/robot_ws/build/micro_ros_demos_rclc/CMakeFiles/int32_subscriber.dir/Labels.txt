@@ -1,0 +1,13 @@
+# Target labels
+ int32_subscriber
+# Source files and their labels
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber-complete.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-build.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-configure.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-download.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-install.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-mkdir.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-patch.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-update.rule

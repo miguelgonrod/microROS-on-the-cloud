@@ -1,0 +1,11 @@
+setup.py
+shape_msgs/__init__.py
+shape_msgs.egg-info/PKG-INFO
+shape_msgs.egg-info/SOURCES.txt
+shape_msgs.egg-info/dependency_links.txt
+shape_msgs.egg-info/top_level.txt
+shape_msgs/msg/__init__.py
+shape_msgs/msg/_mesh.py
+shape_msgs/msg/_mesh_triangle.py
+shape_msgs/msg/_plane.py
+shape_msgs/msg/_solid_primitive.py

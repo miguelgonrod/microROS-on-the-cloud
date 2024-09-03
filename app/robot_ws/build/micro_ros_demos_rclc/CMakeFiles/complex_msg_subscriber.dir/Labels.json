@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/complex_msg_subscriber"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/complex_msg_subscriber.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/complex_msg_subscriber-complete.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-stamp/complex_msg_subscriber-build.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-stamp/complex_msg_subscriber-configure.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-stamp/complex_msg_subscriber-download.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-stamp/complex_msg_subscriber-install.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-stamp/complex_msg_subscriber-mkdir.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-stamp/complex_msg_subscriber-patch.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-stamp/complex_msg_subscriber-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"complex_msg_subscriber"
+		],
+		"name" : "complex_msg_subscriber"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ ping_pong
+# Source files and their labels
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_pong
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_pong.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/ping_pong-complete.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-build.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-configure.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-download.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-install.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-mkdir.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-patch.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-stamp/ping_pong-update.rule

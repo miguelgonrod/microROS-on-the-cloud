@@ -1,0 +1,38 @@
+{
+  "package_name": "action_msgs",
+  "output_dir": "/home/robot/app/robot_ws/build/action_msgs/rosidl_generator_py/action_msgs",
+  "template_dir": "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalInfo.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatus.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatusArray.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs:srv/CancelGoal.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_py/__init__.py",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_py/generate_py_impl.py",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalInfo.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalStatus.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalStatusArray.idl",
+    "/home/robot/app/robot_ws/build/action_msgs/rosidl_adapter/action_msgs/srv/CancelGoal.idl",
+    "/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "/home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

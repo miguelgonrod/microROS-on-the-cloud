@@ -1,0 +1,9 @@
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/GridCells.idl
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/MapMetaData.idl
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/OccupancyGrid.idl
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Odometry.idl
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Path.idl
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetMap.idl
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetPlan.idl
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/LoadMap.idl
+/home/robot/app/robot_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/SetMap.idl

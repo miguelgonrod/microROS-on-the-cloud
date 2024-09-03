@@ -1,0 +1,12 @@
+from visualization_msgs.msg._image_marker import ImageMarker  # noqa: F401
+from visualization_msgs.msg._interactive_marker import InteractiveMarker  # noqa: F401
+from visualization_msgs.msg._interactive_marker_control import InteractiveMarkerControl  # noqa: F401
+from visualization_msgs.msg._interactive_marker_feedback import InteractiveMarkerFeedback  # noqa: F401
+from visualization_msgs.msg._interactive_marker_init import InteractiveMarkerInit  # noqa: F401
+from visualization_msgs.msg._interactive_marker_pose import InteractiveMarkerPose  # noqa: F401
+from visualization_msgs.msg._interactive_marker_update import InteractiveMarkerUpdate  # noqa: F401
+from visualization_msgs.msg._marker import Marker  # noqa: F401
+from visualization_msgs.msg._marker_array import MarkerArray  # noqa: F401
+from visualization_msgs.msg._menu_entry import MenuEntry  # noqa: F401
+from visualization_msgs.msg._mesh_file import MeshFile  # noqa: F401
+from visualization_msgs.msg._uv_coordinate import UVCoordinate  # noqa: F401

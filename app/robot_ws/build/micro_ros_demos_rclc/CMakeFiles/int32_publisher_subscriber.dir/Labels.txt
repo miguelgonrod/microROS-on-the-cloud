@@ -1,0 +1,13 @@
+# Target labels
+ int32_publisher_subscriber
+# Source files and their labels
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_publisher_subscriber
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_publisher_subscriber.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_publisher_subscriber-complete.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-stamp/int32_publisher_subscriber-build.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-stamp/int32_publisher_subscriber-configure.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-stamp/int32_publisher_subscriber-download.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-stamp/int32_publisher_subscriber-install.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-stamp/int32_publisher_subscriber-mkdir.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-stamp/int32_publisher_subscriber-patch.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-stamp/int32_publisher_subscriber-update.rule

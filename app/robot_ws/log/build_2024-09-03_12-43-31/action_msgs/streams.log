@@ -1,0 +1,382 @@
+[0.062s] Invoking command in '/home/robot/app/robot_ws/build/action_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/rcl_interfaces/action_msgs -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/action_msgs
+[0.269s] -- The C compiler identification is GNU 11.4.0
+[0.492s] -- The CXX compiler identification is GNU 11.4.0
+[0.518s] -- Detecting C compiler ABI info
+[0.719s] -- Detecting C compiler ABI info - done
+[0.746s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.746s] -- Detecting C compile features
+[0.748s] -- Detecting C compile features - done
+[0.758s] -- Detecting CXX compiler ABI info
+[1.067s] -- Detecting CXX compiler ABI info - done
+[1.084s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.087s] -- Detecting CXX compile features
+[1.088s] -- Detecting CXX compile features - done
+[1.099s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.594s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.933s] -- Found builtin_interfaces: 1.2.1 (/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake)
+[2.068s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.089s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.131s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.177s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.262s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.341s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.386s] -- Found unique_identifier_msgs: 2.2.1 (/home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake)
+[3.405s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[4.600s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.212s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.277s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[5.298s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[5.382s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[5.383s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.383s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[5.384s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.463s] -- Found PythonExtra: .so  
+[5.710s] -- Configuring done
+[5.892s] -- Generating done
+[5.908s] -- Build files have been written to: /home/robot/app/robot_ws/build/action_msgs
+[5.942s] Invoked command in '/home/robot/app/robot_ws/build/action_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/rcl_interfaces/action_msgs -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/action_msgs
+[5.950s] Invoking command in '/home/robot/app/robot_ws/build/action_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/robot/app/robot_ws/build/action_msgs -- -j8 -l8
+[6.279s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[9.248s] [  1%] Built target action_msgs__cpp
+[9.336s] [  1%] Built target ament_cmake_python_copy_action_msgs
+[9.364s] [  2%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[11.628s] [  4%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/action_msgs/msg/detail/goal_info__type_support.cpp.o[0m
+[12.777s] [  5%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/action_msgs/msg/detail/goal_status_array__type_support.cpp.o[0m
+[14.133s] [  7%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/action_msgs/srv/detail/cancel_goal__type_support.cpp.o[0m
+[15.301s] [  8%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/action_msgs/msg/detail/goal_status__type_support.cpp.o[0m
+[16.489s] [ 10%] [32m[1mLinking CXX shared library libaction_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[16.710s] [ 10%] Built target action_msgs__rosidl_typesupport_introspection_cpp
+[17.388s] running egg_info
+[17.391s] creating action_msgs.egg-info
+[17.395s] writing action_msgs.egg-info/PKG-INFO
+[17.397s] writing dependency_links to action_msgs.egg-info/dependency_links.txt
+[17.397s] writing top-level names to action_msgs.egg-info/top_level.txt
+[17.398s] writing manifest file 'action_msgs.egg-info/SOURCES.txt'
+[17.410s] reading manifest file 'action_msgs.egg-info/SOURCES.txt'
+[17.413s] writing manifest file 'action_msgs.egg-info/SOURCES.txt'
+[17.485s] [ 10%] Built target ament_cmake_python_build_action_msgs_egg
+[17.527s] [ 11%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[19.637s] [ 13%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/action_msgs/msg/detail/microxrcedds/goal_info__type_support_cpp.cpp.o[0m
+[20.553s] [ 14%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/action_msgs/srv/detail/microxrcedds/cancel_goal__type_support_cpp.cpp.o[0m
+[21.599s] [ 15%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/action_msgs/msg/detail/microxrcedds/goal_status_array__type_support_cpp.cpp.o[0m
+[22.621s] [ 17%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/action_msgs/msg/detail/microxrcedds/goal_status__type_support_cpp.cpp.o[0m
+[23.529s] [ 18%] [32m[1mLinking CXX shared library libaction_msgs__rosidl_typesupport_microxrcedds_cpp.so[0m
+[23.770s] [ 18%] Built target action_msgs__rosidl_typesupport_microxrcedds_cpp
+[23.799s] [ 20%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[26.301s] [ 21%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/action_msgs/msg/detail/dds_fastrtps/goal_info__type_support.cpp.o[0m
+[27.676s] [ 23%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/action_msgs/srv/detail/dds_fastrtps/cancel_goal__type_support.cpp.o[0m
+[29.193s] [ 24%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/action_msgs/msg/detail/dds_fastrtps/goal_status_array__type_support.cpp.o[0m
+[30.780s] [ 26%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/action_msgs/msg/detail/dds_fastrtps/goal_status__type_support.cpp.o[0m
+[32.081s] [ 27%] [32m[1mLinking CXX shared library libaction_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[32.316s] [ 27%] Built target action_msgs__rosidl_typesupport_fastrtps_cpp
+[32.344s] [ 28%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[34.252s] [ 30%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/action_msgs/msg/goal_info__type_support.cpp.o[0m
+[35.054s] [ 31%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/action_msgs/srv/cancel_goal__type_support.cpp.o[0m
+[35.929s] [ 33%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/action_msgs/msg/goal_status_array__type_support.cpp.o[0m
+[36.924s] [ 34%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/action_msgs/msg/goal_status__type_support.cpp.o[0m
+[37.910s] [ 36%] [32m[1mLinking CXX shared library libaction_msgs__rosidl_typesupport_cpp.so[0m
+[38.046s] [ 36%] Built target action_msgs__rosidl_typesupport_cpp
+[38.067s] [ 37%] [34m[1mGenerating C code for ROS interfaces[0m
+[41.175s] [ 39%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_generator_c.dir/rosidl_generator_c/action_msgs/msg/detail/goal_info__functions.c.o[0m
+[41.354s] [ 40%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_generator_c.dir/rosidl_generator_c/action_msgs/srv/detail/cancel_goal__functions.c.o[0m
+[41.563s] [ 42%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_generator_c.dir/rosidl_generator_c/action_msgs/msg/detail/goal_status_array__functions.c.o[0m
+[41.727s] [ 43%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_generator_c.dir/rosidl_generator_c/action_msgs/msg/detail/goal_status__functions.c.o[0m
+[41.872s] [ 44%] [32m[1mLinking C shared library libaction_msgs__rosidl_generator_c.so[0m
+[42.038s] [ 44%] Built target action_msgs__rosidl_generator_c
+[42.073s] [ 46%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[43.765s] [ 47%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/action_msgs/msg/detail/goal_info__type_support_c.cpp.o[0m
+[44.780s] [ 49%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/action_msgs/srv/detail/cancel_goal__type_support_c.cpp.o[0m
+[45.779s] [ 50%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/action_msgs/msg/detail/goal_status_array__type_support_c.cpp.o[0m
+[46.680s] [ 52%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/action_msgs/msg/detail/goal_status__type_support_c.cpp.o[0m
+[47.669s] [ 53%] [32m[1mLinking CXX shared library libaction_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[47.894s] [ 53%] Built target action_msgs__rosidl_typesupport_fastrtps_c
+[47.931s] [ 55%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[49.674s] [ 56%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/action_msgs/msg/goal_info__type_support.cpp.o[0m
+[49.755s] [ 57%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/action_msgs/srv/cancel_goal__type_support.cpp.o[0m
+[49.849s] [ 59%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/action_msgs/msg/goal_status_array__type_support.cpp.o[0m
+[49.932s] [ 60%] [32mBuilding CXX object CMakeFiles/action_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/action_msgs/msg/goal_status__type_support.cpp.o[0m
+[50.020s] [ 62%] [32m[1mLinking CXX shared library libaction_msgs__rosidl_typesupport_c.so[0m
+[50.146s] [ 62%] Built target action_msgs__rosidl_typesupport_c
+[50.172s] [ 63%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[51.528s] [ 65%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/action_msgs/msg/detail/goal_info__type_support.c.o[0m
+[51.589s] [ 66%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/action_msgs/srv/detail/cancel_goal__type_support.c.o[0m
+[51.658s] [ 68%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/action_msgs/msg/detail/goal_status_array__type_support.c.o[0m
+[51.724s] [ 69%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/action_msgs/msg/detail/goal_status__type_support.c.o[0m
+[51.783s] [ 71%] [32m[1mLinking C shared library libaction_msgs__rosidl_typesupport_introspection_c.so[0m
+[51.837s] [ 71%] Built target action_msgs__rosidl_typesupport_introspection_c
+[51.855s] [ 72%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[53.668s] [ 73%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/action_msgs/msg/detail/microxrcedds/goal_info__type_support_c.c.o[0m
+[53.765s] [ 75%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/action_msgs/srv/detail/microxrcedds/cancel_goal__type_support_c.c.o[0m
+[53.864s] [ 76%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/action_msgs/msg/detail/microxrcedds/goal_status_array__type_support_c.c.o[0m
+[53.948s] [ 78%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/action_msgs/msg/detail/microxrcedds/goal_status__type_support_c.c.o[0m
+[54.039s] [ 79%] [32m[1mLinking C shared library libaction_msgs__rosidl_typesupport_microxrcedds_c.so[0m
+[54.155s] [ 79%] Built target action_msgs__rosidl_typesupport_microxrcedds_c
+[54.209s] [ 79%] Built target action_msgs
+[54.265s] [ 81%] [34m[1mGenerating Python code for ROS interfaces[0m
+[56.943s] [ 81%] Built target action_msgs__py
+[56.995s] [ 82%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_generator_py.dir/rosidl_generator_py/action_msgs/msg/_goal_info_s.c.o[0m
+[57.229s] [ 84%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_generator_py.dir/rosidl_generator_py/action_msgs/srv/_cancel_goal_s.c.o[0m
+[57.577s] [ 85%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_generator_py.dir/rosidl_generator_py/action_msgs/msg/_goal_status_array_s.c.o[0m
+[57.786s] [ 86%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_generator_py.dir/rosidl_generator_py/action_msgs/msg/_goal_status_s.c.o[0m
+[57.997s] [ 88%] [32m[1mLinking C shared library rosidl_generator_py/action_msgs/libaction_msgs__rosidl_generator_py.so[0m
+[58.077s] [ 88%] Built target action_msgs__rosidl_generator_py
+[58.127s] [ 89%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_microxrcedds_c__pyext.dir/rosidl_generator_py/action_msgs/_action_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c.o[0m
+[58.385s] [ 91%] [32m[1mLinking C shared library rosidl_generator_py/action_msgs/action_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[58.464s] [ 91%] Built target action_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[58.501s] [ 92%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/action_msgs/_action_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[58.719s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/action_msgs/action_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[58.797s] [ 94%] Built target action_msgs__rosidl_typesupport_c__pyext
+[58.840s] [ 95%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/action_msgs/_action_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[59.083s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/action_msgs/action_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[59.166s] [ 97%] Built target action_msgs__rosidl_typesupport_introspection_c__pyext
+[59.209s] [ 98%] [32mBuilding C object CMakeFiles/action_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/action_msgs/_action_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[59.463s] [100%] [32m[1mLinking C shared library rosidl_generator_py/action_msgs/action_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[59.536s] [100%] Built target action_msgs__rosidl_typesupport_fastrtps_c__pyext
+[59.558s] Invoked command in '/home/robot/app/robot_ws/build/action_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/robot/app/robot_ws/build/action_msgs -- -j8 -l8
+[59.804s] Invoking command in '/home/robot/app/robot_ws/build/action_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/robot/app/robot_ws/build/action_msgs
+[59.818s] -- Install configuration: ""
+[59.818s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/ament_index/resource_index/rosidl_interfaces/action_msgs
+[59.819s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs
+[59.820s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv
+[59.820s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/cancel_goal.h
+[59.820s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail
+[59.821s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__struct.h
+[59.821s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__functions.c
+[59.821s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__type_support.h
+[59.821s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__functions.h
+[59.822s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg
+[59.823s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail
+[59.823s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__struct.h
+[59.823s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__functions.h
+[59.824s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__functions.c
+[59.824s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__type_support.h
+[59.824s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__type_support.h
+[59.826s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__type_support.h
+[59.826s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__functions.h
+[59.826s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__functions.h
+[59.827s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__functions.c
+[59.827s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__struct.h
+[59.827s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__struct.h
+[59.827s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__functions.c
+[59.828s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/goal_status_array.h
+[59.828s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/goal_info.h
+[59.828s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/goal_status.h
+[59.828s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/rosidl_generator_c__visibility_control.h
+[59.829s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/environment/library_path.sh
+[59.829s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/environment/library_path.dsv
+[59.829s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_generator_c.so
+[59.830s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_generator_c.so" to ""
+[59.831s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs
+[59.831s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv
+[59.831s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail
+[59.832s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__rosidl_typesupport_fastrtps_c.h
+[59.832s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg
+[59.832s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail
+[59.832s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__rosidl_typesupport_fastrtps_c.h
+[59.833s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__rosidl_typesupport_fastrtps_c.h
+[59.833s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__rosidl_typesupport_fastrtps_c.h
+[59.833s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[59.834s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_fastrtps_c.so
+[59.834s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[59.834s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs
+[59.835s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv
+[59.835s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail
+[59.835s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__builder.hpp
+[59.835s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__traits.hpp
+[59.836s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__struct.hpp
+[59.836s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/cancel_goal.hpp
+[59.836s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg
+[59.837s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail
+[59.837s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__builder.hpp
+[59.837s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__builder.hpp
+[59.837s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__builder.hpp
+[59.838s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__struct.hpp
+[59.838s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__struct.hpp
+[59.838s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__traits.hpp
+[59.838s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__traits.hpp
+[59.839s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__struct.hpp
+[59.839s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__traits.hpp
+[59.839s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/goal_status_array.hpp
+[59.840s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/goal_info.hpp
+[59.840s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/goal_status.hpp
+[59.840s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs
+[59.841s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv
+[59.841s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail
+[59.842s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/dds_fastrtps
+[59.842s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__rosidl_typesupport_fastrtps_cpp.hpp
+[59.842s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg
+[59.842s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[59.843s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail
+[59.843s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__rosidl_typesupport_fastrtps_cpp.hpp
+[59.845s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__rosidl_typesupport_fastrtps_cpp.hpp
+[59.845s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/dds_fastrtps
+[59.846s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__rosidl_typesupport_fastrtps_cpp.hpp
+[59.846s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_fastrtps_cpp.so
+[59.846s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[59.846s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs
+[59.846s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv
+[59.847s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv/detail
+[59.849s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv/detail/cancel_goal__rosidl_typesupport_microxrcedds_c.h
+[59.849s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv/detail/microxrcedds
+[59.850s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg
+[59.850s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail
+[59.850s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/microxrcedds
+[59.850s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/goal_status__rosidl_typesupport_microxrcedds_c.h
+[59.851s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/goal_info__rosidl_typesupport_microxrcedds_c.h
+[59.851s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/goal_status_array__rosidl_typesupport_microxrcedds_c.h
+[59.851s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[59.851s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_microxrcedds_c.so
+[59.852s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_microxrcedds_c.so" to ""
+[59.852s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs
+[59.852s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv
+[59.852s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail
+[59.853s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__rosidl_typesupport_introspection_c.h
+[59.853s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__type_support.c
+[59.853s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg
+[59.853s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[59.854s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail
+[59.854s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__type_support.c
+[59.854s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__rosidl_typesupport_introspection_c.h
+[59.854s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__rosidl_typesupport_introspection_c.h
+[59.855s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__rosidl_typesupport_introspection_c.h
+[59.855s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__type_support.c
+[59.855s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__type_support.c
+[59.856s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_introspection_c.so
+[59.856s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_introspection_c.so" to ""
+[59.856s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_c.so
+[59.856s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_c.so" to ""
+[59.857s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs
+[59.857s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv
+[59.857s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv/detail
+[59.857s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv/detail/microxrcedds
+[59.858s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv/detail/microxrcedds/cancel_goal__type_support_cpp.cpp
+[59.858s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/srv/detail/cancel_goal__rosidl_typesupport_microxrcedds_cpp.hpp
+[59.858s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg
+[59.858s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail
+[59.859s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/microxrcedds
+[59.859s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/microxrcedds/goal_info__type_support_cpp.cpp
+[59.859s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/microxrcedds/goal_status__type_support_cpp.cpp
+[59.861s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/microxrcedds/goal_status_array__type_support_cpp.cpp
+[59.861s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/goal_status__rosidl_typesupport_microxrcedds_cpp.hpp
+[59.862s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/goal_info__rosidl_typesupport_microxrcedds_cpp.hpp
+[59.862s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/detail/goal_status_array__rosidl_typesupport_microxrcedds_cpp.hpp
+[59.862s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[59.862s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_microxrcedds_cpp.so
+[59.862s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_microxrcedds_cpp.so" to ""
+[59.863s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs
+[59.863s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv
+[59.863s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail
+[59.864s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__rosidl_typesupport_introspection_cpp.hpp
+[59.864s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/srv/detail/cancel_goal__type_support.cpp
+[59.864s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg
+[59.864s] -- Up-to-date: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail
+[59.865s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__rosidl_typesupport_introspection_cpp.hpp
+[59.865s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__rosidl_typesupport_introspection_cpp.hpp
+[59.865s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__type_support.cpp
+[59.865s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status__type_support.cpp
+[59.865s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_status_array__type_support.cpp
+[59.866s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/include/action_msgs/action_msgs/msg/detail/goal_info__rosidl_typesupport_introspection_cpp.hpp
+[59.866s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_introspection_cpp.so
+[59.866s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[59.867s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_cpp.so
+[59.868s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_typesupport_cpp.so" to ""
+[59.868s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/environment/pythonpath.sh
+[59.868s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/environment/pythonpath.dsv
+[59.869s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs-1.2.1-py3.10.egg-info
+[59.869s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs-1.2.1-py3.10.egg-info/dependency_links.txt
+[59.869s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs-1.2.1-py3.10.egg-info/PKG-INFO
+[59.870s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs-1.2.1-py3.10.egg-info/SOURCES.txt
+[59.870s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs-1.2.1-py3.10.egg-info/top_level.txt
+[59.871s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs
+[59.872s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/__init__.py
+[59.872s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[59.873s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[59.874s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/srv
+[59.874s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/srv/__init__.py
+[59.875s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/srv/_cancel_goal.py
+[59.875s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/srv/_cancel_goal_s.c
+[59.875s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[59.876s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/_action_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[59.876s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/_action_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[59.876s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/libaction_msgs__rosidl_generator_py.so
+[59.877s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[59.877s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/_action_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[59.878s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg
+[59.878s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_status_array.py
+[59.878s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/__init__.py
+[59.878s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_status_array_s.c
+[59.879s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_info_s.c
+[59.879s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_status.py
+[59.880s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_info.py
+[59.880s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_status_s.c
+[59.881s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/_action_msgs_s.ep.rosidl_typesupport_c.c
+[59.994s] Listing '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs'...
+[59.995s] Compiling '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/__init__.py'...
+[59.995s] Listing '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg'...
+[59.995s] Compiling '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/__init__.py'...
+[59.995s] Compiling '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_info.py'...
+[59.996s] Compiling '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_status.py'...
+[59.996s] Compiling '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/msg/_goal_status_array.py'...
+[59.996s] Listing '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/srv'...
+[59.996s] Compiling '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/srv/__init__.py'...
+[59.997s] Compiling '/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/srv/_cancel_goal.py'...
+[60.006s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[60.007s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so" to ""
+[60.007s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[60.011s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[60.011s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[60.011s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[60.015s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[60.015s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/local/lib/python3.10/dist-packages/action_msgs/action_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[60.017s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_generator_py.so
+[60.018s] -- Set runtime path of "/home/robot/app/robot_ws/install/action_msgs/lib/libaction_msgs__rosidl_generator_py.so" to ""
+[60.018s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/msg/GoalInfo.idl
+[60.018s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/msg/GoalStatus.idl
+[60.018s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl
+[60.019s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/srv/CancelGoal.idl
+[60.019s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/msg/GoalInfo.msg
+[60.022s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/msg/GoalStatus.msg
+[60.023s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/msg/GoalStatusArray.msg
+[60.023s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/srv/CancelGoal.srv
+[60.025s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/srv/CancelGoal_Request.msg
+[60.025s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/srv/CancelGoal_Response.msg
+[60.026s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/ament_index/resource_index/package_run_dependencies/action_msgs
+[60.026s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/ament_index/resource_index/parent_prefix_path/action_msgs
+[60.026s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/environment/ament_prefix_path.sh
+[60.027s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/environment/ament_prefix_path.dsv
+[60.027s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/environment/path.sh
+[60.027s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/environment/path.dsv
+[60.027s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/local_setup.bash
+[60.027s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/local_setup.sh
+[60.028s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/local_setup.zsh
+[60.028s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/local_setup.dsv
+[60.029s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/package.dsv
+[60.029s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/ament_index/resource_index/packages/action_msgs
+[60.029s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_generator_cExport.cmake
+[60.032s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_generator_cExport-noconfig.cmake
+[60.032s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[60.033s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[60.033s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_generator_cppExport.cmake
+[60.033s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[60.034s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[60.034s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgs__rosidl_typesupport_introspection_cExport.cmake
+[60.034s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[60.034s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgs__rosidl_typesupport_cExport.cmake
+[60.035s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[60.035s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[60.035s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[60.036s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgs__rosidl_typesupport_cppExport.cmake
+[60.037s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[60.043s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_generator_pyExport.cmake
+[60.043s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/export_action_msgs__rosidl_generator_pyExport-noconfig.cmake
+[60.043s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/rosidl_cmake-extras.cmake
+[60.043s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[60.044s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[60.044s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[60.044s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[60.044s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[60.044s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[60.045s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgsConfig.cmake
+[60.045s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/cmake/action_msgsConfig-version.cmake
+[60.045s] -- Installing: /home/robot/app/robot_ws/install/action_msgs/share/action_msgs/package.xml
+[60.051s] Invoked command in '/home/robot/app/robot_ws/build/action_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/robot/app/robot_ws/build/action_msgs

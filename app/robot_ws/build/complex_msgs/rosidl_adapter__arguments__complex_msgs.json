@@ -1,0 +1,7 @@
+{
+  "package_name": "complex_msgs",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/src/uros/micro-ROS-demos/messages/complex_msg:msg/MultiStringTest.msg",
+    "/home/robot/app/robot_ws/src/uros/micro-ROS-demos/messages/complex_msg:msg/NestedMsgTest.msg"
+  ]
+}

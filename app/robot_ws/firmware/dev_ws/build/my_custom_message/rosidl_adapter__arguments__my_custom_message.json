@@ -1,0 +1,6 @@
+{
+  "package_name": "my_custom_message",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/firmware/dev_ws/my_custom_message:msg/MyCustomMessage.msg"
+  ]
+}

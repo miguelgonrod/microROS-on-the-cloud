@@ -1,0 +1,46 @@
+[0.138s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_agent': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/robot/app/robot_ws/src/uros/micro-ROS-Agent/micro_ros_agent -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/micro_ros_agent
+[0.202s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.356s] -- Found rosidl_cmake: 3.1.5 (/opt/ros/humble/share/rosidl_cmake/cmake)
+[1.356s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.556s] -- Found fastrtps_cmake_module: 2.2.2 (/opt/ros/humble/share/fastrtps_cmake_module/cmake)
+[1.559s] -- Found rmw_dds_common: 1.6.0 (/opt/ros/humble/share/rmw_dds_common/cmake)
+[1.778s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.865s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.909s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.978s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.108s] -- Found rmw_fastrtps_shared_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_shared_cpp/cmake)
+[2.384s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.386s] -- Found ament_cmake_gtest: 1.3.10 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[2.388s] -- Found micro_ros_msgs: 3.0.1 (/home/robot/app/robot_ws/install/micro_ros_msgs/share/micro_ros_msgs/cmake)
+[2.651s] -- Configuring done
+[2.692s] -- Generating done
+[2.701s] -- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_agent
+[2.794s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_agent' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/robot/app/robot_ws/src/uros/micro-ROS-Agent/micro_ros_agent -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/micro_ros_agent
+[2.840s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_agent': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/robot/app/robot_ws/build/micro_ros_agent -- -j8 -l8
+[2.886s] [35m[1mConsolidate compiler generated dependencies of target micro_ros_agent[0m
+[3.056s] [ 16%] [32m[1mLinking CXX executable micro_ros_agent[0m
+[4.599s] [100%] Built target micro_ros_agent
+[4.622s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_agent' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/robot/app/robot_ws/build/micro_ros_agent -- -j8 -l8
+[4.704s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_agent': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/robot/app/robot_ws/build/micro_ros_agent
+[4.720s] -- Install configuration: ""
+[4.724s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/ament_index/resource_index/package_run_dependencies/micro_ros_agent
+[4.725s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/ament_index/resource_index/parent_prefix_path/micro_ros_agent
+[4.727s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/environment/ament_prefix_path.sh
+[4.728s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/environment/ament_prefix_path.dsv
+[4.728s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/environment/path.sh
+[4.729s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/environment/path.dsv
+[4.729s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.bash
+[4.729s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.sh
+[4.729s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.zsh
+[4.732s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/local_setup.dsv
+[4.733s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/package.dsv
+[4.736s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/ament_index/resource_index/packages/micro_ros_agent
+[4.742s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.742s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/micro_ros_agentConfig.cmake
+[4.742s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/cmake/micro_ros_agentConfig-version.cmake
+[4.743s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/package.xml
+[4.743s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_agent/lib/micro_ros_agent/micro_ros_agent
+[4.753s] -- Set runtime path of "/home/robot/app/robot_ws/install/micro_ros_agent/lib/micro_ros_agent/micro_ros_agent" to ""
+[4.753s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/launch
+[4.753s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_agent/share/micro_ros_agent/launch/micro_ros_agent_launch.py
+[4.854s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_agent' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/robot/app/robot_ws/build/micro_ros_agent

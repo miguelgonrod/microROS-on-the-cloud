@@ -1,0 +1,532 @@
+[0.083s] Invoking command in '/home/robot/app/robot_ws/build/visualization_msgs': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/visualization_msgs -- -j8 -l8
+[0.209s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.601s] -- Found builtin_interfaces: 1.2.1 (/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake)
+[0.654s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.658s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.669s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.690s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.728s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.765s] -- Found geometry_msgs: 4.2.4 (/home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake)
+[0.820s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.841s] -- Found sensor_msgs: 4.2.4 (/home/robot/app/robot_ws/install/sensor_msgs/share/sensor_msgs/cmake)
+[1.887s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.433s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.066s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.127s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.189s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.189s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.189s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[4.405s] -- Configuring done
+[4.742s] -- Generating done
+[4.754s] -- Build files have been written to: /home/robot/app/robot_ws/build/visualization_msgs
+[4.863s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_generator_c[0m
+[4.889s] [  0%] Built target visualization_msgs__cpp
+[4.947s] [  9%] Built target visualization_msgs__rosidl_generator_c
+[4.961s] [ 10%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[4.965s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_introspection_cpp[0m
+[4.971s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[4.989s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_cpp[0m
+[5.050s] [ 10%] Built target ament_cmake_python_copy_visualization_msgs
+[5.055s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_introspection_c[0m
+[5.071s] [ 11%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[5.089s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_fastrtps_c[0m
+[5.118s] [ 20%] Built target visualization_msgs__rosidl_typesupport_fastrtps_cpp
+[5.143s] [ 29%] Built target visualization_msgs__rosidl_typesupport_introspection_cpp
+[5.149s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_c[0m
+[5.167s] [ 39%] Built target visualization_msgs__rosidl_typesupport_introspection_c
+[5.168s] [ 40%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_cpp.so[0m
+[5.226s] [ 40%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_c.so[0m
+[5.251s] [ 50%] Built target visualization_msgs__rosidl_typesupport_fastrtps_c
+[5.330s] [ 58%] Built target visualization_msgs__rosidl_typesupport_cpp
+[5.416s] [ 67%] Built target visualization_msgs__rosidl_typesupport_c
+[5.965s] running egg_info
+[5.967s] writing visualization_msgs.egg-info/PKG-INFO
+[5.969s] writing dependency_links to visualization_msgs.egg-info/dependency_links.txt
+[5.970s] writing top-level names to visualization_msgs.egg-info/top_level.txt
+[5.978s] reading manifest file 'visualization_msgs.egg-info/SOURCES.txt'
+[5.982s] writing manifest file 'visualization_msgs.egg-info/SOURCES.txt'
+[6.040s] [ 67%] Built target ament_cmake_python_build_visualization_msgs_egg
+[9.329s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_microxrcedds_cpp[0m
+[9.388s] [ 67%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/image_marker__type_support_cpp.cpp.o[0m
+[9.392s] [ 68%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_control__type_support_cpp.cpp.o[0m
+[9.392s] [ 68%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_feedback__type_support_cpp.cpp.o[0m
+[9.398s] [ 68%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_pose__type_support_cpp.cpp.o[0m
+[9.398s] [ 70%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker__type_support_cpp.cpp.o[0m
+[9.405s] [ 70%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_init__type_support_cpp.cpp.o[0m
+[9.414s] [ 71%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/interactive_marker_update__type_support_cpp.cpp.o[0m
+[10.389s] [ 72%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/marker__type_support_cpp.cpp.o[0m
+[10.421s] [ 72%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/marker_array__type_support_cpp.cpp.o[0m
+[10.832s] [ 73%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/menu_entry__type_support_cpp.cpp.o[0m
+[10.895s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_microxrcedds_c[0m
+[10.934s] [ 74%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/mesh_file__type_support_cpp.cpp.o[0m
+[10.946s] [ 74%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/msg/detail/microxrcedds/uv_coordinate__type_support_cpp.cpp.o[0m
+[10.964s] [ 75%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/image_marker__type_support_c.c.o[0m
+[10.964s] [ 75%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker__type_support_c.c.o[0m
+[11.231s] [ 76%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_control__type_support_c.c.o[0m
+[11.279s] [ 77%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_feedback__type_support_c.c.o[0m
+[11.436s] [ 78%] [32mBuilding CXX object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/visualization_msgs/srv/detail/microxrcedds/get_interactive_markers__type_support_cpp.cpp.o[0m
+[11.439s] [ 78%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_init__type_support_c.c.o[0m
+[11.578s] [ 79%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_pose__type_support_c.c.o[0m
+[11.663s] [ 79%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/interactive_marker_update__type_support_c.c.o[0m
+[11.802s] [ 80%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/marker_array__type_support_c.c.o[0m
+[11.821s] [ 81%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/marker__type_support_c.c.o[0m
+[11.857s] [ 81%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/menu_entry__type_support_c.c.o[0m
+[11.899s] [ 82%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/uv_coordinate__type_support_c.c.o[0m
+[11.905s] [ 82%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/srv/detail/microxrcedds/get_interactive_markers__type_support_c.c.o[0m
+[11.910s] [ 83%] [32mBuilding C object CMakeFiles/visualization_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/visualization_msgs/msg/detail/microxrcedds/mesh_file__type_support_c.c.o[0m
+[12.073s] [ 84%] [32m[1mLinking C shared library libvisualization_msgs__rosidl_typesupport_microxrcedds_c.so[0m
+[12.186s] [ 84%] Built target visualization_msgs__rosidl_typesupport_microxrcedds_c
+[12.519s] [ 85%] [32m[1mLinking CXX shared library libvisualization_msgs__rosidl_typesupport_microxrcedds_cpp.so[0m
+[12.767s] [ 85%] Built target visualization_msgs__rosidl_typesupport_microxrcedds_cpp
+[12.818s] [ 85%] Built target visualization_msgs
+[12.875s] [ 86%] Built target visualization_msgs__py
+[12.910s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_generator_py[0m
+[12.965s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/libvisualization_msgs__rosidl_generator_py.so[0m
+[13.068s] [ 95%] Built target visualization_msgs__rosidl_generator_py
+[13.097s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_microxrcedds_c__pyext[0m
+[13.097s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[13.100s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_c__pyext[0m
+[13.107s] [35m[1mConsolidate compiler generated dependencies of target visualization_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[13.148s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[13.153s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[13.153s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[13.164s] [ 99%] [32m[1mLinking C shared library rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[13.280s] [ 99%] Built target visualization_msgs__rosidl_typesupport_fastrtps_c__pyext
+[13.291s] [100%] Built target visualization_msgs__rosidl_typesupport_c__pyext
+[13.305s] [100%] Built target visualization_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[13.308s] [100%] Built target visualization_msgs__rosidl_typesupport_introspection_c__pyext
+[13.336s] Invoked command in '/home/robot/app/robot_ws/build/visualization_msgs' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/visualization_msgs -- -j8 -l8
+[15.277s] Invoking command in '/home/robot/app/robot_ws/build/visualization_msgs': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/visualization_msgs
+[15.321s] -- Install configuration: ""
+[15.322s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/ament_index/resource_index/rosidl_interfaces/visualization_msgs
+[15.323s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+[15.324s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+[15.325s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/get_interactive_markers.h
+[15.326s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+[15.327s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__struct.h
+[15.328s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__functions.h
+[15.329s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__type_support.h
+[15.330s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__functions.c
+[15.330s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+[15.331s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/menu_entry.h
+[15.331s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_control.h
+[15.332s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_pose.h
+[15.332s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/marker_array.h
+[15.333s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/uv_coordinate.h
+[15.334s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+[15.335s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__functions.c
+[15.335s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__struct.h
+[15.336s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__type_support.h
+[15.336s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__functions.c
+[15.337s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__struct.h
+[15.337s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__struct.h
+[15.338s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__type_support.h
+[15.338s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__struct.h
+[15.339s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__functions.c
+[15.339s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__struct.h
+[15.340s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__functions.h
+[15.340s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__type_support.h
+[15.341s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__struct.h
+[15.342s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__type_support.h
+[15.342s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__struct.h
+[15.343s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__struct.h
+[15.343s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__functions.c
+[15.344s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__type_support.h
+[15.345s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__functions.h
+[15.346s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__functions.h
+[15.347s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__type_support.h
+[15.348s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__functions.h
+[15.348s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__struct.h
+[15.349s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__functions.c
+[15.350s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__type_support.h
+[15.350s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__struct.h
+[15.351s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__functions.h
+[15.352s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__functions.c
+[15.353s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__type_support.h
+[15.353s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__type_support.h
+[15.354s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__type_support.h
+[15.355s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__functions.h
+[15.356s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__functions.c
+[15.357s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__struct.h
+[15.357s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__functions.c
+[15.358s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__functions.h
+[15.359s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__functions.c
+[15.360s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__functions.c
+[15.360s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__functions.h
+[15.361s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__functions.h
+[15.362s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__functions.h
+[15.363s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__type_support.h
+[15.363s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__functions.h
+[15.364s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__functions.c
+[15.365s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__functions.c
+[15.365s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__type_support.h
+[15.366s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__struct.h
+[15.367s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__functions.h
+[15.367s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_update.h
+[15.368s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker.h
+[15.369s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_init.h
+[15.369s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/image_marker.h
+[15.370s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/mesh_file.h
+[15.370s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_feedback.h
+[15.371s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/marker.h
+[15.372s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/rosidl_generator_c__visibility_control.h
+[15.372s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/library_path.sh
+[15.373s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/library_path.dsv
+[15.374s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_generator_c.so
+[15.374s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+[15.375s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+[15.376s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+[15.376s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_fastrtps_c.h
+[15.377s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+[15.377s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+[15.378s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_fastrtps_c.h
+[15.379s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_fastrtps_c.h
+[15.379s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_c.h
+[15.380s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_fastrtps_c.h
+[15.381s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_fastrtps_c.h
+[15.382s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_fastrtps_c.h
+[15.382s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_fastrtps_c.h
+[15.383s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_fastrtps_c.h
+[15.383s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_fastrtps_c.h
+[15.384s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_fastrtps_c.h
+[15.384s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_fastrtps_c.h
+[15.385s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_fastrtps_c.h
+[15.386s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[15.387s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_fastrtps_c.so
+[15.387s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+[15.388s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+[15.389s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/get_interactive_markers.hpp
+[15.389s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+[15.390s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__traits.hpp
+[15.390s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__builder.hpp
+[15.390s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__struct.hpp
+[15.391s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+[15.391s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/marker.hpp
+[15.391s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/uv_coordinate.hpp
+[15.392s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_update.hpp
+[15.392s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/menu_entry.hpp
+[15.392s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/mesh_file.hpp
+[15.393s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_init.hpp
+[15.393s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+[15.394s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__struct.hpp
+[15.394s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__struct.hpp
+[15.395s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__traits.hpp
+[15.395s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__struct.hpp
+[15.396s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__traits.hpp
+[15.396s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__traits.hpp
+[15.396s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__traits.hpp
+[15.397s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__struct.hpp
+[15.397s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__traits.hpp
+[15.397s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__struct.hpp
+[15.398s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__struct.hpp
+[15.398s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__struct.hpp
+[15.398s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__struct.hpp
+[15.398s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__builder.hpp
+[15.398s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__struct.hpp
+[15.399s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__builder.hpp
+[15.399s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__builder.hpp
+[15.399s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__builder.hpp
+[15.399s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__traits.hpp
+[15.400s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__traits.hpp
+[15.400s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__builder.hpp
+[15.400s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__builder.hpp
+[15.400s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__builder.hpp
+[15.401s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__builder.hpp
+[15.401s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__builder.hpp
+[15.401s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__struct.hpp
+[15.401s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__struct.hpp
+[15.402s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__builder.hpp
+[15.402s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__builder.hpp
+[15.402s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__struct.hpp
+[15.402s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__builder.hpp
+[15.402s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__traits.hpp
+[15.403s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__traits.hpp
+[15.403s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__traits.hpp
+[15.403s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__traits.hpp
+[15.403s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__traits.hpp
+[15.404s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/image_marker.hpp
+[15.404s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_control.hpp
+[15.404s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_pose.hpp
+[15.404s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker_feedback.hpp
+[15.404s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/marker_array.hpp
+[15.405s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/interactive_marker.hpp
+[15.405s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+[15.405s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+[15.405s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+[15.406s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/dds_fastrtps
+[15.406s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_fastrtps_cpp.hpp
+[15.406s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+[15.406s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[15.406s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+[15.406s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_fastrtps_cpp.hpp
+[15.407s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_fastrtps_cpp.hpp
+[15.407s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_fastrtps_cpp.hpp
+[15.407s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__rosidl_typesupport_fastrtps_cpp.hpp
+[15.407s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_fastrtps_cpp.hpp
+[15.407s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/dds_fastrtps
+[15.407s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_fastrtps_cpp.hpp
+[15.408s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_fastrtps_cpp.hpp
+[15.408s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_fastrtps_cpp.hpp
+[15.408s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_fastrtps_cpp.hpp
+[15.408s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_fastrtps_cpp.hpp
+[15.408s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[15.408s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_fastrtps_cpp.hpp
+[15.409s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_fastrtps_cpp.so
+[15.409s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs
+[15.409s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv
+[15.409s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail
+[15.409s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_microxrcedds_c.h
+[15.409s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/microxrcedds
+[15.410s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg
+[15.410s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail
+[15.410s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_microxrcedds_c.h
+[15.410s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/marker__rosidl_typesupport_microxrcedds_c.h
+[15.410s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_microxrcedds_c.h
+[15.410s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_microxrcedds_c.h
+[15.411s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_microxrcedds_c.h
+[15.411s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_microxrcedds_c.h
+[15.411s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_microxrcedds_c.h
+[15.411s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_microxrcedds_c.h
+[15.411s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds
+[15.411s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_microxrcedds_c.h
+[15.411s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_microxrcedds_c.h
+[15.412s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_microxrcedds_c.h
+[15.412s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_microxrcedds_c.h
+[15.412s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[15.412s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_microxrcedds_c.so
+[15.412s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_microxrcedds_c.so" to ""
+[15.412s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+[15.413s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+[15.413s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+[15.413s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__type_support.c
+[15.413s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_introspection_c.h
+[15.413s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+[15.413s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[15.413s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+[15.414s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_introspection_c.h
+[15.414s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_introspection_c.h
+[15.414s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_introspection_c.h
+[15.414s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__type_support.c
+[15.414s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__type_support.c
+[15.414s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__type_support.c
+[15.415s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_introspection_c.h
+[15.415s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_introspection_c.h
+[15.415s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_introspection_c.h
+[15.415s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__type_support.c
+[15.415s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__type_support.c
+[15.416s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_introspection_c.h
+[15.416s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__type_support.c
+[15.416s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_introspection_c.h
+[15.416s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__type_support.c
+[15.416s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__type_support.c
+[15.416s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__rosidl_typesupport_introspection_c.h
+[15.417s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_introspection_c.h
+[15.417s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__type_support.c
+[15.417s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_introspection_c.h
+[15.417s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__type_support.c
+[15.417s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_introspection_c.h
+[15.417s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__type_support.c
+[15.417s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__type_support.c
+[15.418s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_introspection_c.so
+[15.418s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_c.so
+[15.418s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_c.so" to ""
+[15.418s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs
+[15.419s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv
+[15.419s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail
+[15.419s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/microxrcedds
+[15.419s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/microxrcedds/get_interactive_markers__type_support_cpp.cpp
+[15.419s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.420s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg
+[15.420s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail
+[15.420s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/marker__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.420s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.420s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.421s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.421s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.421s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.421s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.421s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds
+[15.421s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/uv_coordinate__type_support_cpp.cpp
+[15.421s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/image_marker__type_support_cpp.cpp
+[15.422s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_feedback__type_support_cpp.cpp
+[15.422s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_update__type_support_cpp.cpp
+[15.422s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/menu_entry__type_support_cpp.cpp
+[15.422s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/mesh_file__type_support_cpp.cpp
+[15.422s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_init__type_support_cpp.cpp
+[15.422s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker__type_support_cpp.cpp
+[15.422s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/marker_array__type_support_cpp.cpp
+[15.423s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_pose__type_support_cpp.cpp
+[15.423s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/interactive_marker_control__type_support_cpp.cpp
+[15.423s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/microxrcedds/marker__type_support_cpp.cpp
+[15.423s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.423s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.423s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.423s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.424s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_microxrcedds_cpp.hpp
+[15.424s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[15.424s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_microxrcedds_cpp.so
+[15.424s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_microxrcedds_cpp.so" to ""
+[15.425s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs
+[15.425s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv
+[15.425s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail
+[15.426s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__rosidl_typesupport_introspection_cpp.hpp
+[15.426s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/srv/detail/get_interactive_markers__type_support.cpp
+[15.426s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg
+[15.426s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail
+[15.426s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__type_support.cpp
+[15.427s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__rosidl_typesupport_introspection_cpp.hpp
+[15.427s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/mesh_file__type_support.cpp
+[15.427s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__rosidl_typesupport_introspection_cpp.hpp
+[15.427s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_feedback__type_support.cpp
+[15.427s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__type_support.cpp
+[15.427s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__rosidl_typesupport_introspection_cpp.hpp
+[15.428s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_pose__rosidl_typesupport_introspection_cpp.hpp
+[15.428s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__rosidl_typesupport_introspection_cpp.hpp
+[15.428s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__rosidl_typesupport_introspection_cpp.hpp
+[15.428s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__type_support.cpp
+[15.428s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__type_support.cpp
+[15.429s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__rosidl_typesupport_introspection_cpp.hpp
+[15.429s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/menu_entry__rosidl_typesupport_introspection_cpp.hpp
+[15.429s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_control__rosidl_typesupport_introspection_cpp.hpp
+[15.429s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_init__type_support.cpp
+[15.429s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/image_marker__type_support.cpp
+[15.429s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__type_support.cpp
+[15.430s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__rosidl_typesupport_introspection_cpp.hpp
+[15.430s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker_update__type_support.cpp
+[15.430s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker__type_support.cpp
+[15.430s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/uv_coordinate__type_support.cpp
+[15.430s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/marker_array__rosidl_typesupport_introspection_cpp.hpp
+[15.430s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/include/visualization_msgs/visualization_msgs/msg/detail/interactive_marker__rosidl_typesupport_introspection_cpp.hpp
+[15.431s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_introspection_cpp.so
+[15.431s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_cpp.so
+[15.431s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_typesupport_cpp.so" to ""
+[15.431s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/pythonpath.sh
+[15.431s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/pythonpath.dsv
+[15.431s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info
+[15.432s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info/dependency_links.txt
+[15.432s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info/PKG-INFO
+[15.432s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info/SOURCES.txt
+[15.432s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs-4.2.4-py3.10.egg-info/top_level.txt
+[15.432s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs
+[15.432s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/__init__.py
+[15.433s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[15.433s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv
+[15.433s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv/__init__.py
+[15.433s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv/_get_interactive_markers.py
+[15.433s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv/_get_interactive_markers_s.c
+[15.433s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[15.434s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[15.434s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[15.434s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[15.434s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[15.434s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_c.c
+[15.435s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/_visualization_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[15.435s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg
+[15.435s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/__init__.py
+[15.435s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_image_marker.py
+[15.435s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_feedback.py
+[15.435s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_uv_coordinate.py
+[15.436s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_s.c
+[15.436s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_control.py
+[15.436s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_mesh_file_s.c
+[15.436s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_feedback_s.c
+[15.436s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_pose_s.c
+[15.437s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker_array_s.c
+[15.437s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_menu_entry_s.c
+[15.437s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker.py
+[15.437s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_image_marker_s.c
+[15.438s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_update_s.c
+[15.438s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_update.py
+[15.438s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_menu_entry.py
+[15.438s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker_s.c
+[15.438s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_control_s.c
+[15.439s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_uv_coordinate_s.c
+[15.439s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_init_s.c
+[15.439s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_mesh_file.py
+[15.439s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker_array.py
+[15.439s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_marker.py
+[15.439s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_init.py
+[15.440s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg/_interactive_marker_pose.py
+[15.440s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/libvisualization_msgs__rosidl_generator_py.so
+[15.512s] Listing '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs'...
+[15.512s] Compiling '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/__init__.py'...
+[15.512s] Listing '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/msg'...
+[15.513s] Listing '/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/srv'...
+[15.520s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[15.520s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so" to ""
+[15.521s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[15.522s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[15.522s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[15.523s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[15.523s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[15.524s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/local/lib/python3.10/dist-packages/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[15.524s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_generator_py.so
+[15.525s] -- Set runtime path of "/home/robot/app/robot_ws/install/visualization_msgs/lib/libvisualization_msgs__rosidl_generator_py.so" to ""
+[15.525s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/ImageMarker.idl
+[15.526s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarker.idl
+[15.526s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerControl.idl
+[15.526s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerFeedback.idl
+[15.526s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerInit.idl
+[15.526s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerPose.idl
+[15.527s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerUpdate.idl
+[15.527s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/Marker.idl
+[15.527s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MarkerArray.idl
+[15.527s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MenuEntry.idl
+[15.527s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MeshFile.idl
+[15.528s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/UVCoordinate.idl
+[15.528s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/srv/GetInteractiveMarkers.idl
+[15.528s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/ImageMarker.msg
+[15.528s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarker.msg
+[15.528s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerControl.msg
+[15.529s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerFeedback.msg
+[15.529s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerInit.msg
+[15.529s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerPose.msg
+[15.529s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/InteractiveMarkerUpdate.msg
+[15.530s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/Marker.msg
+[15.530s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MarkerArray.msg
+[15.530s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MenuEntry.msg
+[15.531s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/MeshFile.msg
+[15.531s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/msg/UVCoordinate.msg
+[15.531s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/srv/GetInteractiveMarkers.srv
+[15.532s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/srv/GetInteractiveMarkers_Request.msg
+[15.532s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/srv/GetInteractiveMarkers_Response.msg
+[15.532s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/ament_index/resource_index/package_run_dependencies/visualization_msgs
+[15.533s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/ament_index/resource_index/parent_prefix_path/visualization_msgs
+[15.533s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/ament_prefix_path.sh
+[15.533s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/ament_prefix_path.dsv
+[15.534s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/path.sh
+[15.534s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/environment/path.dsv
+[15.534s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/local_setup.bash
+[15.534s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/local_setup.sh
+[15.535s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/local_setup.zsh
+[15.535s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/local_setup.dsv
+[15.535s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/package.dsv
+[15.536s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/ament_index/resource_index/packages/visualization_msgs
+[15.536s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_cExport.cmake
+[15.536s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_cExport-noconfig.cmake
+[15.537s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[15.537s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[15.537s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_cppExport.cmake
+[15.537s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[15.538s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[15.538s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_introspection_cExport.cmake
+[15.538s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[15.538s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_cExport.cmake
+[15.539s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[15.539s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[15.539s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[15.539s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_cppExport.cmake
+[15.540s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[15.540s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_pyExport.cmake
+[15.540s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/export_visualization_msgs__rosidl_generator_pyExport-noconfig.cmake
+[15.541s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/rosidl_cmake-extras.cmake
+[15.541s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[15.541s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[15.541s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[15.541s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[15.541s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[15.541s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[15.542s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgsConfig.cmake
+[15.542s] -- Up-to-date: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake/visualization_msgsConfig-version.cmake
+[15.542s] -- Installing: /home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/package.xml
+[15.546s] Invoked command in '/home/robot/app/robot_ws/build/visualization_msgs' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/firmware/dev_ws/install/my_custom_message/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/visualization_msgs

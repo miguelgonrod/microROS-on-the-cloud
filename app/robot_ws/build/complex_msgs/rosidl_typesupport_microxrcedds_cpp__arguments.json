@@ -1,0 +1,21 @@
+{
+  "package_name": "complex_msgs",
+  "output_dir": "/home/robot/app/robot_ws/build/complex_msgs/rosidl_typesupport_microxrcedds_cpp/complex_msgs",
+  "template_dir": "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource",
+  "idl_tuples": [
+    "/home/robot/app/robot_ws/build/complex_msgs/rosidl_adapter/complex_msgs:msg/MultiStringTest.idl",
+    "/home/robot/app/robot_ws/build/complex_msgs/rosidl_adapter/complex_msgs:msg/NestedMsgTest.idl"
+  ],
+  "target_dependencies": [
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib/rosidl_typesupport_microxrcedds_cpp/rosidl_typesupport_microxrcedds_cpp",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp/__init__.py",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__type_support_cpp.cpp.em",
+    "/home/robot/app/robot_ws/build/complex_msgs/rosidl_adapter/complex_msgs/msg/MultiStringTest.idl",
+    "/home/robot/app/robot_ws/build/complex_msgs/rosidl_adapter/complex_msgs/msg/NestedMsgTest.idl"
+  ]
+}

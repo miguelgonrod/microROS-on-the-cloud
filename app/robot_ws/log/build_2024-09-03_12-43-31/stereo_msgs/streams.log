@@ -1,0 +1,255 @@
+[0.018s] Invoking command in '/home/robot/app/robot_ws/build/stereo_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/common_interfaces/stereo_msgs -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/stereo_msgs
+[0.087s] -- The C compiler identification is GNU 11.4.0
+[0.154s] -- The CXX compiler identification is GNU 11.4.0
+[0.164s] -- Detecting C compiler ABI info
+[0.237s] -- Detecting C compiler ABI info - done
+[0.247s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.247s] -- Detecting C compile features
+[0.248s] -- Detecting C compile features - done
+[0.252s] -- Detecting CXX compiler ABI info
+[0.346s] -- Detecting CXX compiler ABI info - done
+[0.359s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.360s] -- Detecting CXX compile features
+[0.360s] -- Detecting CXX compile features - done
+[0.406s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.627s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.788s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.794s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.807s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.892s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.944s] -- Found sensor_msgs: 4.2.4 (/home/robot/app/robot_ws/install/sensor_msgs/share/sensor_msgs/cmake)
+[1.479s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.055s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.818s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.848s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.852s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.907s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.907s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.907s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.908s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.936s] -- Found PythonExtra: .so  
+[3.092s] -- Configuring done
+[3.213s] -- Generating done
+[3.217s] -- Build files have been written to: /home/robot/app/robot_ws/build/stereo_msgs
+[3.239s] Invoked command in '/home/robot/app/robot_ws/build/stereo_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/common_interfaces/stereo_msgs -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/stereo_msgs
+[3.243s] Invoking command in '/home/robot/app/robot_ws/build/stereo_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/robot/app/robot_ws/build/stereo_msgs -- -j8 -l8
+[3.316s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[3.332s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.341s] [  5%] Built target ament_cmake_python_copy_stereo_msgs
+[3.740s] running egg_info
+[3.741s] creating stereo_msgs.egg-info
+[3.742s] writing stereo_msgs.egg-info/PKG-INFO
+[3.743s] writing dependency_links to stereo_msgs.egg-info/dependency_links.txt
+[3.743s] writing top-level names to stereo_msgs.egg-info/top_level.txt
+[3.743s] writing manifest file 'stereo_msgs.egg-info/SOURCES.txt'
+[3.746s] reading manifest file 'stereo_msgs.egg-info/SOURCES.txt'
+[3.747s] writing manifest file 'stereo_msgs.egg-info/SOURCES.txt'
+[3.792s] [  5%] Built target ament_cmake_python_build_stereo_msgs_egg
+[4.099s] [  7%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_generator_c.dir/rosidl_generator_c/stereo_msgs/msg/detail/disparity_image__functions.c.o[0m
+[4.152s] [  7%] Built target stereo_msgs__cpp
+[4.179s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[4.181s] [ 10%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[4.187s] [ 15%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[4.220s] [ 17%] [32m[1mLinking C shared library libstereo_msgs__rosidl_generator_c.so[0m
+[4.314s] [ 17%] Built target stereo_msgs__rosidl_generator_c
+[4.337s] [ 20%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[4.955s] [ 23%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/stereo_msgs/msg/detail/microxrcedds/disparity_image__type_support_cpp.cpp.o[0m
+[5.016s] [ 25%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/stereo_msgs/msg/detail/dds_fastrtps/disparity_image__type_support.cpp.o[0m
+[5.058s] [ 28%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stereo_msgs/msg/disparity_image__type_support.cpp.o[0m
+[5.294s] [ 30%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/stereo_msgs/msg/detail/disparity_image__type_support.cpp.o[0m
+[5.754s] [ 33%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_microxrcedds_cpp.so[0m
+[5.780s] [ 35%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_cpp.so[0m
+[5.891s] [ 35%] Built target stereo_msgs__rosidl_typesupport_cpp
+[5.920s] [ 35%] Built target stereo_msgs__rosidl_typesupport_microxrcedds_cpp
+[5.943s] [ 38%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[5.943s] [ 41%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[5.943s] [ 43%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[5.968s] [ 46%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[6.093s] [ 48%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[6.357s] [ 51%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[6.544s] [ 51%] Built target stereo_msgs__rosidl_typesupport_fastrtps_cpp
+[6.568s] [ 51%] Built target stereo_msgs__rosidl_typesupport_introspection_cpp
+[6.960s] [ 53%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/stereo_msgs/msg/disparity_image__type_support.cpp.o[0m
+[7.041s] [ 56%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_c.so[0m
+[7.107s] [ 58%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stereo_msgs/msg/detail/disparity_image__type_support_c.cpp.o[0m
+[7.150s] [ 58%] Built target stereo_msgs__rosidl_typesupport_c
+[7.190s] [ 61%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/stereo_msgs/msg/detail/microxrcedds/disparity_image__type_support_c.c.o[0m
+[7.192s] [ 64%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/stereo_msgs/msg/detail/disparity_image__type_support.c.o[0m
+[7.285s] [ 66%] [32m[1mLinking C shared library libstereo_msgs__rosidl_typesupport_introspection_c.so[0m
+[7.317s] [ 69%] [32m[1mLinking C shared library libstereo_msgs__rosidl_typesupport_microxrcedds_c.so[0m
+[7.363s] [ 69%] Built target stereo_msgs__rosidl_typesupport_introspection_c
+[7.426s] [ 69%] Built target stereo_msgs__rosidl_typesupport_microxrcedds_c
+[7.769s] [ 71%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[7.887s] [ 71%] Built target stereo_msgs__rosidl_typesupport_fastrtps_c
+[7.917s] [ 71%] Built target stereo_msgs
+[7.947s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[8.801s] [ 74%] Built target stereo_msgs__py
+[8.831s] [ 76%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_generator_py.dir/rosidl_generator_py/stereo_msgs/msg/_disparity_image_s.c.o[0m
+[8.999s] [ 79%] [32m[1mLinking C shared library rosidl_generator_py/stereo_msgs/libstereo_msgs__rosidl_generator_py.so[0m
+[9.079s] [ 79%] Built target stereo_msgs__rosidl_generator_py
+[9.109s] [ 82%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_microxrcedds_c__pyext.dir/rosidl_generator_py/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c.o[0m
+[9.289s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/stereo_msgs/stereo_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.361s] [ 84%] Built target stereo_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[9.399s] [ 87%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[9.560s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/stereo_msgs/stereo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.630s] [ 89%] Built target stereo_msgs__rosidl_typesupport_c__pyext
+[9.659s] [ 92%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[9.819s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/stereo_msgs/stereo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.881s] [ 94%] Built target stereo_msgs__rosidl_typesupport_introspection_c__pyext
+[9.911s] [ 97%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[10.079s] [100%] [32m[1mLinking C shared library rosidl_generator_py/stereo_msgs/stereo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.141s] [100%] Built target stereo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[10.157s] Invoked command in '/home/robot/app/robot_ws/build/stereo_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/robot/app/robot_ws/build/stereo_msgs -- -j8 -l8
+[10.241s] Invoking command in '/home/robot/app/robot_ws/build/stereo_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/robot/app/robot_ws/build/stereo_msgs
+[10.251s] -- Install configuration: ""
+[10.251s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/ament_index/resource_index/rosidl_interfaces/stereo_msgs
+[10.252s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs
+[10.252s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg
+[10.252s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/disparity_image.h
+[10.252s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail
+[10.253s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__functions.h
+[10.253s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__functions.c
+[10.253s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__struct.h
+[10.253s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__type_support.h
+[10.254s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/rosidl_generator_c__visibility_control.h
+[10.254s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/environment/library_path.sh
+[10.254s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/environment/library_path.dsv
+[10.255s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_generator_c.so
+[10.255s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_generator_c.so" to ""
+[10.256s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs
+[10.256s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg
+[10.256s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/detail
+[10.256s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/detail/disparity_image__rosidl_typesupport_microxrcedds_c.h
+[10.256s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/detail/microxrcedds
+[10.256s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[10.257s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_microxrcedds_c.so
+[10.261s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_microxrcedds_c.so" to ""
+[10.261s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs
+[10.261s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg
+[10.262s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail
+[10.262s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__rosidl_typesupport_fastrtps_c.h
+[10.262s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[10.262s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_fastrtps_c.so
+[10.262s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[10.263s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs
+[10.263s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg
+[10.263s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[10.263s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail
+[10.263s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__rosidl_typesupport_introspection_c.h
+[10.264s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__type_support.c
+[10.264s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_introspection_c.so
+[10.264s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_introspection_c.so" to ""
+[10.265s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_c.so
+[10.265s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_c.so" to ""
+[10.265s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs
+[10.266s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg
+[10.266s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/disparity_image.hpp
+[10.266s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail
+[10.266s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__traits.hpp
+[10.266s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__struct.hpp
+[10.267s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__builder.hpp
+[10.267s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs
+[10.267s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg
+[10.267s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/detail
+[10.267s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/detail/disparity_image__rosidl_typesupport_microxrcedds_cpp.hpp
+[10.268s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/detail/microxrcedds
+[10.268s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/detail/microxrcedds/disparity_image__type_support_cpp.cpp
+[10.268s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[10.268s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_microxrcedds_cpp.so
+[10.268s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_microxrcedds_cpp.so" to ""
+[10.269s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs
+[10.269s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg
+[10.269s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[10.269s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail
+[10.269s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/dds_fastrtps
+[10.270s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__rosidl_typesupport_fastrtps_cpp.hpp
+[10.270s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_fastrtps_cpp.so
+[10.272s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[10.272s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs
+[10.273s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg
+[10.273s] -- Up-to-date: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail
+[10.273s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__rosidl_typesupport_introspection_cpp.hpp
+[10.273s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/include/stereo_msgs/stereo_msgs/msg/detail/disparity_image__type_support.cpp
+[10.273s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_introspection_cpp.so
+[10.274s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[10.274s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_cpp.so
+[10.275s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_cpp.so" to ""
+[10.275s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/environment/pythonpath.sh
+[10.275s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/environment/pythonpath.dsv
+[10.275s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs-4.2.4-py3.10.egg-info
+[10.275s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs-4.2.4-py3.10.egg-info/dependency_links.txt
+[10.276s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs-4.2.4-py3.10.egg-info/PKG-INFO
+[10.276s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs-4.2.4-py3.10.egg-info/SOURCES.txt
+[10.281s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs-4.2.4-py3.10.egg-info/top_level.txt
+[10.281s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs
+[10.281s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/__init__.py
+[10.281s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[10.281s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/libstereo_msgs__rosidl_generator_py.so
+[10.282s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[10.282s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[10.282s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[10.284s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[10.284s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_c.c
+[10.284s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[10.284s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[10.284s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/msg
+[10.285s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/msg/__init__.py
+[10.285s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/msg/_disparity_image_s.c
+[10.285s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/msg/_disparity_image.py
+[10.342s] Listing '/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs'...
+[10.342s] Compiling '/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/__init__.py'...
+[10.342s] Listing '/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/msg'...
+[10.343s] Compiling '/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/msg/__init__.py'...
+[10.343s] Compiling '/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/msg/_disparity_image.py'...
+[10.352s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[10.353s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.353s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[10.354s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.355s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[10.355s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.355s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[10.357s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/local/lib/python3.10/dist-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.357s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_generator_py.so
+[10.357s] -- Set runtime path of "/home/robot/app/robot_ws/install/stereo_msgs/lib/libstereo_msgs__rosidl_generator_py.so" to ""
+[10.357s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/msg/DisparityImage.idl
+[10.357s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/msg/DisparityImage.msg
+[10.357s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/ament_index/resource_index/package_run_dependencies/stereo_msgs
+[10.358s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/ament_index/resource_index/parent_prefix_path/stereo_msgs
+[10.358s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/environment/ament_prefix_path.sh
+[10.358s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/environment/ament_prefix_path.dsv
+[10.358s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/environment/path.sh
+[10.358s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/environment/path.dsv
+[10.359s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/local_setup.bash
+[10.363s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/local_setup.sh
+[10.365s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/local_setup.zsh
+[10.365s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/local_setup.dsv
+[10.365s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/package.dsv
+[10.366s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/ament_index/resource_index/packages/stereo_msgs
+[10.367s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_generator_cExport.cmake
+[10.367s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_generator_cExport-noconfig.cmake
+[10.367s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[10.367s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[10.371s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs__rosidl_typesupport_introspection_cExport.cmake
+[10.371s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[10.371s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs__rosidl_typesupport_cExport.cmake
+[10.371s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[10.372s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_generator_cppExport.cmake
+[10.372s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[10.372s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[10.372s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[10.372s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[10.372s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs__rosidl_typesupport_cppExport.cmake
+[10.372s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[10.373s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_generator_pyExport.cmake
+[10.373s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/export_stereo_msgs__rosidl_generator_pyExport-noconfig.cmake
+[10.373s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/rosidl_cmake-extras.cmake
+[10.373s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[10.373s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[10.373s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[10.374s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[10.378s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[10.379s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[10.379s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgsConfig.cmake
+[10.381s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgsConfig-version.cmake
+[10.381s] -- Installing: /home/robot/app/robot_ws/install/stereo_msgs/share/stereo_msgs/package.xml
+[10.382s] Invoked command in '/home/robot/app/robot_ws/build/stereo_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/robot/app/robot_ws/build/stereo_msgs

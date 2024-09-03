@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/int32_subscriber-complete.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-build.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-configure.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-download.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-install.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-mkdir.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-patch.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-stamp/int32_subscriber-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"int32_subscriber"
+		],
+		"name" : "int32_subscriber"
+	}
+}

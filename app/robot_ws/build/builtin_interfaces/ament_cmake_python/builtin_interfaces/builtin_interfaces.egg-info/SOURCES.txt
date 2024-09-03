@@ -1,0 +1,9 @@
+setup.py
+builtin_interfaces/__init__.py
+builtin_interfaces.egg-info/PKG-INFO
+builtin_interfaces.egg-info/SOURCES.txt
+builtin_interfaces.egg-info/dependency_links.txt
+builtin_interfaces.egg-info/top_level.txt
+builtin_interfaces/msg/__init__.py
+builtin_interfaces/msg/_duration.py
+builtin_interfaces/msg/_time.py

@@ -1,0 +1,6 @@
+{
+  "package_name": "stereo_msgs",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/src/ros2/common_interfaces/stereo_msgs:msg/DisparityImage.msg"
+  ]
+}

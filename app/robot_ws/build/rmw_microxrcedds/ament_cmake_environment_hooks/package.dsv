@@ -1,0 +1,4 @@
+source;share/rmw_microxrcedds/local_setup.bash
+source;share/rmw_microxrcedds/local_setup.dsv
+source;share/rmw_microxrcedds/local_setup.sh
+source;share/rmw_microxrcedds/local_setup.zsh

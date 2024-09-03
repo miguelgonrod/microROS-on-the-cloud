@@ -1,0 +1,405 @@
+[0.055s] Invoking command in '/home/robot/app/robot_ws/build/nav_msgs': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/common_interfaces/nav_msgs -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/nav_msgs
+[0.078s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.455s] -- Found builtin_interfaces: 1.2.1 (/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake)
+[0.519s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.524s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.533s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.555s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.595s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.629s] -- Found geometry_msgs: 4.2.4 (/home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake)
+[0.687s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.715s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.113s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.864s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.968s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.022s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.024s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.025s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[4.378s] -- Configuring done
+[4.765s] -- Generating done
+[4.774s] -- Build files have been written to: /home/robot/app/robot_ws/build/nav_msgs
+[4.801s] Invoked command in '/home/robot/app/robot_ws/build/nav_msgs' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/common_interfaces/nav_msgs -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/nav_msgs
+[4.801s] Invoking command in '/home/robot/app/robot_ws/build/nav_msgs': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/nav_msgs -- -j8 -l8
+[4.967s] [  0%] Built target nav_msgs__cpp
+[5.077s] [  0%] Built target ament_cmake_python_copy_nav_msgs
+[5.122s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_introspection_cpp[0m
+[5.192s] [  9%] Built target nav_msgs__rosidl_typesupport_introspection_cpp
+[5.861s] running egg_info
+[5.862s] writing nav_msgs.egg-info/PKG-INFO
+[5.863s] writing dependency_links to nav_msgs.egg-info/dependency_links.txt
+[5.865s] writing top-level names to nav_msgs.egg-info/top_level.txt
+[5.868s] reading manifest file 'nav_msgs.egg-info/SOURCES.txt'
+[5.869s] writing manifest file 'nav_msgs.egg-info/SOURCES.txt'
+[5.973s] [  9%] Built target ament_cmake_python_build_nav_msgs_egg
+[6.029s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_microxrcedds_cpp[0m
+[6.107s] [ 19%] Built target nav_msgs__rosidl_typesupport_microxrcedds_cpp
+[6.161s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[6.227s] [ 28%] Built target nav_msgs__rosidl_typesupport_fastrtps_cpp
+[6.273s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_cpp[0m
+[6.335s] [ 37%] Built target nav_msgs__rosidl_typesupport_cpp
+[6.397s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_generator_c[0m
+[6.466s] [ 46%] Built target nav_msgs__rosidl_generator_c
+[6.510s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_fastrtps_c[0m
+[6.566s] [ 55%] Built target nav_msgs__rosidl_typesupport_fastrtps_c
+[6.602s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_c[0m
+[6.648s] [ 64%] Built target nav_msgs__rosidl_typesupport_c
+[6.699s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_introspection_c[0m
+[6.759s] [ 73%] Built target nav_msgs__rosidl_typesupport_introspection_c
+[6.803s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_microxrcedds_c[0m
+[6.860s] [ 83%] Built target nav_msgs__rosidl_typesupport_microxrcedds_c
+[6.976s] [ 83%] Built target nav_msgs
+[7.046s] [ 84%] Built target nav_msgs__py
+[7.088s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_generator_py[0m
+[7.160s] [ 93%] Built target nav_msgs__rosidl_generator_py
+[7.190s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_microxrcedds_c__pyext[0m
+[7.225s] [ 94%] Built target nav_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[7.260s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_c__pyext[0m
+[7.315s] [ 96%] Built target nav_msgs__rosidl_typesupport_c__pyext
+[7.352s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[7.404s] [ 98%] Built target nav_msgs__rosidl_typesupport_introspection_c__pyext
+[7.433s] [35m[1mConsolidate compiler generated dependencies of target nav_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[7.477s] [100%] Built target nav_msgs__rosidl_typesupport_fastrtps_c__pyext
+[7.532s] Invoked command in '/home/robot/app/robot_ws/build/nav_msgs' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/nav_msgs -- -j8 -l8
+[8.766s] Invoking command in '/home/robot/app/robot_ws/build/nav_msgs': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/nav_msgs
+[8.783s] -- Install configuration: ""
+[8.787s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/ament_index/resource_index/rosidl_interfaces/nav_msgs
+[8.787s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs
+[8.787s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv
+[8.787s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/get_map.h
+[8.787s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/get_plan.h
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/load_map.h
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__type_support.h
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__type_support.h
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__struct.h
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__type_support.h
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__functions.c
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__struct.h
+[8.788s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__functions.h
+[8.789s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__functions.c
+[8.789s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__functions.h
+[8.789s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__functions.h
+[8.789s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__struct.h
+[8.789s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__functions.c
+[8.789s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__type_support.h
+[8.789s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__functions.h
+[8.789s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__struct.h
+[8.790s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__functions.c
+[8.790s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/set_map.h
+[8.791s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg
+[8.791s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/map_meta_data.h
+[8.791s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/odometry.h
+[8.791s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/path.h
+[8.791s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail
+[8.791s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__functions.h
+[8.791s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__struct.h
+[8.791s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__functions.c
+[8.792s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__functions.c
+[8.792s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__functions.h
+[8.792s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__functions.h
+[8.792s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__functions.h
+[8.792s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__type_support.h
+[8.792s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__functions.c
+[8.792s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__functions.h
+[8.792s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__struct.h
+[8.793s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__struct.h
+[8.793s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__type_support.h
+[8.793s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__struct.h
+[8.793s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__functions.c
+[8.793s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__type_support.h
+[8.793s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__functions.c
+[8.793s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__struct.h
+[8.793s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__type_support.h
+[8.794s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__type_support.h
+[8.794s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/grid_cells.h
+[8.794s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/occupancy_grid.h
+[8.795s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/rosidl_generator_c__visibility_control.h
+[8.795s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/environment/library_path.sh
+[8.795s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/environment/library_path.dsv
+[8.795s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_generator_c.so
+[8.796s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs
+[8.796s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv
+[8.796s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__rosidl_typesupport_fastrtps_c.h
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__rosidl_typesupport_fastrtps_c.h
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__rosidl_typesupport_fastrtps_c.h
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__rosidl_typesupport_fastrtps_c.h
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__rosidl_typesupport_fastrtps_c.h
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__rosidl_typesupport_fastrtps_c.h
+[8.797s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__rosidl_typesupport_fastrtps_c.h
+[8.798s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__rosidl_typesupport_fastrtps_c.h
+[8.798s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__rosidl_typesupport_fastrtps_c.h
+[8.799s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[8.799s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_typesupport_fastrtps_c.so
+[8.799s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs
+[8.799s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv
+[8.799s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/get_map.hpp
+[8.799s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/set_map.hpp
+[8.799s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/get_plan.hpp
+[8.800s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail
+[8.800s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__builder.hpp
+[8.800s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__builder.hpp
+[8.800s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__struct.hpp
+[8.800s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__traits.hpp
+[8.800s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__builder.hpp
+[8.800s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__traits.hpp
+[8.801s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__struct.hpp
+[8.801s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__struct.hpp
+[8.801s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__traits.hpp
+[8.801s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__traits.hpp
+[8.801s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__struct.hpp
+[8.801s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__builder.hpp
+[8.802s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/load_map.hpp
+[8.802s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg
+[8.802s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/path.hpp
+[8.802s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/map_meta_data.hpp
+[8.802s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/grid_cells.hpp
+[8.802s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail
+[8.802s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__traits.hpp
+[8.802s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__traits.hpp
+[8.803s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__struct.hpp
+[8.803s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__builder.hpp
+[8.803s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__traits.hpp
+[8.803s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__builder.hpp
+[8.803s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__traits.hpp
+[8.803s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__struct.hpp
+[8.803s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__traits.hpp
+[8.804s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__builder.hpp
+[8.804s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__builder.hpp
+[8.804s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__struct.hpp
+[8.804s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__struct.hpp
+[8.804s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__struct.hpp
+[8.804s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__builder.hpp
+[8.804s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/occupancy_grid.hpp
+[8.805s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/odometry.hpp
+[8.805s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs
+[8.805s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv
+[8.805s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail
+[8.805s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/dds_fastrtps
+[8.805s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__rosidl_typesupport_fastrtps_cpp.hpp
+[8.805s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__rosidl_typesupport_fastrtps_cpp.hpp
+[8.805s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__rosidl_typesupport_fastrtps_cpp.hpp
+[8.806s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__rosidl_typesupport_fastrtps_cpp.hpp
+[8.806s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg
+[8.806s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[8.806s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail
+[8.806s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__rosidl_typesupport_fastrtps_cpp.hpp
+[8.806s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__rosidl_typesupport_fastrtps_cpp.hpp
+[8.807s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/dds_fastrtps
+[8.807s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__rosidl_typesupport_fastrtps_cpp.hpp
+[8.807s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__rosidl_typesupport_fastrtps_cpp.hpp
+[8.807s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__rosidl_typesupport_fastrtps_cpp.hpp
+[8.810s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_typesupport_fastrtps_cpp.so
+[8.810s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs
+[8.811s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv
+[8.812s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail
+[8.812s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/microxrcedds
+[8.812s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/set_map__rosidl_typesupport_microxrcedds_c.h
+[8.813s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/get_plan__rosidl_typesupport_microxrcedds_c.h
+[8.813s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/get_map__rosidl_typesupport_microxrcedds_c.h
+[8.813s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/load_map__rosidl_typesupport_microxrcedds_c.h
+[8.813s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg
+[8.813s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail
+[8.813s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/map_meta_data__rosidl_typesupport_microxrcedds_c.h
+[8.814s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/grid_cells__rosidl_typesupport_microxrcedds_c.h
+[8.814s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/microxrcedds
+[8.814s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/path__rosidl_typesupport_microxrcedds_c.h
+[8.814s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/occupancy_grid__rosidl_typesupport_microxrcedds_c.h
+[8.814s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/odometry__rosidl_typesupport_microxrcedds_c.h
+[8.814s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[8.817s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_typesupport_microxrcedds_c.so
+[8.817s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs
+[8.817s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv
+[8.817s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail
+[8.818s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__type_support.c
+[8.818s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__rosidl_typesupport_introspection_c.h
+[8.818s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__rosidl_typesupport_introspection_c.h
+[8.818s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__rosidl_typesupport_introspection_c.h
+[8.818s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__type_support.c
+[8.819s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__type_support.c
+[8.819s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__type_support.c
+[8.819s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__rosidl_typesupport_introspection_c.h
+[8.819s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg
+[8.819s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[8.819s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail
+[8.819s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__rosidl_typesupport_introspection_c.h
+[8.819s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__rosidl_typesupport_introspection_c.h
+[8.820s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__type_support.c
+[8.820s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__type_support.c
+[8.820s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__rosidl_typesupport_introspection_c.h
+[8.820s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__rosidl_typesupport_introspection_c.h
+[8.820s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__type_support.c
+[8.820s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__rosidl_typesupport_introspection_c.h
+[8.821s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__type_support.c
+[8.821s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__type_support.c
+[8.821s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_typesupport_introspection_c.so
+[8.823s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_typesupport_c.so
+[8.823s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs
+[8.824s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv
+[8.824s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail
+[8.824s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/get_plan__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.824s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/microxrcedds
+[8.824s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/microxrcedds/get_plan__type_support_cpp.cpp
+[8.824s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/microxrcedds/get_map__type_support_cpp.cpp
+[8.824s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/microxrcedds/set_map__type_support_cpp.cpp
+[8.825s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/microxrcedds/load_map__type_support_cpp.cpp
+[8.825s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/load_map__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.825s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/get_map__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.825s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/srv/detail/set_map__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.825s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg
+[8.825s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail
+[8.825s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/occupancy_grid__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.826s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/path__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.826s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/map_meta_data__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.826s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/microxrcedds
+[8.826s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/microxrcedds/odometry__type_support_cpp.cpp
+[8.826s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/microxrcedds/path__type_support_cpp.cpp
+[8.826s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/microxrcedds/occupancy_grid__type_support_cpp.cpp
+[8.826s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/microxrcedds/grid_cells__type_support_cpp.cpp
+[8.826s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/microxrcedds/map_meta_data__type_support_cpp.cpp
+[8.827s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/odometry__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.827s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/detail/grid_cells__rosidl_typesupport_microxrcedds_cpp.hpp
+[8.827s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[8.832s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_typesupport_microxrcedds_cpp.so
+[8.832s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs
+[8.833s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv
+[8.833s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail
+[8.833s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__rosidl_typesupport_introspection_cpp.hpp
+[8.833s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__type_support.cpp
+[8.834s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__rosidl_typesupport_introspection_cpp.hpp
+[8.834s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__type_support.cpp
+[8.834s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/load_map__rosidl_typesupport_introspection_cpp.hpp
+[8.834s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/set_map__rosidl_typesupport_introspection_cpp.hpp
+[8.834s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_plan__type_support.cpp
+[8.834s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/srv/detail/get_map__type_support.cpp
+[8.834s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg
+[8.835s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail
+[8.835s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__type_support.cpp
+[8.837s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/odometry__rosidl_typesupport_introspection_cpp.hpp
+[8.837s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__rosidl_typesupport_introspection_cpp.hpp
+[8.837s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/grid_cells__type_support.cpp
+[8.838s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__type_support.cpp
+[8.838s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/path__rosidl_typesupport_introspection_cpp.hpp
+[8.838s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__rosidl_typesupport_introspection_cpp.hpp
+[8.838s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__type_support.cpp
+[8.838s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/occupancy_grid__type_support.cpp
+[8.838s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/include/nav_msgs/nav_msgs/msg/detail/map_meta_data__rosidl_typesupport_introspection_cpp.hpp
+[8.838s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_typesupport_introspection_cpp.so
+[8.839s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_typesupport_cpp.so
+[8.839s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/environment/pythonpath.sh
+[8.839s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/environment/pythonpath.dsv
+[8.839s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs-4.2.4-py3.10.egg-info
+[8.839s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs-4.2.4-py3.10.egg-info/dependency_links.txt
+[8.840s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs-4.2.4-py3.10.egg-info/PKG-INFO
+[8.840s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs-4.2.4-py3.10.egg-info/SOURCES.txt
+[8.841s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs-4.2.4-py3.10.egg-info/top_level.txt
+[8.841s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs
+[8.841s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/__init__.py
+[8.841s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/_nav_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[8.842s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/nav_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[8.842s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv
+[8.842s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/_get_map_s.c
+[8.842s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/__init__.py
+[8.843s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/_load_map_s.c
+[8.843s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/_get_map.py
+[8.843s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/_set_map_s.c
+[8.843s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/_load_map.py
+[8.843s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/_get_plan_s.c
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/_get_plan.py
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv/_set_map.py
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/nav_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/nav_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/nav_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/_nav_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/_nav_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/_nav_msgs_s.ep.rosidl_typesupport_c.c
+[8.844s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg
+[8.845s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/__init__.py
+[8.845s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_map_meta_data.py
+[8.845s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_map_meta_data_s.c
+[8.845s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_occupancy_grid.py
+[8.845s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_occupancy_grid_s.c
+[8.845s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_grid_cells_s.c
+[8.846s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_path_s.c
+[8.846s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_odometry_s.c
+[8.846s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_path.py
+[8.846s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_grid_cells.py
+[8.846s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg/_odometry.py
+[8.846s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/libnav_msgs__rosidl_generator_py.so
+[8.961s] Listing '/home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs'...
+[8.961s] Compiling '/home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/__init__.py'...
+[8.961s] Listing '/home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/msg'...
+[8.961s] Listing '/home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/srv'...
+[8.969s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/nav_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[8.971s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/nav_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[8.972s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/nav_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[8.972s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/local/lib/python3.10/dist-packages/nav_msgs/nav_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[8.973s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/lib/libnav_msgs__rosidl_generator_py.so
+[8.974s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/GridCells.idl
+[8.974s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/MapMetaData.idl
+[8.974s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/OccupancyGrid.idl
+[8.974s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/Odometry.idl
+[8.981s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/Path.idl
+[8.981s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/GetMap.idl
+[8.981s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/GetPlan.idl
+[8.981s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/LoadMap.idl
+[8.981s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/SetMap.idl
+[8.981s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/GridCells.msg
+[8.982s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/MapMetaData.msg
+[8.983s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/OccupancyGrid.msg
+[8.983s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/Odometry.msg
+[8.983s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/msg/Path.msg
+[8.983s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/GetMap.srv
+[8.983s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/GetMap_Request.msg
+[8.983s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/GetMap_Response.msg
+[8.984s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/GetPlan.srv
+[8.984s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/GetPlan_Request.msg
+[8.984s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/GetPlan_Response.msg
+[8.985s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/LoadMap.srv
+[8.985s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/LoadMap_Request.msg
+[8.985s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/LoadMap_Response.msg
+[8.985s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/SetMap.srv
+[8.985s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/SetMap_Request.msg
+[8.985s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/srv/SetMap_Response.msg
+[8.986s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/ament_index/resource_index/package_run_dependencies/nav_msgs
+[8.986s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/share/ament_index/resource_index/parent_prefix_path/nav_msgs
+[8.986s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/environment/ament_prefix_path.sh
+[8.986s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/environment/ament_prefix_path.dsv
+[8.986s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/environment/path.sh
+[8.986s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/environment/path.dsv
+[8.986s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/local_setup.bash
+[8.987s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/local_setup.sh
+[8.987s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/local_setup.zsh
+[8.987s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/local_setup.dsv
+[8.987s] -- Installing: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/package.dsv
+[8.987s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/ament_index/resource_index/packages/nav_msgs
+[8.987s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_generator_cExport.cmake
+[8.987s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_generator_cExport-noconfig.cmake
+[8.987s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[8.988s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[8.989s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_generator_cppExport.cmake
+[8.989s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[8.989s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[8.990s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgs__rosidl_typesupport_introspection_cExport.cmake
+[8.990s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[8.990s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgs__rosidl_typesupport_cExport.cmake
+[8.990s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[8.990s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[8.991s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[8.991s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgs__rosidl_typesupport_cppExport.cmake
+[8.993s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[8.993s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_generator_pyExport.cmake
+[8.994s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/export_nav_msgs__rosidl_generator_pyExport-noconfig.cmake
+[8.994s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/rosidl_cmake-extras.cmake
+[8.994s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.994s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.994s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[8.995s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[8.995s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[8.995s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[8.995s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgsConfig.cmake
+[8.995s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/cmake/nav_msgsConfig-version.cmake
+[8.995s] -- Up-to-date: /home/robot/app/robot_ws/install/nav_msgs/share/nav_msgs/package.xml
+[8.995s] Invoked command in '/home/robot/app/robot_ws/build/nav_msgs' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_agent:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/micro_ros_agent/lib:/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/nav_msgs

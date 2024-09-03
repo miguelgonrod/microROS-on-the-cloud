@@ -1,0 +1,74 @@
+-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rcl_action: 5.3.9 (/opt/ros/humble/share/rcl_action/cmake)
+-- Found rcl version 5.3.9, which belongs to Foxy or later
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/rclc
+/usr/bin/cmake -S/home/robot/app/robot_ws/src/uros/rclc/rclc -B/home/robot/app/robot_ws/build/rclc --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/build/rclc/CMakeFiles /home/robot/app/robot_ws/build/rclc//CMakeFiles/progress.marks
+/usr/bin/gmake  -f CMakeFiles/Makefile2 all
+gmake[1]: Entering directory '/home/robot/app/robot_ws/build/rclc'
+/usr/bin/gmake  -f CMakeFiles/rclc.dir/build.make CMakeFiles/rclc.dir/depend
+gmake[2]: Entering directory '/home/robot/app/robot_ws/build/rclc'
+cd /home/robot/app/robot_ws/build/rclc && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/robot/app/robot_ws/src/uros/rclc/rclc /home/robot/app/robot_ws/src/uros/rclc/rclc /home/robot/app/robot_ws/build/rclc /home/robot/app/robot_ws/build/rclc /home/robot/app/robot_ws/build/rclc/CMakeFiles/rclc.dir/DependInfo.cmake --color=
+[35m[1mConsolidate compiler generated dependencies of target rclc[0m
+gmake[2]: Leaving directory '/home/robot/app/robot_ws/build/rclc'
+/usr/bin/gmake  -f CMakeFiles/rclc.dir/build.make CMakeFiles/rclc.dir/build
+gmake[2]: Entering directory '/home/robot/app/robot_ws/build/rclc'
+gmake[2]: Nothing to be done for 'CMakeFiles/rclc.dir/build'.
+gmake[2]: Leaving directory '/home/robot/app/robot_ws/build/rclc'
+[100%] Built target rclc
+gmake[1]: Leaving directory '/home/robot/app/robot_ws/build/rclc'
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/build/rclc/CMakeFiles 0
+-- Install configuration: ""
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/lib/librclc.so
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/node.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/types.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/service.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/executor.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/client.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/rclc.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/subscription.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/executor_handle.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/timer.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/action_server.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/publisher.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/init.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/action_goal_handle.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/sleep.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/include/rclc/action_client.h
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/environment/library_path.sh
+-- Installing: /home/robot/app/robot_ws/install/rclc/share/rclc/environment/library_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/ament_index/resource_index/package_run_dependencies/rclc
+-- Installing: /home/robot/app/robot_ws/install/rclc/share/ament_index/resource_index/parent_prefix_path/rclc
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/rclc/share/rclc/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/rclc/share/rclc/environment/path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/local_setup.bash
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/local_setup.sh
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/rclc/share/rclc/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/rclc/share/rclc/package.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/ament_index/resource_index/packages/rclc
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/cmake/rclcExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/cmake/rclcExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/cmake/rclcConfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/cmake/rclcConfig-version.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/rclc/share/rclc/package.xml

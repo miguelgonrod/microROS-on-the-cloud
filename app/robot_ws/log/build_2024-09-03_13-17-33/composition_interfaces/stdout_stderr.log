@@ -1,0 +1,246 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rcl_interfaces: 1.2.1 (/home/robot/app/robot_ws/install/rcl_interfaces/share/rcl_interfaces/cmake)
+-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/composition_interfaces
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_generator_c[0m
+[  8%] Built target composition_interfaces__rosidl_generator_c
+[ 10%] Built target composition_interfaces__cpp
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_c[0m
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_introspection_c[0m
+[ 10%] Built target ament_cmake_python_copy_composition_interfaces
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_microxrcedds_c[0m
+[ 18%] Built target composition_interfaces__rosidl_typesupport_c
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_fastrtps_c[0m
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_microxrcedds_cpp[0m
+[ 27%] Built target composition_interfaces__rosidl_typesupport_introspection_c
+[ 35%] Built target composition_interfaces__rosidl_typesupport_microxrcedds_c
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_introspection_cpp[0m
+[ 44%] Built target composition_interfaces__rosidl_typesupport_fastrtps_c
+[ 52%] Built target composition_interfaces__rosidl_typesupport_cpp
+[ 61%] Built target composition_interfaces__rosidl_typesupport_microxrcedds_cpp
+[ 69%] Built target composition_interfaces__rosidl_typesupport_introspection_cpp
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[ 77%] Built target composition_interfaces__rosidl_typesupport_fastrtps_cpp
+[ 77%] Built target composition_interfaces
+[ 79%] Built target composition_interfaces__py
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_generator_py[0m
+[ 86%] Built target composition_interfaces__rosidl_generator_py
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_microxrcedds_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[ 89%] Built target composition_interfaces__rosidl_typesupport_introspection_c__pyext
+[ 93%] Built target composition_interfaces__rosidl_typesupport_microxrcedds_c__pyext
+[ 96%] Built target composition_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target composition_interfaces__rosidl_typesupport_c__pyext[0m
+running egg_info
+writing composition_interfaces.egg-info/PKG-INFO
+writing dependency_links to composition_interfaces.egg-info/dependency_links.txt
+writing top-level names to composition_interfaces.egg-info/top_level.txt
+reading manifest file 'composition_interfaces.egg-info/SOURCES.txt'
+writing manifest file 'composition_interfaces.egg-info/SOURCES.txt'
+[100%] Built target composition_interfaces__rosidl_typesupport_c__pyext
+[100%] Built target ament_cmake_python_build_composition_interfaces_egg
+-- Install configuration: ""
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/ament_index/resource_index/rosidl_interfaces/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/unload_node.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/load_node.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/list_nodes.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_generator_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/environment/library_path.sh
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/environment/library_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_generator_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/microxrcedds
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/load_node__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_microxrcedds_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_introspection_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/load_node.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/list_nodes.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/unload_node.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/microxrcedds
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/microxrcedds/list_nodes__type_support_cpp.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/microxrcedds/unload_node__type_support_cpp.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/microxrcedds/load_node__type_support_cpp.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/load_node__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_microxrcedds_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/dds_fastrtps
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_fastrtps_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/load_node__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/unload_node__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/include/composition_interfaces/composition_interfaces/srv/detail/list_nodes__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_introspection_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_typesupport_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/environment/pythonpath.sh
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/environment/pythonpath.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.1-py3.10.egg-info
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.1-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.1-py3.10.egg-info/PKG-INFO
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.1-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces-1.2.1-py3.10.egg-info/top_level.txt
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/__init__.py
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/__init__.py
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_list_nodes.py
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_load_node_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_unload_node.py
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_load_node.py
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_unload_node_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv/_list_nodes_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/libcomposition_interfaces__rosidl_generator_py.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_microxrcedds_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/_composition_interfaces_s.ep.rosidl_typesupport_c.c
+Listing '/home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces'...
+Compiling '/home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/__init__.py'...
+Listing '/home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/srv'...
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/local/lib/python3.10/dist-packages/composition_interfaces/composition_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/lib/libcomposition_interfaces__rosidl_generator_py.so
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/LoadNode.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/ListNodes.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/UnloadNode.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/LoadNode.srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/LoadNode_Request.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/LoadNode_Response.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/ListNodes.srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/ListNodes_Request.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/ListNodes_Response.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/UnloadNode.srv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/UnloadNode_Request.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/srv/UnloadNode_Response.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/ament_index/resource_index/package_run_dependencies/composition_interfaces
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/share/ament_index/resource_index/parent_prefix_path/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/environment/path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/local_setup.bash
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/local_setup.sh
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/package.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/ament_index/resource_index/packages/composition_interfaces
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_pyExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/export_composition_interfaces__rosidl_generator_pyExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/rosidl_cmake-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfacesConfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/cmake/composition_interfacesConfig-version.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/composition_interfaces/share/composition_interfaces/package.xml

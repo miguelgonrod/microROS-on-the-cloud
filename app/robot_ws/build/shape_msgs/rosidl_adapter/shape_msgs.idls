@@ -1,0 +1,4 @@
+/home/robot/app/robot_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Mesh.idl
+/home/robot/app/robot_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/MeshTriangle.idl
+/home/robot/app/robot_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Plane.idl
+/home/robot/app/robot_ws/build/shape_msgs/rosidl_adapter/shape_msgs:msg/SolidPrimitive.idl

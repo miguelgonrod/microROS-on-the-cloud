@@ -1,0 +1,218 @@
+[0.021s] Invoking command in '/home/robot/app/robot_ws/build/builtin_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/rcl_interfaces/builtin_interfaces -DUAGENT_BUILD_EXECUTABLE=OFF -DUAGENT_P2P_PROFILE=OFF --no-warn-unused-cli -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/builtin_interfaces
+[0.032s] Not searching for unused variables given on the command line.
+[0.038s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.223s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.236s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.241s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.287s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.662s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.007s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.425s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.456s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.486s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.486s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.486s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.534s] -- Configuring done
+[1.592s] -- Generating done
+[1.596s] -- Build files have been written to: /home/robot/app/robot_ws/build/builtin_interfaces
+[1.604s] Invoked command in '/home/robot/app/robot_ws/build/builtin_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/rcl_interfaces/builtin_interfaces -DUAGENT_BUILD_EXECUTABLE=OFF -DUAGENT_P2P_PROFILE=OFF --no-warn-unused-cli -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/builtin_interfaces
+[1.607s] Invoking command in '/home/robot/app/robot_ws/build/builtin_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/builtin_interfaces -- -j8 -l8
+[1.667s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_generator_c[0m
+[1.707s] [  2%] Built target builtin_interfaces__cpp
+[1.712s] [ 10%] Built target builtin_interfaces__rosidl_generator_c
+[1.715s] [ 10%] Built target ament_cmake_python_copy_builtin_interfaces
+[1.747s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_cpp[0m
+[1.763s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_fastrtps_c[0m
+[1.766s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_introspection_c[0m
+[1.781s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[1.785s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_microxrcedds_cpp[0m
+[1.807s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_introspection_cpp[0m
+[1.812s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_microxrcedds_c[0m
+[1.843s] [ 18%] Built target builtin_interfaces__rosidl_typesupport_fastrtps_cpp
+[1.849s] [ 26%] Built target builtin_interfaces__rosidl_typesupport_fastrtps_c
+[1.853s] [ 34%] Built target builtin_interfaces__rosidl_typesupport_cpp
+[1.857s] [ 42%] Built target builtin_interfaces__rosidl_typesupport_introspection_c
+[1.869s] [ 51%] Built target builtin_interfaces__rosidl_typesupport_microxrcedds_c
+[1.871s] [ 59%] Built target builtin_interfaces__rosidl_typesupport_microxrcedds_cpp
+[1.874s] [ 67%] Built target builtin_interfaces__rosidl_typesupport_introspection_cpp
+[1.893s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_c[0m
+[1.915s] [ 75%] Built target builtin_interfaces__rosidl_typesupport_c
+[1.949s] [ 75%] Built target builtin_interfaces
+[1.989s] [ 77%] Built target builtin_interfaces__py
+[2.012s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_generator_py[0m
+[2.040s] [ 83%] Built target builtin_interfaces__rosidl_generator_py
+[2.077s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_microxrcedds_c__pyext[0m
+[2.083s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[2.089s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_c__pyext[0m
+[2.094s] [35m[1mConsolidate compiler generated dependencies of target builtin_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[2.125s] [ 87%] Built target builtin_interfaces__rosidl_typesupport_microxrcedds_c__pyext
+[2.127s] [ 91%] Built target builtin_interfaces__rosidl_typesupport_c__pyext
+[2.136s] [ 95%] Built target builtin_interfaces__rosidl_typesupport_introspection_c__pyext
+[2.138s] [100%] Built target builtin_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[2.197s] running egg_info
+[2.197s] writing builtin_interfaces.egg-info/PKG-INFO
+[2.197s] writing dependency_links to builtin_interfaces.egg-info/dependency_links.txt
+[2.198s] writing top-level names to builtin_interfaces.egg-info/top_level.txt
+[2.200s] reading manifest file 'builtin_interfaces.egg-info/SOURCES.txt'
+[2.204s] writing manifest file 'builtin_interfaces.egg-info/SOURCES.txt'
+[2.235s] [100%] Built target ament_cmake_python_build_builtin_interfaces_egg
+[2.250s] Invoked command in '/home/robot/app/robot_ws/build/builtin_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/builtin_interfaces -- -j8 -l8
+[2.445s] Invoking command in '/home/robot/app/robot_ws/build/builtin_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/builtin_interfaces
+[2.456s] -- Install configuration: ""
+[2.457s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/ament_index/resource_index/rosidl_interfaces/builtin_interfaces
+[2.457s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces
+[2.457s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg
+[2.457s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/duration.h
+[2.458s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/time.h
+[2.458s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail
+[2.458s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__struct.h
+[2.458s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__functions.c
+[2.458s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__functions.h
+[2.458s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__type_support.h
+[2.458s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__type_support.h
+[2.459s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__struct.h
+[2.459s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__functions.h
+[2.459s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__functions.c
+[2.459s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/rosidl_generator_c__visibility_control.h
+[2.459s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/environment/library_path.sh
+[2.459s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/environment/library_path.dsv
+[2.459s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_generator_c.so
+[2.460s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces
+[2.460s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg
+[2.460s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail
+[2.460s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail/time__rosidl_typesupport_microxrcedds_c.h
+[2.460s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail/duration__rosidl_typesupport_microxrcedds_c.h
+[2.461s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail/microxrcedds
+[2.461s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[2.461s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_typesupport_microxrcedds_c.so
+[2.461s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces
+[2.461s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg
+[2.461s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail
+[2.461s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__rosidl_typesupport_fastrtps_c.h
+[2.462s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__rosidl_typesupport_fastrtps_c.h
+[2.462s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.462s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_typesupport_fastrtps_c.so
+[2.462s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces
+[2.462s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg
+[2.462s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.463s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail
+[2.463s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__rosidl_typesupport_introspection_c.h
+[2.463s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__rosidl_typesupport_introspection_c.h
+[2.463s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__type_support.c
+[2.463s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__type_support.c
+[2.463s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_typesupport_introspection_c.so
+[2.464s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_typesupport_c.so
+[2.464s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces
+[2.464s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg
+[2.464s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail
+[2.464s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__struct.hpp
+[2.464s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__traits.hpp
+[2.464s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__builder.hpp
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__builder.hpp
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__struct.hpp
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__traits.hpp
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/duration.hpp
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/time.hpp
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail/time__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.465s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail/microxrcedds
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail/microxrcedds/time__type_support_cpp.cpp
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail/microxrcedds/duration__type_support_cpp.cpp
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/detail/duration__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_typesupport_microxrcedds_cpp.so
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail
+[2.466s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/dds_fastrtps
+[2.467s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__rosidl_typesupport_fastrtps_cpp.hpp
+[2.467s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__rosidl_typesupport_fastrtps_cpp.hpp
+[2.467s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[2.467s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces
+[2.467s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg
+[2.467s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail
+[2.468s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__type_support.cpp
+[2.468s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__type_support.cpp
+[2.468s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/duration__rosidl_typesupport_introspection_cpp.hpp
+[2.468s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/include/builtin_interfaces/builtin_interfaces/msg/detail/time__rosidl_typesupport_introspection_cpp.hpp
+[2.468s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_typesupport_introspection_cpp.so
+[2.468s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_typesupport_cpp.so
+[2.468s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/environment/pythonpath.sh
+[2.468s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/environment/pythonpath.dsv
+[2.468s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces-1.2.1-py3.10.egg-info
+[2.468s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces-1.2.1-py3.10.egg-info/dependency_links.txt
+[2.469s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces-1.2.1-py3.10.egg-info/PKG-INFO
+[2.469s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces-1.2.1-py3.10.egg-info/SOURCES.txt
+[2.469s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces-1.2.1-py3.10.egg-info/top_level.txt
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces
+[2.469s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/__init__.py
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/libbuiltin_interfaces__rosidl_generator_py.so
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/builtin_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/_builtin_interfaces_s.ep.rosidl_typesupport_microxrcedds_c.c
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/builtin_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/_builtin_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/builtin_interfaces_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/builtin_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.469s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/_builtin_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[2.470s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/_builtin_interfaces_s.ep.rosidl_typesupport_c.c
+[2.470s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/msg
+[2.470s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/msg/__init__.py
+[2.470s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/msg/_time_s.c
+[2.470s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/msg/_duration_s.c
+[2.470s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/msg/_time.py
+[2.470s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/msg/_duration.py
+[2.530s] Listing '/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces'...
+[2.530s] Compiling '/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/__init__.py'...
+[2.531s] Listing '/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/msg'...
+[2.537s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/builtin_interfaces_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[2.537s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/builtin_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.537s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/builtin_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.538s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages/builtin_interfaces/builtin_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.538s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/lib/libbuiltin_interfaces__rosidl_generator_py.so
+[2.539s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl
+[2.539s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl
+[2.539s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.msg
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.msg
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/ament_index/resource_index/package_run_dependencies/builtin_interfaces
+[2.540s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/share/ament_index/resource_index/parent_prefix_path/builtin_interfaces
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/environment/ament_prefix_path.sh
+[2.540s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/environment/ament_prefix_path.dsv
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/environment/path.sh
+[2.541s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/environment/path.dsv
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/local_setup.bash
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/local_setup.sh
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/local_setup.zsh
+[2.541s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/local_setup.dsv
+[2.542s] -- Installing: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/package.dsv
+[2.542s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/ament_index/resource_index/packages/builtin_interfaces
+[2.542s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_generator_cExport.cmake
+[2.542s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_generator_cExport-noconfig.cmake
+[2.542s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfaces__rosidl_typesupport_cExport.cmake
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_generator_cppExport.cmake
+[2.544s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.544s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.544s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[2.544s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.544s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfaces__rosidl_typesupport_cppExport.cmake
+[2.544s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[2.545s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_generator_pyExport.cmake
+[2.545s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/export_builtin_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[2.546s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/rosidl_cmake-extras.cmake
+[2.546s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.546s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[2.546s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfacesConfig.cmake
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake/builtin_interfacesConfig-version.cmake
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/package.xml
+[2.547s] Invoked command in '/home/robot/app/robot_ws/build/builtin_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/builtin_interfaces

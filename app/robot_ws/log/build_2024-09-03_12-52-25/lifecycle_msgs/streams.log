@@ -1,0 +1,361 @@
+[0.046s] Invoking command in '/home/robot/app/robot_ws/build/lifecycle_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/lifecycle_msgs -- -j8 -l8
+[0.263s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_generator_c[0m
+[0.380s] [  0%] Built target ament_cmake_python_copy_lifecycle_msgs
+[0.380s] [ 10%] Built target lifecycle_msgs__rosidl_generator_c
+[0.409s] [ 10%] Built target lifecycle_msgs__cpp
+[0.554s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.568s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_c[0m
+[0.571s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_microxrcedds_c[0m
+[0.580s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.595s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_introspection_c[0m
+[0.626s] [ 19%] Built target lifecycle_msgs__rosidl_typesupport_fastrtps_cpp
+[0.640s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_microxrcedds_cpp[0m
+[0.663s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.710s] [ 28%] Built target lifecycle_msgs__rosidl_typesupport_microxrcedds_c
+[0.754s] [ 37%] Built target lifecycle_msgs__rosidl_typesupport_c
+[0.755s] [ 46%] Built target lifecycle_msgs__rosidl_typesupport_introspection_c
+[0.755s] [ 55%] Built target lifecycle_msgs__rosidl_typesupport_fastrtps_c
+[0.756s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_cpp[0m
+[0.776s] [ 65%] Built target lifecycle_msgs__rosidl_typesupport_microxrcedds_cpp
+[0.789s] [ 74%] Built target lifecycle_msgs__rosidl_typesupport_introspection_cpp
+[0.841s] [ 83%] Built target lifecycle_msgs__rosidl_typesupport_cpp
+[0.953s] [ 83%] Built target lifecycle_msgs
+[1.114s] [ 84%] Built target lifecycle_msgs__py
+[1.237s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_generator_py[0m
+[1.322s] [ 92%] Built target lifecycle_msgs__rosidl_generator_py
+[1.371s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_microxrcedds_c__pyext[0m
+[1.386s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_c__pyext[0m
+[1.386s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[1.387s] [35m[1mConsolidate compiler generated dependencies of target lifecycle_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.428s] [ 94%] Built target lifecycle_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[1.428s] [ 96%] Built target lifecycle_msgs__rosidl_typesupport_introspection_c__pyext
+[1.441s] [ 98%] Built target lifecycle_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.442s] [100%] Built target lifecycle_msgs__rosidl_typesupport_c__pyext
+[1.569s] running egg_info
+[1.571s] writing lifecycle_msgs.egg-info/PKG-INFO
+[1.572s] writing dependency_links to lifecycle_msgs.egg-info/dependency_links.txt
+[1.573s] writing top-level names to lifecycle_msgs.egg-info/top_level.txt
+[1.578s] reading manifest file 'lifecycle_msgs.egg-info/SOURCES.txt'
+[1.582s] writing manifest file 'lifecycle_msgs.egg-info/SOURCES.txt'
+[1.649s] [100%] Built target ament_cmake_python_build_lifecycle_msgs_egg
+[1.683s] Invoked command in '/home/robot/app/robot_ws/build/lifecycle_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/lifecycle_msgs -- -j8 -l8
+[2.514s] Invoking command in '/home/robot/app/robot_ws/build/lifecycle_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/lifecycle_msgs
+[2.530s] -- Install configuration: ""
+[2.534s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/ament_index/resource_index/rosidl_interfaces/lifecycle_msgs
+[2.534s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs
+[2.534s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv
+[2.535s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/get_available_states.h
+[2.535s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/get_state.h
+[2.535s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/get_available_transitions.h
+[2.536s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail
+[2.536s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__type_support.h
+[2.536s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__type_support.h
+[2.536s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__functions.c
+[2.537s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__functions.c
+[2.538s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__functions.h
+[2.539s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__functions.c
+[2.539s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__functions.h
+[2.539s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__struct.h
+[2.539s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__type_support.h
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__struct.h
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__struct.h
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__type_support.h
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__functions.h
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__functions.h
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__struct.h
+[2.540s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__functions.c
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/change_state.h
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/transition_event.h
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/transition.h
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/state.h
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__type_support.h
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__functions.c
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__type_support.h
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__struct.h
+[2.541s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__type_support.h
+[2.542s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__functions.c
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__functions.h
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__struct.h
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__type_support.h
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__functions.h
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__struct.h
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__struct.h
+[2.543s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__functions.h
+[2.544s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__functions.c
+[2.544s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__functions.h
+[2.545s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__functions.c
+[2.546s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/transition_description.h
+[2.546s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/rosidl_generator_c__visibility_control.h
+[2.546s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/environment/library_path.sh
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/environment/library_path.dsv
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_generator_c.so
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv
+[2.547s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail
+[2.548s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/get_available_states__rosidl_typesupport_microxrcedds_c.h
+[2.548s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/microxrcedds
+[2.548s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/get_state__rosidl_typesupport_microxrcedds_c.h
+[2.548s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/change_state__rosidl_typesupport_microxrcedds_c.h
+[2.548s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/get_available_transitions__rosidl_typesupport_microxrcedds_c.h
+[2.548s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg
+[2.548s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail
+[2.548s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/transition__rosidl_typesupport_microxrcedds_c.h
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/microxrcedds
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/transition_description__rosidl_typesupport_microxrcedds_c.h
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/transition_event__rosidl_typesupport_microxrcedds_c.h
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/state__rosidl_typesupport_microxrcedds_c.h
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_typesupport_microxrcedds_c.so
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail
+[2.549s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__rosidl_typesupport_fastrtps_c.h
+[2.550s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__rosidl_typesupport_fastrtps_c.h
+[2.550s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__rosidl_typesupport_fastrtps_c.h
+[2.550s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__rosidl_typesupport_fastrtps_c.h
+[2.550s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg
+[2.550s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail
+[2.551s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__rosidl_typesupport_fastrtps_c.h
+[2.552s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__rosidl_typesupport_fastrtps_c.h
+[2.552s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__rosidl_typesupport_fastrtps_c.h
+[2.552s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__rosidl_typesupport_fastrtps_c.h
+[2.552s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.552s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_typesupport_fastrtps_c.so
+[2.552s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs
+[2.552s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv
+[2.552s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail
+[2.553s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__rosidl_typesupport_introspection_c.h
+[2.553s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__rosidl_typesupport_introspection_c.h
+[2.554s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__type_support.c
+[2.554s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__rosidl_typesupport_introspection_c.h
+[2.554s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__type_support.c
+[2.554s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__type_support.c
+[2.554s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__rosidl_typesupport_introspection_c.h
+[2.554s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__type_support.c
+[2.555s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg
+[2.555s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.555s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail
+[2.555s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__type_support.c
+[2.555s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__rosidl_typesupport_introspection_c.h
+[2.555s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__type_support.c
+[2.555s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__rosidl_typesupport_introspection_c.h
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__rosidl_typesupport_introspection_c.h
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__rosidl_typesupport_introspection_c.h
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__type_support.c
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__type_support.c
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_typesupport_introspection_c.so
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_typesupport_c.so
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv
+[2.556s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/get_state.hpp
+[2.557s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/get_available_transitions.hpp
+[2.558s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/get_available_states.hpp
+[2.558s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail
+[2.558s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__struct.hpp
+[2.558s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__traits.hpp
+[2.558s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__struct.hpp
+[2.558s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__traits.hpp
+[2.559s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__traits.hpp
+[2.559s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__struct.hpp
+[2.559s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__builder.hpp
+[2.559s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__traits.hpp
+[2.559s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__struct.hpp
+[2.560s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__builder.hpp
+[2.560s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__builder.hpp
+[2.560s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__builder.hpp
+[2.560s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/change_state.hpp
+[2.560s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg
+[2.561s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail
+[2.561s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__traits.hpp
+[2.561s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__struct.hpp
+[2.561s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__builder.hpp
+[2.562s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__traits.hpp
+[2.562s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__builder.hpp
+[2.562s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__struct.hpp
+[2.562s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__builder.hpp
+[2.563s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__struct.hpp
+[2.563s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__traits.hpp
+[2.563s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__traits.hpp
+[2.564s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__builder.hpp
+[2.564s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__struct.hpp
+[2.564s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/transition_description.hpp
+[2.564s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/transition_event.hpp
+[2.564s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/transition.hpp
+[2.564s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/state.hpp
+[2.564s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs
+[2.564s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv
+[2.565s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail
+[2.565s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/microxrcedds
+[2.565s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/microxrcedds/change_state__type_support_cpp.cpp
+[2.565s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/microxrcedds/get_state__type_support_cpp.cpp
+[2.565s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/microxrcedds/get_available_states__type_support_cpp.cpp
+[2.565s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/microxrcedds/get_available_transitions__type_support_cpp.cpp
+[2.566s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/get_available_transitions__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.566s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/get_available_states__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.566s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/get_state__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.566s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/srv/detail/change_state__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.566s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg
+[2.566s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail
+[2.567s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/state__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.567s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/microxrcedds
+[2.567s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/microxrcedds/transition_event__type_support_cpp.cpp
+[2.567s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/microxrcedds/transition__type_support_cpp.cpp
+[2.567s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/microxrcedds/state__type_support_cpp.cpp
+[2.567s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/microxrcedds/transition_description__type_support_cpp.cpp
+[2.567s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/transition__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.568s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/transition_event__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.568s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/detail/transition_description__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.568s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[2.568s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_typesupport_microxrcedds_cpp.so
+[2.568s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs
+[2.568s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv
+[2.568s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail
+[2.568s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__rosidl_typesupport_fastrtps_cpp.hpp
+[2.569s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/dds_fastrtps
+[2.569s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__rosidl_typesupport_fastrtps_cpp.hpp
+[2.569s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__rosidl_typesupport_fastrtps_cpp.hpp
+[2.570s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__rosidl_typesupport_fastrtps_cpp.hpp
+[2.570s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg
+[2.570s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__rosidl_typesupport_fastrtps_cpp.hpp
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/dds_fastrtps
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__rosidl_typesupport_fastrtps_cpp.hpp
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__rosidl_typesupport_fastrtps_cpp.hpp
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__rosidl_typesupport_fastrtps_cpp.hpp
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_typesupport_fastrtps_cpp.so
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs
+[2.571s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv
+[2.572s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail
+[2.572s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__type_support.cpp
+[2.572s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__rosidl_typesupport_introspection_cpp.hpp
+[2.572s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__rosidl_typesupport_introspection_cpp.hpp
+[2.572s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__type_support.cpp
+[2.572s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_state__rosidl_typesupport_introspection_cpp.hpp
+[2.572s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_transitions__type_support.cpp
+[2.572s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/change_state__rosidl_typesupport_introspection_cpp.hpp
+[2.573s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/srv/detail/get_available_states__type_support.cpp
+[2.573s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg
+[2.573s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail
+[2.573s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__rosidl_typesupport_introspection_cpp.hpp
+[2.573s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__rosidl_typesupport_introspection_cpp.hpp
+[2.573s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition__type_support.cpp
+[2.573s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__rosidl_typesupport_introspection_cpp.hpp
+[2.573s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_description__type_support.cpp
+[2.574s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__rosidl_typesupport_introspection_cpp.hpp
+[2.574s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/state__type_support.cpp
+[2.574s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/include/lifecycle_msgs/lifecycle_msgs/msg/detail/transition_event__type_support.cpp
+[2.574s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_typesupport_introspection_cpp.so
+[2.574s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_typesupport_cpp.so
+[2.574s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/environment/pythonpath.sh
+[2.574s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/environment/pythonpath.dsv
+[2.574s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs-1.2.1-py3.10.egg-info
+[2.575s] -- Installing: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs-1.2.1-py3.10.egg-info/dependency_links.txt
+[2.575s] -- Installing: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs-1.2.1-py3.10.egg-info/PKG-INFO
+[2.575s] -- Installing: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs-1.2.1-py3.10.egg-info/SOURCES.txt
+[2.575s] -- Installing: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs-1.2.1-py3.10.egg-info/top_level.txt
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/__init__.py
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/lifecycle_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/__init__.py
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/_get_available_transitions_s.c
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/_get_available_states.py
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/_change_state_s.c
+[2.575s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/_get_state_s.c
+[2.576s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/_get_available_transitions.py
+[2.576s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/_get_state.py
+[2.576s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/_get_available_states_s.c
+[2.576s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv/_change_state.py
+[2.576s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/lifecycle_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.576s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/_lifecycle_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[2.576s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/liblifecycle_msgs__rosidl_generator_py.so
+[2.577s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/_lifecycle_msgs_s.ep.rosidl_typesupport_c.c
+[2.577s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/lifecycle_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.577s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/_lifecycle_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.577s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/_lifecycle_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[2.577s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg
+[2.577s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/__init__.py
+[2.577s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/_transition.py
+[2.578s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/_state.py
+[2.578s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/_transition_event.py
+[2.578s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/_transition_description.py
+[2.578s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/_transition_s.c
+[2.578s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/_state_s.c
+[2.578s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/_transition_description_s.c
+[2.578s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg/_transition_event_s.c
+[2.579s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/lifecycle_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.649s] Listing '/home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs'...
+[2.649s] Listing '/home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/msg'...
+[2.649s] Listing '/home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/srv'...
+[2.662s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/lifecycle_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[2.662s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/lifecycle_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.663s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/lifecycle_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.665s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages/lifecycle_msgs/lifecycle_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.667s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/lib/liblifecycle_msgs__rosidl_generator_py.so
+[2.668s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/msg/State.idl
+[2.670s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/msg/Transition.idl
+[2.671s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/msg/TransitionDescription.idl
+[2.671s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/msg/TransitionEvent.idl
+[2.671s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/ChangeState.idl
+[2.671s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetAvailableStates.idl
+[2.671s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetAvailableTransitions.idl
+[2.672s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetState.idl
+[2.672s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/msg/State.msg
+[2.672s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/msg/Transition.msg
+[2.672s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/msg/TransitionDescription.msg
+[2.672s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/msg/TransitionEvent.msg
+[2.672s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/ChangeState.srv
+[2.672s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/ChangeState_Request.msg
+[2.672s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/ChangeState_Response.msg
+[2.675s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetAvailableStates.srv
+[2.675s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetAvailableStates_Request.msg
+[2.675s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetAvailableStates_Response.msg
+[2.675s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetAvailableTransitions.srv
+[2.675s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetAvailableTransitions_Request.msg
+[2.675s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetAvailableTransitions_Response.msg
+[2.675s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetState.srv
+[2.679s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetState_Request.msg
+[2.680s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/srv/GetState_Response.msg
+[2.681s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/ament_index/resource_index/package_run_dependencies/lifecycle_msgs
+[2.681s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/ament_index/resource_index/parent_prefix_path/lifecycle_msgs
+[2.682s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/environment/ament_prefix_path.sh
+[2.682s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/environment/ament_prefix_path.dsv
+[2.682s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/environment/path.sh
+[2.682s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/environment/path.dsv
+[2.682s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/local_setup.bash
+[2.682s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/local_setup.sh
+[2.682s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/local_setup.zsh
+[2.682s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/local_setup.dsv
+[2.683s] -- Installing: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/package.dsv
+[2.683s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/ament_index/resource_index/packages/lifecycle_msgs
+[2.683s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_generator_cExport.cmake
+[2.683s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_generator_cExport-noconfig.cmake
+[2.683s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[2.683s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.683s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgs__rosidl_typesupport_introspection_cExport.cmake
+[2.683s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.684s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgs__rosidl_typesupport_cExport.cmake
+[2.694s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_generator_cppExport.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgs__rosidl_typesupport_cppExport.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_generator_pyExport.cmake
+[2.695s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/export_lifecycle_msgs__rosidl_generator_pyExport-noconfig.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/rosidl_cmake-extras.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgsConfig.cmake
+[2.696s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/cmake/lifecycle_msgsConfig-version.cmake
+[2.697s] -- Up-to-date: /home/robot/app/robot_ws/install/lifecycle_msgs/share/lifecycle_msgs/package.xml
+[2.753s] Invoked command in '/home/robot/app/robot_ws/build/lifecycle_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/lifecycle_msgs

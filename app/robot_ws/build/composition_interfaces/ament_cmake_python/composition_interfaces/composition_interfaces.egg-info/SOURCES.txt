@@ -1,0 +1,10 @@
+setup.py
+composition_interfaces/__init__.py
+composition_interfaces.egg-info/PKG-INFO
+composition_interfaces.egg-info/SOURCES.txt
+composition_interfaces.egg-info/dependency_links.txt
+composition_interfaces.egg-info/top_level.txt
+composition_interfaces/srv/__init__.py
+composition_interfaces/srv/_list_nodes.py
+composition_interfaces/srv/_load_node.py
+composition_interfaces/srv/_unload_node.py

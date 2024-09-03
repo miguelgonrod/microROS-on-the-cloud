@@ -1,0 +1,10 @@
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/uninstall.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/addtwoints_client_uninstall.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/addtwoints_client.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/test.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/edit_cache.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/rebuild_cache.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/list_install_components.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/install.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/install/local.dir
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build/CMakeFiles/install/strip.dir

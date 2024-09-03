@@ -1,0 +1,881 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc
+[  0%] [34m[1mPerforming build step for 'int32_publisher'[0m
+[  0%] [34m[1mPerforming build step for 'subscription_count'[0m
+[  1%] [34m[1mPerforming build step for 'graph_visualizer'[0m
+[  2%] [34m[1mPerforming build step for 'configured_publisher'[0m
+[  3%] [34m[1mPerforming build step for 'int32_subscriber'[0m
+[  3%] [34m[1mPerforming build step for 'publisher_count'[0m
+[  3%] [34m[1mPerforming build step for 'addtwoints_server'[0m
+[  4%] [34m[1mPerforming build step for 'configured_subscriber'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found example_interfaces: 0.9.3 (/home/robot/app/robot_ws/install/example_interfaces/share/example_interfaces/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Configuring done
+-- Configuring done
+-- Configuring done
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Generating done
+-- Configuring done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher/src/int32_publisher-build
+-- Configuring done
+-- Configuring done
+-- Generating done
+-- Generating done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/graph_introspection/publisher_count/src/publisher_count-build
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/graph_introspection/graph_visualizer/src/graph_visualizer-build
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/graph_introspection/subscription_count/src/subscription_count-build
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_server/src/addtwoints_server-build
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Generating done
+[35m[1mConsolidate compiler generated dependencies of target int32_publisher[0m
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_publisher/src/configured_publisher-build
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[35m[1mConsolidate compiler generated dependencies of target publisher_count[0m
+[35m[1mConsolidate compiler generated dependencies of target graph_visualizer[0m
+[35m[1mConsolidate compiler generated dependencies of target subscription_count[0m
+-- Configuring done
+[ 50%] [32mBuilding C object CMakeFiles/int32_publisher.dir/main.c.o[0m
+[35m[1mConsolidate compiler generated dependencies of target addtwoints_server[0m
+-- Configuring done
+[ 50%] [32mBuilding C object CMakeFiles/graph_visualizer.dir/main.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/publisher_count.dir/main.c.o[0m
+[35m[1mConsolidate compiler generated dependencies of target configured_publisher[0m
+[ 50%] [32mBuilding C object CMakeFiles/subscription_count.dir/main.c.o[0m
+-- Generating done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/configuration_example/configured_subscriber/src/configured_subscriber-build
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_subscriber/src/int32_subscriber-build
+[ 50%] [32mBuilding C object CMakeFiles/addtwoints_server.dir/main.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/configured_publisher.dir/main.c.o[0m
+[35m[1mConsolidate compiler generated dependencies of target int32_subscriber[0m
+[35m[1mConsolidate compiler generated dependencies of target configured_subscriber[0m
+[ 50%] [32mBuilding C object CMakeFiles/int32_subscriber.dir/main.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/configured_subscriber.dir/main.c.o[0m
+[100%] [32m[1mLinking C executable int32_publisher[0m
+[100%] [32m[1mLinking C executable graph_visualizer[0m
+[100%] [32m[1mLinking C executable publisher_count[0m
+[100%] [32m[1mLinking C executable subscription_count[0m
+[100%] [32m[1mLinking C executable addtwoints_server[0m
+[100%] [32m[1mLinking C executable configured_publisher[0m
+[100%] [32m[1mLinking C executable int32_subscriber[0m
+[100%] [32m[1mLinking C executable configured_subscriber[0m
+[100%] Built target int32_publisher
+[100%] Built target graph_visualizer
+[100%] Built target subscription_count
+[  5%] [34m[1mPerforming install step for 'int32_publisher'[0m
+[100%] Built target configured_publisher
+[100%] Built target publisher_count
+[  5%] [34m[1mPerforming install step for 'graph_visualizer'[0m
+[  5%] [34m[1mPerforming install step for 'subscription_count'[0m
+[100%] Built target addtwoints_server
+[  6%] [34m[1mPerforming install step for 'publisher_count'[0m
+[100%] Built target configured_subscriber
+[  6%] [34m[1mPerforming install step for 'configured_publisher'[0m
+[35m[1mConsolidate compiler generated dependencies of target int32_publisher[0m
+[  7%] [34m[1mPerforming install step for 'addtwoints_server'[0m
+[35m[1mConsolidate compiler generated dependencies of target graph_visualizer[0m
+[35m[1mConsolidate compiler generated dependencies of target subscription_count[0m
+[100%] Built target int32_publisher
+[  7%] [34m[1mPerforming install step for 'configured_subscriber'[0m
+[100%] Built target int32_subscriber
+[35m[1mConsolidate compiler generated dependencies of target publisher_count[0m
+[100%] Built target subscription_count
+[100%] Built target graph_visualizer
+[35m[1mConsolidate compiler generated dependencies of target configured_publisher[0m
+[100%] Built target publisher_count
+[36mInstall the project...[0m
+[35m[1mConsolidate compiler generated dependencies of target addtwoints_server[0m
+[36mInstall the project...[0m
+[36mInstall the project...[0m
+[  7%] [34m[1mPerforming install step for 'int32_subscriber'[0m
+[100%] Built target configured_publisher
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher/int32_publisher
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher/int32_publisher" to ""
+[35m[1mConsolidate compiler generated dependencies of target configured_subscriber[0m
+-- Install configuration: ""
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/subscription_count/subscription_count
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/graph_visualizer/graph_visualizer
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/subscription_count/subscription_count" to ""
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/graph_visualizer/graph_visualizer" to ""
+[36mInstall the project...[0m
+[100%] Built target addtwoints_server
+[100%] Built target configured_subscriber
+[  8%] [34m[1mCompleted 'int32_publisher'[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/publisher_count/publisher_count
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/publisher_count/publisher_count" to ""
+[36mInstall the project...[0m
+[  8%] [34m[1mCompleted 'graph_visualizer'[0m
+[  9%] [34m[1mCompleted 'subscription_count'[0m
+-- Install configuration: ""
+[36mInstall the project...[0m
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/configured_publisher/configured_publisher
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/configured_publisher/configured_publisher" to ""
+[36mInstall the project...[0m
+[35m[1mConsolidate compiler generated dependencies of target int32_subscriber[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/configured_subscriber/configured_subscriber
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/configured_subscriber/configured_subscriber" to ""
+[ 10%] [34m[1mCompleted 'publisher_count'[0m
+[ 12%] Built target int32_publisher
+[ 12%] [34m[1mCompleted 'configured_publisher'[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_server/addtwoints_server
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_server/addtwoints_server" to ""
+[100%] Built target int32_subscriber
+[ 15%] Built target graph_visualizer
+[ 15%] [34m[1mCompleted 'configured_subscriber'[0m
+[ 18%] Built target subscription_count
+[36mInstall the project...[0m
+[ 18%] [34m[1mPerforming build step for 'addtwoints_client'[0m
+[ 19%] [34m[1mCompleted 'addtwoints_server'[0m
+[ 20%] [34m[1mPerforming build step for 'fibonacci_action_server'[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_subscriber/int32_subscriber
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_subscriber/int32_subscriber" to ""
+[ 22%] Built target publisher_count
+[ 22%] [34m[1mPerforming build step for 'fibonacci_action_client'[0m
+[ 24%] Built target configured_subscriber
+[ 27%] Built target configured_publisher
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 27%] [34m[1mCompleted 'int32_subscriber'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 29%] Built target addtwoints_server
+[ 30%] [34m[1mPerforming build step for 'ping_pong'[0m
+[ 31%] [34m[1mPerforming build step for 'int32_multinode'[0m
+[ 31%] [34m[1mPerforming build step for 'int32_publisher_subscriber'[0m
+[ 32%] [34m[1mPerforming build step for 'ping_uros_agent'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 34%] Built target int32_subscriber
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 34%] [34m[1mPerforming build step for 'fragmented_publication'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found example_interfaces: 0.9.3 (/home/robot/app/robot_ws/install/example_interfaces/share/example_interfaces/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found example_interfaces: 0.9.3 (/home/robot/app/robot_ws/install/example_interfaces/share/example_interfaces/cmake)
+-- Configuring done
+-- Found example_interfaces: 0.9.3 (/home/robot/app/robot_ws/install/example_interfaces/share/example_interfaces/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/fibonacci_action_server/src/fibonacci_action_server-build
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Configuring done
+-- Generating done
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/fibonacci_action_client/src/fibonacci_action_client-build
+-- Generating done
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/addtwoints_client/src/addtwoints_client-build
+-- Configuring done
+[35m[1mConsolidate compiler generated dependencies of target fibonacci_action_server[0m
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[35m[1mConsolidate compiler generated dependencies of target fibonacci_action_client[0m
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+[35m[1mConsolidate compiler generated dependencies of target addtwoints_client[0m
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Generating done
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+[ 50%] [32mBuilding C object CMakeFiles/fibonacci_action_server.dir/main.c.o[0m
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_pong/src/ping_pong-build
+[ 50%] [32mBuilding C object CMakeFiles/fibonacci_action_client.dir/main.c.o[0m
+-- Configuring done
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[ 50%] [32mBuilding C object CMakeFiles/addtwoints_client.dir/main.c.o[0m
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Configuring done
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_publisher_subscriber/src/int32_publisher_subscriber-build
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/ping_uros_agent/src/ping_uros_agent-build
+-- Configuring done
+[35m[1mConsolidate compiler generated dependencies of target ping_pong[0m
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/int32_multinode/src/int32_multinode-build
+[35m[1mConsolidate compiler generated dependencies of target int32_publisher_subscriber[0m
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+[ 50%] [32mBuilding C object CMakeFiles/ping_pong.dir/main.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/int32_publisher_subscriber.dir/main.c.o[0m
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[35m[1mConsolidate compiler generated dependencies of target ping_uros_agent[0m
+-- Configuring done
+[35m[1mConsolidate compiler generated dependencies of target int32_multinode[0m
+[ 50%] [32mBuilding C object CMakeFiles/ping_uros_agent.dir/main.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/int32_multinode.dir/main.c.o[0m
+[100%] [32m[1mLinking C executable fibonacci_action_server[0m
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_publication/src/fragmented_publication-build
+[100%] [32m[1mLinking C executable fibonacci_action_client[0m
+[100%] [32m[1mLinking C executable addtwoints_client[0m
+[100%] [32m[1mLinking C executable int32_publisher_subscriber[0m
+[35m[1mConsolidate compiler generated dependencies of target fragmented_publication[0m
+[100%] [32m[1mLinking C executable ping_pong[0m
+[ 50%] [32mBuilding C object CMakeFiles/fragmented_publication.dir/main.c.o[0m
+[100%] [32m[1mLinking C executable int32_multinode[0m
+[100%] [32m[1mLinking C executable ping_uros_agent[0m
+[100%] Built target fibonacci_action_server
+[100%] Built target fibonacci_action_client
+[100%] Built target int32_publisher_subscriber
+[ 34%] [34m[1mPerforming install step for 'fibonacci_action_server'[0m
+[ 34%] [34m[1mPerforming install step for 'int32_publisher_subscriber'[0m
+[ 34%] [34m[1mPerforming install step for 'fibonacci_action_client'[0m
+[100%] Built target addtwoints_client
+[100%] Built target ping_pong
+[ 35%] [34m[1mPerforming install step for 'addtwoints_client'[0m
+[ 35%] [34m[1mPerforming install step for 'ping_pong'[0m
+[100%] [32m[1mLinking C executable fragmented_publication[0m
+[100%] Built target int32_multinode
+[100%] Built target ping_uros_agent
+[35m[1mConsolidate compiler generated dependencies of target int32_publisher_subscriber[0m
+[35m[1mConsolidate compiler generated dependencies of target fibonacci_action_server[0m
+[35m[1mConsolidate compiler generated dependencies of target fibonacci_action_client[0m
+[100%] Built target fibonacci_action_server
+[100%] Built target fibonacci_action_client
+[35m[1mConsolidate compiler generated dependencies of target addtwoints_client[0m
+[100%] Built target int32_publisher_subscriber
+[ 35%] [34m[1mPerforming install step for 'int32_multinode'[0m
+[35m[1mConsolidate compiler generated dependencies of target ping_pong[0m
+[ 36%] [34m[1mPerforming install step for 'ping_uros_agent'[0m
+[36mInstall the project...[0m
+[36mInstall the project...[0m
+[100%] Built target ping_pong
+[36mInstall the project...[0m
+[100%] Built target addtwoints_client
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_server/fibonacci_action_server
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_server/fibonacci_action_server" to ""
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_client/fibonacci_action_client
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_client/fibonacci_action_client" to ""
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher_subscriber/int32_publisher_subscriber
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher_subscriber/int32_publisher_subscriber" to ""
+[100%] Built target fragmented_publication
+[36mInstall the project...[0m
+[ 36%] [34m[1mCompleted 'fibonacci_action_server'[0m
+[36mInstall the project...[0m
+[35m[1mConsolidate compiler generated dependencies of target int32_multinode[0m
+[ 37%] [34m[1mCompleted 'fibonacci_action_client'[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/ping_pong/ping_pong
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/ping_pong/ping_pong" to ""
+-- Install configuration: ""
+[35m[1mConsolidate compiler generated dependencies of target ping_uros_agent[0m
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_client/addtwoints_client
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_client/addtwoints_client" to ""
+[ 38%] [34m[1mPerforming install step for 'fragmented_publication'[0m
+[ 39%] [34m[1mCompleted 'int32_publisher_subscriber'[0m
+[100%] Built target int32_multinode
+[100%] Built target ping_uros_agent
+[ 39%] [34m[1mCompleted 'addtwoints_client'[0m
+[ 39%] [34m[1mCompleted 'ping_pong'[0m
+[36mInstall the project...[0m
+[ 42%] Built target fibonacci_action_server
+[36mInstall the project...[0m
+[ 45%] Built target fibonacci_action_client
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_multinode/int32_multinode
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_multinode/int32_multinode" to ""
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/ping_uros_agent/ping_uros_agent
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/ping_uros_agent/ping_uros_agent" to ""
+[ 48%] Built target int32_publisher_subscriber
+[35m[1mConsolidate compiler generated dependencies of target fragmented_publication[0m
+[ 50%] Built target addtwoints_client
+[ 50%] [34m[1mPerforming build step for 'fragmented_subscription'[0m
+[100%] Built target fragmented_publication
+[ 50%] [34m[1mCompleted 'int32_multinode'[0m
+[ 53%] Built target ping_pong
+[ 54%] [34m[1mPerforming build step for 'complex_msg_publisher'[0m
+[ 54%] [34m[1mPerforming build step for 'complex_msg_subscriber'[0m
+[ 54%] [34m[1mCompleted 'ping_uros_agent'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[36mInstall the project...[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 55%] [34m[1mPerforming build step for 'string_publisher'[0m
+[ 56%] [34m[1mPerforming build step for 'timer'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fragmented_publication/fragmented_publication
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fragmented_publication/fragmented_publication" to ""
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 58%] Built target int32_multinode
+[ 59%] Built target ping_uros_agent
+[ 59%] [34m[1mCompleted 'fragmented_publication'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 59%] [34m[1mPerforming build step for 'string_subscriber'[0m
+[ 60%] [34m[1mPerforming build step for 'autodiscover_agent'[0m
+[ 62%] Built target fragmented_publication
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 63%] [34m[1mPerforming build step for 'static_type_handling'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Configuring done
+-- Found complex_msgs: 3.0.2 (/home/robot/app/robot_ws/install/complex_msgs/share/complex_msgs/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/fragmented_subscription/src/fragmented_subscription-build
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found complex_msgs: 3.0.2 (/home/robot/app/robot_ws/install/complex_msgs/share/complex_msgs/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Configuring done
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[35m[1mConsolidate compiler generated dependencies of target fragmented_subscription[0m
+-- Configuring done
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Generating done
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_publisher/src/complex_msg_publisher-build
+-- Configuring done
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Generating done
+-- Configuring done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/timer/src/timer-build
+[ 50%] [32mBuilding C object CMakeFiles/fragmented_subscription.dir/main.c.o[0m
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-build
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/complex_msg_subscriber/src/complex_msg_subscriber-build
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+[35m[1mConsolidate compiler generated dependencies of target timer[0m
+[35m[1mConsolidate compiler generated dependencies of target complex_msg_publisher[0m
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+[35m[1mConsolidate compiler generated dependencies of target string_publisher[0m
+-- Configuring done
+[ 50%] [32mBuilding C object CMakeFiles/timer.dir/main.c.o[0m
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[ 50%] [32mBuilding C object CMakeFiles/complex_msg_publisher.dir/main.c.o[0m
+[35m[1mConsolidate compiler generated dependencies of target complex_msg_subscriber[0m
+[ 50%] [32mBuilding C object CMakeFiles/string_publisher.dir/main.c.o[0m
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/autodiscover_agent/src/autodiscover_agent-build
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[ 50%] [32mBuilding C object CMakeFiles/complex_msg_subscriber.dir/main.c.o[0m
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_subscriber/src/string_subscriber-build
+[100%] [32m[1mLinking C executable fragmented_subscription[0m
+[35m[1mConsolidate compiler generated dependencies of target autodiscover_agent[0m
+[35m[1mConsolidate compiler generated dependencies of target string_subscriber[0m
+-- Found visualization_msgs: 4.2.4 (/home/robot/app/robot_ws/install/visualization_msgs/share/visualization_msgs/cmake)
+[ 50%] [32mBuilding C object CMakeFiles/string_subscriber.dir/main.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/autodiscover_agent.dir/main.c.o[0m
+[100%] [32m[1mLinking C executable timer[0m
+[100%] [32m[1mLinking C executable complex_msg_subscriber[0m
+[100%] [32m[1mLinking C executable complex_msg_publisher[0m
+[100%] [32m[1mLinking C executable string_publisher[0m
+[100%] Built target fragmented_subscription
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+[100%] [32m[1mLinking C executable string_subscriber[0m
+-- Found micro_ros_utilities: 3.0.2 (/home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake)
+[100%] [32m[1mLinking C executable autodiscover_agent[0m
+-- Configuring done
+[100%] Built target timer
+[ 64%] [34m[1mPerforming install step for 'fragmented_subscription'[0m
+[100%] Built target string_publisher
+[100%] Built target complex_msg_publisher
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/static_type_handling/src/static_type_handling-build
+[ 64%] [34m[1mPerforming install step for 'timer'[0m
+[100%] Built target complex_msg_subscriber
+[ 64%] [34m[1mPerforming install step for 'string_publisher'[0m
+[ 65%] [34m[1mPerforming install step for 'complex_msg_publisher'[0m
+[35m[1mConsolidate compiler generated dependencies of target fragmented_subscription[0m
+[ 66%] [34m[1mPerforming install step for 'complex_msg_subscriber'[0m
+[35m[1mConsolidate compiler generated dependencies of target static_type_handling[0m
+[100%] Built target string_subscriber
+[100%] Built target fragmented_subscription
+[100%] Built target autodiscover_agent
+[35m[1mConsolidate compiler generated dependencies of target timer[0m
+[35m[1mConsolidate compiler generated dependencies of target string_publisher[0m
+[ 50%] [32mBuilding C object CMakeFiles/static_type_handling.dir/main.c.o[0m
+[35m[1mConsolidate compiler generated dependencies of target complex_msg_publisher[0m
+[100%] Built target timer
+[36mInstall the project...[0m
+[100%] Built target string_publisher
+[35m[1mConsolidate compiler generated dependencies of target complex_msg_subscriber[0m
+[ 67%] [34m[1mPerforming install step for 'string_subscriber'[0m
+[ 67%] [34m[1mPerforming install step for 'autodiscover_agent'[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fragmented_subscription/fragmented_subscription
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fragmented_subscription/fragmented_subscription" to ""
+[100%] Built target complex_msg_publisher
+[100%] Built target complex_msg_subscriber
+[36mInstall the project...[0m
+[ 68%] [34m[1mCompleted 'fragmented_subscription'[0m
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/timer/timer
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/timer/timer" to ""
+[36mInstall the project...[0m
+[36mInstall the project...[0m
+-- Install configuration: ""
+[35m[1mConsolidate compiler generated dependencies of target autodiscover_agent[0m
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/string_publisher/string_publisher
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/string_publisher/string_publisher" to ""
+[35m[1mConsolidate compiler generated dependencies of target string_subscriber[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_publisher/complex_msg_publisher
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_publisher/complex_msg_publisher" to ""
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_subscriber/complex_msg_subscriber
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_subscriber/complex_msg_subscriber" to ""
+[ 68%] [34m[1mCompleted 'timer'[0m
+[100%] Built target autodiscover_agent
+[100%] Built target string_subscriber
+[ 68%] [34m[1mCompleted 'string_publisher'[0m
+[ 70%] Built target fragmented_subscription
+[ 71%] [34m[1mCompleted 'complex_msg_subscriber'[0m
+[36mInstall the project...[0m
+[ 71%] [34m[1mCompleted 'complex_msg_publisher'[0m
+[100%] [32m[1mLinking C executable static_type_handling[0m
+-- Install configuration: ""
+[ 74%] Built target timer
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/autodiscover_agent/autodiscover_agent
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/autodiscover_agent/autodiscover_agent" to ""
+[36mInstall the project...[0m
+[ 74%] [34m[1mPerforming build step for 'epoch_synchronization'[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/string_subscriber/string_subscriber
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/string_subscriber/string_subscriber" to ""
+[ 76%] Built target string_publisher
+[ 76%] [34m[1mPerforming build step for 'parameter_server'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[ 78%] Built target complex_msg_subscriber
+[ 78%] [34m[1mCompleted 'autodiscover_agent'[0m
+[ 79%] Built target complex_msg_publisher
+[ 80%] [34m[1mCompleted 'string_subscriber'[0m
+[ 80%] [34m[1mPerforming build step for 'multithread_publisher_subscriber'[0m
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[100%] Built target static_type_handling
+[ 83%] Built target autodiscover_agent
+[ 85%] Built target string_subscriber
+[ 85%] [34m[1mPerforming install step for 'static_type_handling'[0m
+[35m[1mConsolidate compiler generated dependencies of target static_type_handling[0m
+[100%] Built target static_type_handling
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/static_type_handling/static_type_handling
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/static_type_handling/static_type_handling" to ""
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+[ 85%] [34m[1mCompleted 'static_type_handling'[0m
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[ 88%] Built target static_type_handling
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found rclc: 4.0.2 (/home/robot/app/robot_ws/install/rclc/share/rclc/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found rclc_parameter: 4.0.2 (/home/robot/app/robot_ws/install/rclc_parameter/share/rclc_parameter/cmake)
+-- Found std_msgs: 4.2.4 (/home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Found micro_ros_utilities: 3.0.2 (/home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake)
+-- Configuring done
+-- Found rmw_microxrcedds: 3.0.3 (/home/robot/app/robot_ws/install/rmw_microxrcedds/share/rmw_microxrcedds/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/multithread_publisher_subscriber/src/multithread_publisher_subscriber-build
+-- Generating done
+-- Configuring done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/parameter_server/src/parameter_server-build
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/epoch_synchronization/src/epoch_synchronization-build
+[35m[1mConsolidate compiler generated dependencies of target multithread_publisher_subscriber[0m
+[35m[1mConsolidate compiler generated dependencies of target parameter_server[0m
+[ 50%] [32mBuilding C object CMakeFiles/multithread_publisher_subscriber.dir/main.c.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/parameter_server.dir/main.c.o[0m
+[35m[1mConsolidate compiler generated dependencies of target epoch_synchronization[0m
+[ 50%] [32mBuilding C object CMakeFiles/epoch_synchronization.dir/main.c.o[0m
+[100%] [32m[1mLinking C executable epoch_synchronization[0m
+[100%] [32m[1mLinking C executable multithread_publisher_subscriber[0m
+[100%] [32m[1mLinking C executable parameter_server[0m
+[100%] Built target epoch_synchronization
+[100%] Built target multithread_publisher_subscriber
+[ 89%] [34m[1mPerforming install step for 'epoch_synchronization'[0m
+[ 90%] [34m[1mPerforming install step for 'multithread_publisher_subscriber'[0m
+[100%] Built target parameter_server
+[ 90%] [34m[1mPerforming install step for 'parameter_server'[0m
+[35m[1mConsolidate compiler generated dependencies of target epoch_synchronization[0m
+[35m[1mConsolidate compiler generated dependencies of target multithread_publisher_subscriber[0m
+[100%] Built target epoch_synchronization
+[100%] Built target multithread_publisher_subscriber
+[35m[1mConsolidate compiler generated dependencies of target parameter_server[0m
+[36mInstall the project...[0m
+[36mInstall the project...[0m
+[100%] Built target parameter_server
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/multithread_publisher_subscriber/multithread_publisher_subscriber
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/multithread_publisher_subscriber/multithread_publisher_subscriber" to ""
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/epoch_synchronization/epoch_synchronization
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/epoch_synchronization/epoch_synchronization" to ""
+[36mInstall the project...[0m
+[ 91%] [34m[1mCompleted 'multithread_publisher_subscriber'[0m
+[ 92%] [34m[1mCompleted 'epoch_synchronization'[0m
+-- Install configuration: ""
+-- Installing: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/parameter_server/parameter_server
+-- Set runtime path of "/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/parameter_server/parameter_server" to ""
+[ 93%] [34m[1mCompleted 'parameter_server'[0m
+[ 95%] Built target multithread_publisher_subscriber
+[ 97%] Built target epoch_synchronization
+[100%] Built target parameter_server
+-- Install configuration: ""
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/subscription_count
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/subscription_count/subscription_count
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_publisher
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_publisher/complex_msg_publisher
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_client
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_client/fibonacci_action_client
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_subscription
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_subscription/fragmented_subscription
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_uros_agent
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_uros_agent/ping_uros_agent
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_pong
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_pong/ping_pong
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher/int32_publisher
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_publisher
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_publisher/string_publisher
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/parameter_server
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/parameter_server/parameter_server
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_subscriber
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_subscriber/int32_subscriber
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/static_type_handling
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/static_type_handling/static_type_handling
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_publisher
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_publisher/configured_publisher
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_server
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_server/fibonacci_action_server
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_subscriber
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_subscriber/complex_msg_subscriber
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_client
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_client/addtwoints_client
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_subscriber
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_subscriber/configured_subscriber
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher_subscriber
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher_subscriber/int32_publisher_subscriber
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/publisher_count
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/publisher_count/publisher_count
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_server
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_server/addtwoints_server
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_publication
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_publication/fragmented_publication
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/multithread_publisher_subscriber
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/multithread_publisher_subscriber/multithread_publisher_subscriber
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_subscriber
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_subscriber/string_subscriber
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/graph_visualizer
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/graph_visualizer/graph_visualizer
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/timer
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/timer/timer
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/epoch_synchronization
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/epoch_synchronization/epoch_synchronization
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/autodiscover_agent
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/autodiscover_agent/autodiscover_agent
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_multinode
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_multinode/int32_multinode
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/package_run_dependencies/micro_ros_demos_rclc
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/parent_prefix_path/micro_ros_demos_rclc
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.bash
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.sh
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/package.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/packages/micro_ros_demos_rclc
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/cmake/micro_ros_demos_rclcConfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/cmake/micro_ros_demos_rclcConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/package.xml

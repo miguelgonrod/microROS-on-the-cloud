@@ -1,0 +1,23 @@
+[0.025s] Invoking command in '/home/robot/app/robot_ws/build/microcdr': /usr/bin/cmake /home/robot/app/robot_ws/src/eProsima/Micro-CDR -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DUCDR_ISOLATED_INSTALL=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/microcdr
+[0.052s] -- Configuring done
+[0.057s] -- Generating done
+[0.058s] -- Build files have been written to: /home/robot/app/robot_ws/build/microcdr
+[0.061s] Invoked command in '/home/robot/app/robot_ws/build/microcdr' returned '0': /usr/bin/cmake /home/robot/app/robot_ws/src/eProsima/Micro-CDR -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DUCDR_ISOLATED_INSTALL=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/microcdr
+[0.063s] Invoking command in '/home/robot/app/robot_ws/build/microcdr': /usr/bin/cmake --build /home/robot/app/robot_ws/build/microcdr -- -j8 -l8
+[0.145s] [35m[1mConsolidate compiler generated dependencies of target microcdr[0m
+[0.169s] [100%] Built target microcdr
+[0.193s] Invoked command in '/home/robot/app/robot_ws/build/microcdr' returned '0': /usr/bin/cmake --build /home/robot/app/robot_ws/build/microcdr -- -j8 -l8
+[0.278s] Invoking command in '/home/robot/app/robot_ws/build/microcdr': /usr/bin/cmake --install /home/robot/app/robot_ws/build/microcdr
+[0.292s] -- Install configuration: "Release"
+[0.292s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/lib/libmicrocdr.so.2.0.1
+[0.293s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/lib/libmicrocdr.so.2.0
+[0.293s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/lib/libmicrocdr.so
+[0.293s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/include/ucdr
+[0.293s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/include/ucdr/visibility.h
+[0.293s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/include/ucdr/microcdr.h
+[0.294s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/include/ucdr/config.h
+[0.294s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/share/microcdr/cmake/microcdrTargets.cmake
+[0.294s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/share/microcdr/cmake/microcdrTargets-release.cmake
+[0.294s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/share/microcdr/cmake/microcdrConfig.cmake
+[0.294s] -- Up-to-date: /home/robot/app/robot_ws/install/microcdr/share/microcdr/cmake/microcdrConfigVersion.cmake
+[0.296s] Invoked command in '/home/robot/app/robot_ws/build/microcdr' returned '0': /usr/bin/cmake --install /home/robot/app/robot_ws/build/microcdr

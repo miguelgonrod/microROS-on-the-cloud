@@ -1,0 +1,356 @@
+[0.024s] Invoking command in '/home/robot/app/robot_ws/build/shape_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/common_interfaces/shape_msgs -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/shape_msgs
+[0.104s] -- The C compiler identification is GNU 11.4.0
+[0.191s] -- The CXX compiler identification is GNU 11.4.0
+[0.206s] -- Detecting C compiler ABI info
+[0.319s] -- Detecting C compiler ABI info - done
+[0.338s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.338s] -- Detecting C compile features
+[0.339s] -- Detecting C compile features - done
+[0.344s] -- Detecting CXX compiler ABI info
+[0.484s] -- Detecting CXX compiler ABI info - done
+[0.495s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.495s] -- Detecting CXX compile features
+[0.496s] -- Detecting CXX compile features - done
+[0.503s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.762s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.904s] -- Found geometry_msgs: 4.2.4 (/home/robot/app/robot_ws/install/geometry_msgs/share/geometry_msgs/cmake)
+[0.967s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.992s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.009s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.035s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.075s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.155s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.636s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.499s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.885s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.922s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.926s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.971s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.971s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.971s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.972s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.009s] -- Found PythonExtra: .so  
+[3.175s] -- Configuring done
+[3.333s] -- Generating done
+[3.342s] -- Build files have been written to: /home/robot/app/robot_ws/build/shape_msgs
+[3.364s] Invoked command in '/home/robot/app/robot_ws/build/shape_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/robot/app/robot_ws/src/ros2/common_interfaces/shape_msgs -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/shape_msgs
+[3.364s] Invoking command in '/home/robot/app/robot_ws/build/shape_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/robot/app/robot_ws/build/shape_msgs -- -j8 -l8
+[3.498s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[3.542s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.587s] [  2%] Built target ament_cmake_python_copy_shape_msgs
+[4.186s] running egg_info
+[4.191s] creating shape_msgs.egg-info
+[4.191s] writing shape_msgs.egg-info/PKG-INFO
+[4.192s] writing dependency_links to shape_msgs.egg-info/dependency_links.txt
+[4.192s] writing top-level names to shape_msgs.egg-info/top_level.txt
+[4.192s] writing manifest file 'shape_msgs.egg-info/SOURCES.txt'
+[4.196s] reading manifest file 'shape_msgs.egg-info/SOURCES.txt'
+[4.197s] writing manifest file 'shape_msgs.egg-info/SOURCES.txt'
+[4.257s] [  2%] Built target ament_cmake_python_build_shape_msgs_egg
+[6.311s] [  2%] Built target shape_msgs__cpp
+[6.452s] [  4%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_c.dir/rosidl_generator_c/shape_msgs/msg/detail/mesh__functions.c.o[0m
+[6.533s] [  5%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_c.dir/rosidl_generator_c/shape_msgs/msg/detail/solid_primitive__functions.c.o[0m
+[6.678s] [  7%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_c.dir/rosidl_generator_c/shape_msgs/msg/detail/plane__functions.c.o[0m
+[6.758s] [  8%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_c.dir/rosidl_generator_c/shape_msgs/msg/detail/mesh_triangle__functions.c.o[0m
+[6.843s] [ 10%] [32m[1mLinking C shared library libshape_msgs__rosidl_generator_c.so[0m
+[6.917s] [ 10%] Built target shape_msgs__rosidl_generator_c
+[6.959s] [ 11%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[8.299s] [ 13%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/shape_msgs/msg/detail/mesh__type_support.cpp.o[0m
+[9.253s] [ 14%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/shape_msgs/msg/detail/mesh_triangle__type_support.cpp.o[0m
+[10.004s] [ 15%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/shape_msgs/msg/detail/plane__type_support.cpp.o[0m
+[10.804s] [ 17%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/shape_msgs/msg/detail/solid_primitive__type_support.cpp.o[0m
+[11.638s] [ 18%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[11.784s] [ 18%] Built target shape_msgs__rosidl_typesupport_introspection_cpp
+[11.803s] [ 20%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[13.049s] [ 21%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/shape_msgs/msg/mesh__type_support.cpp.o[0m
+[13.147s] [ 23%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/shape_msgs/msg/mesh_triangle__type_support.cpp.o[0m
+[13.204s] [ 24%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/shape_msgs/msg/plane__type_support.cpp.o[0m
+[13.260s] [ 26%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/shape_msgs/msg/solid_primitive__type_support.cpp.o[0m
+[13.328s] [ 27%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_c.so[0m
+[13.437s] [ 27%] Built target shape_msgs__rosidl_typesupport_c
+[13.465s] [ 28%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[14.645s] [ 30%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/shape_msgs/msg/detail/mesh__type_support.c.o[0m
+[14.715s] [ 31%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/shape_msgs/msg/detail/plane__type_support.c.o[0m
+[14.776s] [ 33%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/shape_msgs/msg/detail/solid_primitive__type_support.c.o[0m
+[14.855s] [ 34%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/shape_msgs/msg/detail/mesh_triangle__type_support.c.o[0m
+[14.928s] [ 36%] [32m[1mLinking C shared library libshape_msgs__rosidl_typesupport_introspection_c.so[0m
+[15.009s] [ 36%] Built target shape_msgs__rosidl_typesupport_introspection_c
+[15.038s] [ 37%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[16.370s] [ 39%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/shape_msgs/msg/detail/microxrcedds/mesh__type_support_c.c.o[0m
+[16.482s] [ 40%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/shape_msgs/msg/detail/microxrcedds/solid_primitive__type_support_c.c.o[0m
+[16.579s] [ 42%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/shape_msgs/msg/detail/microxrcedds/plane__type_support_c.c.o[0m
+[16.676s] [ 43%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/shape_msgs/msg/detail/microxrcedds/mesh_triangle__type_support_c.c.o[0m
+[16.759s] [ 44%] [32m[1mLinking C shared library libshape_msgs__rosidl_typesupport_microxrcedds_c.so[0m
+[16.855s] [ 44%] Built target shape_msgs__rosidl_typesupport_microxrcedds_c
+[16.873s] [ 46%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[18.218s] [ 47%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/shape_msgs/msg/detail/mesh__type_support_c.cpp.o[0m
+[18.893s] [ 49%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/shape_msgs/msg/detail/solid_primitive__type_support_c.cpp.o[0m
+[19.464s] [ 50%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/shape_msgs/msg/detail/plane__type_support_c.cpp.o[0m
+[20.044s] [ 52%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/shape_msgs/msg/detail/mesh_triangle__type_support_c.cpp.o[0m
+[20.598s] [ 53%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[20.712s] [ 53%] Built target shape_msgs__rosidl_typesupport_fastrtps_c
+[20.730s] [ 55%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[21.868s] [ 56%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/shape_msgs/msg/detail/microxrcedds/mesh__type_support_cpp.cpp.o[0m
+[22.541s] [ 57%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/shape_msgs/msg/detail/microxrcedds/solid_primitive__type_support_cpp.cpp.o[0m
+[23.035s] [ 59%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/shape_msgs/msg/detail/microxrcedds/plane__type_support_cpp.cpp.o[0m
+[23.434s] [ 60%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/shape_msgs/msg/detail/microxrcedds/mesh_triangle__type_support_cpp.cpp.o[0m
+[23.858s] [ 62%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_microxrcedds_cpp.so[0m
+[23.989s] [ 62%] Built target shape_msgs__rosidl_typesupport_microxrcedds_cpp
+[24.006s] [ 63%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[25.103s] [ 65%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/shape_msgs/msg/detail/dds_fastrtps/mesh__type_support.cpp.o[0m
+[25.916s] [ 66%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/shape_msgs/msg/detail/dds_fastrtps/solid_primitive__type_support.cpp.o[0m
+[26.695s] [ 68%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/shape_msgs/msg/detail/dds_fastrtps/plane__type_support.cpp.o[0m
+[27.398s] [ 69%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/shape_msgs/msg/detail/dds_fastrtps/mesh_triangle__type_support.cpp.o[0m
+[28.067s] [ 71%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[28.233s] [ 71%] Built target shape_msgs__rosidl_typesupport_fastrtps_cpp
+[28.251s] [ 72%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[29.238s] [ 73%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/shape_msgs/msg/mesh__type_support.cpp.o[0m
+[29.719s] [ 75%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/shape_msgs/msg/solid_primitive__type_support.cpp.o[0m
+[30.226s] [ 76%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/shape_msgs/msg/plane__type_support.cpp.o[0m
+[30.760s] [ 78%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/shape_msgs/msg/mesh_triangle__type_support.cpp.o[0m
+[31.195s] [ 79%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_cpp.so[0m
+[31.275s] [ 79%] Built target shape_msgs__rosidl_typesupport_cpp
+[31.303s] [ 79%] Built target shape_msgs
+[31.344s] [ 81%] [34m[1mGenerating Python code for ROS interfaces[0m
+[33.377s] [ 81%] Built target shape_msgs__py
+[33.421s] [ 82%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_py.dir/rosidl_generator_py/shape_msgs/msg/_mesh_s.c.o[0m
+[33.623s] [ 84%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_py.dir/rosidl_generator_py/shape_msgs/msg/_solid_primitive_s.c.o[0m
+[33.828s] [ 85%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_py.dir/rosidl_generator_py/shape_msgs/msg/_plane_s.c.o[0m
+[34.031s] [ 86%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_py.dir/rosidl_generator_py/shape_msgs/msg/_mesh_triangle_s.c.o[0m
+[34.244s] [ 88%] [32m[1mLinking C shared library rosidl_generator_py/shape_msgs/libshape_msgs__rosidl_generator_py.so[0m
+[34.323s] [ 88%] Built target shape_msgs__rosidl_generator_py
+[34.359s] [ 89%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_microxrcedds_c__pyext.dir/rosidl_generator_py/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c.o[0m
+[34.533s] [ 91%] [32m[1mLinking C shared library rosidl_generator_py/shape_msgs/shape_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[34.593s] [ 91%] Built target shape_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[34.629s] [ 92%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[34.811s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/shape_msgs/shape_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[34.878s] [ 94%] Built target shape_msgs__rosidl_typesupport_c__pyext
+[34.914s] [ 95%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[35.129s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/shape_msgs/shape_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[35.212s] [ 97%] Built target shape_msgs__rosidl_typesupport_introspection_c__pyext
+[35.248s] [ 98%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[35.456s] [100%] [32m[1mLinking C shared library rosidl_generator_py/shape_msgs/shape_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[35.518s] [100%] Built target shape_msgs__rosidl_typesupport_fastrtps_c__pyext
+[35.533s] Invoked command in '/home/robot/app/robot_ws/build/shape_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/robot/app/robot_ws/build/shape_msgs -- -j8 -l8
+[35.752s] Invoking command in '/home/robot/app/robot_ws/build/shape_msgs': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/robot/app/robot_ws/build/shape_msgs
+[35.763s] -- Install configuration: ""
+[35.764s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/ament_index/resource_index/rosidl_interfaces/shape_msgs
+[35.765s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs
+[35.765s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg
+[35.765s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/mesh_triangle.h
+[35.765s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/mesh.h
+[35.767s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail
+[35.767s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__type_support.h
+[35.768s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__struct.h
+[35.768s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__functions.h
+[35.769s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__type_support.h
+[35.770s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__struct.h
+[35.770s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__functions.h
+[35.771s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__functions.h
+[35.771s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__struct.h
+[35.772s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__functions.c
+[35.772s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__functions.c
+[35.772s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__struct.h
+[35.773s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__type_support.h
+[35.773s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__type_support.h
+[35.773s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__functions.c
+[35.773s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__functions.h
+[35.773s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__functions.c
+[35.773s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/plane.h
+[35.773s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/solid_primitive.h
+[35.774s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/rosidl_generator_c__visibility_control.h
+[35.774s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/environment/library_path.sh
+[35.774s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/environment/library_path.dsv
+[35.775s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_generator_c.so
+[35.776s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_generator_c.so" to ""
+[35.776s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs
+[35.776s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg
+[35.776s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail
+[35.776s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__rosidl_typesupport_fastrtps_c.h
+[35.777s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__rosidl_typesupport_fastrtps_c.h
+[35.777s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__rosidl_typesupport_fastrtps_c.h
+[35.777s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__rosidl_typesupport_fastrtps_c.h
+[35.777s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[35.777s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_fastrtps_c.so
+[35.778s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[35.779s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs
+[35.779s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg
+[35.779s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/mesh.hpp
+[35.779s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/solid_primitive.hpp
+[35.779s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/mesh_triangle.hpp
+[35.780s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/plane.hpp
+[35.780s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail
+[35.780s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__builder.hpp
+[35.780s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__builder.hpp
+[35.781s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__traits.hpp
+[35.781s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__traits.hpp
+[35.781s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__struct.hpp
+[35.783s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__builder.hpp
+[35.784s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__builder.hpp
+[35.784s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__struct.hpp
+[35.785s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__traits.hpp
+[35.785s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__struct.hpp
+[35.785s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__struct.hpp
+[35.785s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__traits.hpp
+[35.785s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs
+[35.785s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg
+[35.785s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[35.789s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail
+[35.790s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__rosidl_typesupport_fastrtps_cpp.hpp
+[35.790s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__rosidl_typesupport_fastrtps_cpp.hpp
+[35.790s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/dds_fastrtps
+[35.790s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__rosidl_typesupport_fastrtps_cpp.hpp
+[35.790s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__rosidl_typesupport_fastrtps_cpp.hpp
+[35.790s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_fastrtps_cpp.so
+[35.790s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[35.791s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs
+[35.791s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg
+[35.791s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail
+[35.791s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/solid_primitive__rosidl_typesupport_microxrcedds_c.h
+[35.792s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/mesh_triangle__rosidl_typesupport_microxrcedds_c.h
+[35.792s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/microxrcedds
+[35.792s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/mesh__rosidl_typesupport_microxrcedds_c.h
+[35.792s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/plane__rosidl_typesupport_microxrcedds_c.h
+[35.792s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[35.792s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_microxrcedds_c.so
+[35.792s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_microxrcedds_c.so" to ""
+[35.793s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs
+[35.793s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg
+[35.793s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[35.793s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail
+[35.793s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__rosidl_typesupport_introspection_c.h
+[35.793s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__type_support.c
+[35.794s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__rosidl_typesupport_introspection_c.h
+[35.794s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__type_support.c
+[35.794s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__type_support.c
+[35.794s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__type_support.c
+[35.794s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__rosidl_typesupport_introspection_c.h
+[35.795s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__rosidl_typesupport_introspection_c.h
+[35.795s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_introspection_c.so
+[35.795s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_introspection_c.so" to ""
+[35.795s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_c.so
+[35.795s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_c.so" to ""
+[35.795s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs
+[35.796s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg
+[35.796s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail
+[35.796s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/plane__rosidl_typesupport_microxrcedds_cpp.hpp
+[35.796s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/microxrcedds
+[35.796s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/microxrcedds/mesh__type_support_cpp.cpp
+[35.796s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/microxrcedds/solid_primitive__type_support_cpp.cpp
+[35.797s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/microxrcedds/mesh_triangle__type_support_cpp.cpp
+[35.797s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/microxrcedds/plane__type_support_cpp.cpp
+[35.797s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/solid_primitive__rosidl_typesupport_microxrcedds_cpp.hpp
+[35.797s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/mesh__rosidl_typesupport_microxrcedds_cpp.hpp
+[35.797s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/detail/mesh_triangle__rosidl_typesupport_microxrcedds_cpp.hpp
+[35.797s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[35.802s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_microxrcedds_cpp.so
+[35.802s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_microxrcedds_cpp.so" to ""
+[35.803s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs
+[35.803s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg
+[35.803s] -- Up-to-date: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail
+[35.803s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__rosidl_typesupport_introspection_cpp.hpp
+[35.803s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__type_support.cpp
+[35.803s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__rosidl_typesupport_introspection_cpp.hpp
+[35.804s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__type_support.cpp
+[35.804s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh_triangle__rosidl_typesupport_introspection_cpp.hpp
+[35.804s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/solid_primitive__type_support.cpp
+[35.805s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/plane__type_support.cpp
+[35.806s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/include/shape_msgs/shape_msgs/msg/detail/mesh__rosidl_typesupport_introspection_cpp.hpp
+[35.806s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_introspection_cpp.so
+[35.806s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[35.806s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_cpp.so
+[35.806s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_cpp.so" to ""
+[35.806s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/environment/pythonpath.sh
+[35.806s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/environment/pythonpath.dsv
+[35.806s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs-4.2.4-py3.10.egg-info
+[35.807s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs-4.2.4-py3.10.egg-info/dependency_links.txt
+[35.807s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs-4.2.4-py3.10.egg-info/PKG-INFO
+[35.807s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs-4.2.4-py3.10.egg-info/SOURCES.txt
+[35.807s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs-4.2.4-py3.10.egg-info/top_level.txt
+[35.807s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs
+[35.807s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/__init__.py
+[35.807s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_c.c
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/libshape_msgs__rosidl_generator_py.so
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[35.808s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg
+[35.809s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/__init__.py
+[35.809s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_plane.py
+[35.809s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_mesh.py
+[35.809s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_plane_s.c
+[35.809s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_solid_primitive_s.c
+[35.809s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_mesh_s.c
+[35.810s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_mesh_triangle_s.c
+[35.810s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_solid_primitive.py
+[35.810s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_mesh_triangle.py
+[35.884s] Listing '/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs'...
+[35.885s] Compiling '/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/__init__.py'...
+[35.885s] Listing '/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg'...
+[35.885s] Compiling '/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/__init__.py'...
+[35.885s] Compiling '/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_mesh.py'...
+[35.885s] Compiling '/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_mesh_triangle.py'...
+[35.885s] Compiling '/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_plane.py'...
+[35.885s] Compiling '/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/msg/_solid_primitive.py'...
+[35.892s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[35.893s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so" to ""
+[35.893s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[35.893s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[35.894s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[35.894s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[35.896s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[35.896s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/local/lib/python3.10/dist-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[35.896s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_generator_py.so
+[35.896s] -- Set runtime path of "/home/robot/app/robot_ws/install/shape_msgs/lib/libshape_msgs__rosidl_generator_py.so" to ""
+[35.897s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/msg/Mesh.idl
+[35.897s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/msg/MeshTriangle.idl
+[35.898s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/msg/Plane.idl
+[35.898s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/msg/SolidPrimitive.idl
+[35.898s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/msg/Mesh.msg
+[35.898s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/msg/MeshTriangle.msg
+[35.899s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/msg/Plane.msg
+[35.899s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/msg/SolidPrimitive.msg
+[35.899s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/ament_index/resource_index/package_run_dependencies/shape_msgs
+[35.901s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/ament_index/resource_index/parent_prefix_path/shape_msgs
+[35.901s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/environment/ament_prefix_path.sh
+[35.901s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/environment/ament_prefix_path.dsv
+[35.902s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/environment/path.sh
+[35.902s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/environment/path.dsv
+[35.902s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/local_setup.bash
+[35.903s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/local_setup.sh
+[35.903s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/local_setup.zsh
+[35.903s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/local_setup.dsv
+[35.904s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/package.dsv
+[35.905s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/ament_index/resource_index/packages/shape_msgs
+[35.908s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_generator_cExport.cmake
+[35.908s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_generator_cExport-noconfig.cmake
+[35.908s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[35.908s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[35.908s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_generator_cppExport.cmake
+[35.908s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[35.908s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[35.909s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgs__rosidl_typesupport_introspection_cExport.cmake
+[35.909s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[35.909s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgs__rosidl_typesupport_cExport.cmake
+[35.909s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[35.909s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[35.909s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[35.909s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgs__rosidl_typesupport_cppExport.cmake
+[35.910s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[35.910s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_generator_pyExport.cmake
+[35.910s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/export_shape_msgs__rosidl_generator_pyExport-noconfig.cmake
+[35.910s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/rosidl_cmake-extras.cmake
+[35.910s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[35.910s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[35.911s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[35.911s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[35.911s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[35.914s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[35.915s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgsConfig.cmake
+[35.915s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/cmake/shape_msgsConfig-version.cmake
+[35.915s] -- Installing: /home/robot/app/robot_ws/install/shape_msgs/share/shape_msgs/package.xml
+[35.919s] Invoked command in '/home/robot/app/robot_ws/build/shape_msgs' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_setup:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/robot/app/robot_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/robot/app/robot_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/robot/app/robot_ws/build/shape_msgs

@@ -1,0 +1,13 @@
+# Target labels
+ string_publisher
+# Source files and their labels
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/string_publisher
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/string_publisher.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/CMakeFiles/string_publisher-complete.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-build.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-configure.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-download.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-install.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-mkdir.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-patch.rule
+/home/robot/app/robot_ws/build/micro_ros_demos_rclc/string_publisher/src/string_publisher-stamp/string_publisher-update.rule

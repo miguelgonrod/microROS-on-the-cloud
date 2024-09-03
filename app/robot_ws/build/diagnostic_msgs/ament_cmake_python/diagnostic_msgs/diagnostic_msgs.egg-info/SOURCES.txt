@@ -1,0 +1,13 @@
+setup.py
+diagnostic_msgs/__init__.py
+diagnostic_msgs.egg-info/PKG-INFO
+diagnostic_msgs.egg-info/SOURCES.txt
+diagnostic_msgs.egg-info/dependency_links.txt
+diagnostic_msgs.egg-info/top_level.txt
+diagnostic_msgs/msg/__init__.py
+diagnostic_msgs/msg/_diagnostic_array.py
+diagnostic_msgs/msg/_diagnostic_status.py
+diagnostic_msgs/msg/_key_value.py
+diagnostic_msgs/srv/__init__.py
+diagnostic_msgs/srv/_add_diagnostics.py
+diagnostic_msgs/srv/_self_test.py

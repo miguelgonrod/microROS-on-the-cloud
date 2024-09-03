@@ -1,0 +1,972 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found builtin_interfaces: 1.2.1 (/home/robot/app/robot_ws/install/builtin_interfaces/share/builtin_interfaces/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/std_msgs
+[  0%] Built target std_msgs__cpp
+[  0%] Built target ament_cmake_python_copy_std_msgs
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_introspection_cpp[0m
+[  9%] Built target std_msgs__rosidl_typesupport_introspection_cpp
+running egg_info
+writing std_msgs.egg-info/PKG-INFO
+writing dependency_links to std_msgs.egg-info/dependency_links.txt
+writing top-level names to std_msgs.egg-info/top_level.txt
+reading manifest file 'std_msgs.egg-info/SOURCES.txt'
+writing manifest file 'std_msgs.egg-info/SOURCES.txt'
+[  9%] Built target ament_cmake_python_build_std_msgs_egg
+[  9%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_microxrcedds_cpp[0m
+[  9%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/bool__type_support_cpp.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/color_rgba__type_support_cpp.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/empty__type_support_cpp.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/float32__type_support_cpp.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/float32_multi_array__type_support_cpp.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/float64__type_support_cpp.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/float64_multi_array__type_support_cpp.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/header__type_support_cpp.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/int16__type_support_cpp.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/int16_multi_array__type_support_cpp.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/int32__type_support_cpp.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/int32_multi_array__type_support_cpp.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/int64__type_support_cpp.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/int64_multi_array__type_support_cpp.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/int8__type_support_cpp.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/int8_multi_array__type_support_cpp.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/multi_array_dimension__type_support_cpp.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/multi_array_layout__type_support_cpp.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/string__type_support_cpp.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/u_int16__type_support_cpp.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/u_int16_multi_array__type_support_cpp.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/u_int32__type_support_cpp.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/u_int32_multi_array__type_support_cpp.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/u_int64__type_support_cpp.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/u_int64_multi_array__type_support_cpp.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/u_int8__type_support_cpp.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/u_int8_multi_array__type_support_cpp.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/char__type_support_cpp.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/byte_multi_array__type_support_cpp.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/std_msgs/msg/detail/microxrcedds/byte__type_support_cpp.cpp.o[0m
+[ 19%] [32m[1mLinking CXX shared library libstd_msgs__rosidl_typesupport_microxrcedds_cpp.so[0m
+[ 19%] Built target std_msgs__rosidl_typesupport_microxrcedds_cpp
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[ 28%] Built target std_msgs__rosidl_typesupport_fastrtps_cpp
+[ 28%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_cpp[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/bool__type_support.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/float32__type_support.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/float32_multi_array__type_support.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/float64__type_support.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/float64_multi_array__type_support.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/header__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/int16__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/int16_multi_array__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/int32__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/int32_multi_array__type_support.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/int64__type_support.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/int64_multi_array__type_support.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/int8__type_support.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/int8_multi_array__type_support.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/multi_array_dimension__type_support.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/multi_array_layout__type_support.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/string__type_support.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/u_int16__type_support.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/u_int16_multi_array__type_support.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/u_int32__type_support.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/u_int32_multi_array__type_support.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/u_int64__type_support.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/u_int64_multi_array__type_support.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/u_int8__type_support.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/u_int8_multi_array__type_support.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/empty__type_support.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/color_rgba__type_support.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/char__type_support.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/byte_multi_array__type_support.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/std_msgs/msg/byte__type_support.cpp.o[0m
+[ 37%] [32m[1mLinking CXX shared library libstd_msgs__rosidl_typesupport_cpp.so[0m
+[ 37%] Built target std_msgs__rosidl_typesupport_cpp
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_generator_c[0m
+[ 47%] Built target std_msgs__rosidl_generator_c
+[ 48%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_fastrtps_c[0m
+[ 58%] Built target std_msgs__rosidl_typesupport_fastrtps_c
+[ 59%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_c[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/bool__type_support.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/byte__type_support.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/byte_multi_array__type_support.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/empty__type_support.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/float32__type_support.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/float32_multi_array__type_support.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/float64__type_support.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/float64_multi_array__type_support.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/header__type_support.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/int16__type_support.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/int16_multi_array__type_support.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/int32__type_support.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/int32_multi_array__type_support.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/int64_multi_array__type_support.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/int64__type_support.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/int8__type_support.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/int8_multi_array__type_support.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/multi_array_layout__type_support.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/multi_array_dimension__type_support.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/string__type_support.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/u_int16__type_support.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/color_rgba__type_support.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/u_int16_multi_array__type_support.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/u_int32__type_support.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/u_int32_multi_array__type_support.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/char__type_support.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/u_int64_multi_array__type_support.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/u_int64__type_support.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/u_int8__type_support.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/std_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/std_msgs/msg/u_int8_multi_array__type_support.cpp.o[0m
+[ 68%] [32m[1mLinking CXX shared library libstd_msgs__rosidl_typesupport_c.so[0m
+[ 68%] Built target std_msgs__rosidl_typesupport_c
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_introspection_c[0m
+[ 78%] Built target std_msgs__rosidl_typesupport_introspection_c
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_microxrcedds_c[0m
+[ 78%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/byte__type_support_c.c.o[0m
+[ 78%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/bool__type_support_c.c.o[0m
+[ 78%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/float32_multi_array__type_support_c.c.o[0m
+[ 78%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/float64__type_support_c.c.o[0m
+[ 79%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/float64_multi_array__type_support_c.c.o[0m
+[ 79%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/header__type_support_c.c.o[0m
+[ 79%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/int16__type_support_c.c.o[0m
+[ 80%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/int16_multi_array__type_support_c.c.o[0m
+[ 80%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/int32__type_support_c.c.o[0m
+[ 80%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/int32_multi_array__type_support_c.c.o[0m
+[ 81%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/int64__type_support_c.c.o[0m
+[ 81%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/int64_multi_array__type_support_c.c.o[0m
+[ 81%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/int8__type_support_c.c.o[0m
+[ 82%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/int8_multi_array__type_support_c.c.o[0m
+[ 82%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/multi_array_layout__type_support_c.c.o[0m
+[ 82%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/multi_array_dimension__type_support_c.c.o[0m
+[ 82%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/string__type_support_c.c.o[0m
+[ 83%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/u_int16__type_support_c.c.o[0m
+[ 83%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/u_int16_multi_array__type_support_c.c.o[0m
+[ 83%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/u_int32__type_support_c.c.o[0m
+[ 84%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/u_int32_multi_array__type_support_c.c.o[0m
+[ 84%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/u_int64__type_support_c.c.o[0m
+[ 84%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/u_int64_multi_array__type_support_c.c.o[0m
+[ 85%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/u_int8__type_support_c.c.o[0m
+[ 85%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/u_int8_multi_array__type_support_c.c.o[0m
+[ 85%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/float32__type_support_c.c.o[0m
+[ 86%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/empty__type_support_c.c.o[0m
+[ 86%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/color_rgba__type_support_c.c.o[0m
+[ 86%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/char__type_support_c.c.o[0m
+[ 87%] [32mBuilding C object CMakeFiles/std_msgs__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/std_msgs/msg/detail/microxrcedds/byte_multi_array__type_support_c.c.o[0m
+[ 87%] [32m[1mLinking C shared library libstd_msgs__rosidl_typesupport_microxrcedds_c.so[0m
+[ 87%] Built target std_msgs__rosidl_typesupport_microxrcedds_c
+[ 87%] Built target std_msgs
+[ 87%] Built target std_msgs__py
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_generator_py[0m
+[ 87%] [32m[1mLinking C shared library rosidl_generator_py/std_msgs/libstd_msgs__rosidl_generator_py.so[0m
+[ 96%] Built target std_msgs__rosidl_generator_py
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_microxrcedds_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[ 97%] [32m[1mLinking C shared library rosidl_generator_py/std_msgs/std_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 98%] [32m[1mLinking C shared library rosidl_generator_py/std_msgs/std_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 98%] Built target std_msgs__rosidl_typesupport_fastrtps_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_c__pyext[0m
+[ 98%] Built target std_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target std_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[ 99%] [32m[1mLinking C shared library rosidl_generator_py/std_msgs/std_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[100%] [32m[1mLinking C shared library rosidl_generator_py/std_msgs/std_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[100%] Built target std_msgs__rosidl_typesupport_c__pyext
+[100%] Built target std_msgs__rosidl_typesupport_introspection_c__pyext
+-- Install configuration: ""
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/ament_index/resource_index/rosidl_interfaces/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int32_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/color_rgba.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int64_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int16.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int64_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int32.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/bool.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/float64_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int16.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/header.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int16_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int8.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/byte.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/float32_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int8_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/byte_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/string.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int8.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/float32.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int64.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int16_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int8_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/empty.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/float64.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/char.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int32.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/multi_array_dimension.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int32_multi_array.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/multi_array_layout.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/rosidl_generator_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int64.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/environment/library_path.sh
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/environment/library_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_generator_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/byte_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/float64.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int16_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int32_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int64.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int64_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int64_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int8_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int8_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int16.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/multi_array_dimension.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/byte.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int32.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/float64_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/empty.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/float32_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/header.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/string.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int16_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int8.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int32.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int8.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/float32.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int16.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/bool.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/char.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/color_rgba.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/multi_array_layout.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/int32_multi_array.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/u_int64.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/dds_fastrtps
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_fastrtps_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int64__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/string__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/color_rgba__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/float32_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int32_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/header__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/empty__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int16_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int64__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int64_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/bool__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/byte__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/char__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int16__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int8_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int32__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int32_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int64_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int8__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int32__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/float64_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/multi_array_layout__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int16__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int16_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/byte_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/float64__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/float32__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int8_multi_array__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int8__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_microxrcedds_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_microxrcedds_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_microxrcedds_c.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_introspection_c.so
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_c.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int32__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int64_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int8_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/byte__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/string__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int16__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/float64__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/empty__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int16_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/float64_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int32_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int32_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/empty__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/char__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/u_int64_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/multi_array_layout__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/float32_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/u_int16_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/int8_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/u_int64__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/float32__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/u_int32__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/multi_array_dimension__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/header__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/int16__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/int32__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/float64_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/int16_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/u_int8_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/bool__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/byte_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/color_rgba__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/string__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/int8__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/u_int8__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/int64__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/u_int16__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/int64_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/byte__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/u_int32_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/int32_multi_array__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/microxrcedds/float64__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/float32__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int32__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int8_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int16__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int64__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/float32_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int8__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/int64__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/color_rgba__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/bool__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/multi_array_layout__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int64_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int16_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/header__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/u_int8__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/byte_multi_array__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/detail/char__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_microxrcedds_cpp.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_microxrcedds_cpp.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/bool__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/header__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/char__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_layout__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/color_rgba__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int8_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int8__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int64_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/multi_array_dimension__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int32__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float32__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/byte_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/string__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int32_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int16__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/int64_multi_array__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/empty__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/u_int16_multi_array__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/include/std_msgs/std_msgs/msg/detail/float64__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_introspection_cpp.so
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_typesupport_cpp.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/environment/pythonpath.sh
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/environment/pythonpath.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs-4.2.4-py3.10.egg-info
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs-4.2.4-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs-4.2.4-py3.10.egg-info/PKG-INFO
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs-4.2.4-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs-4.2.4-py3.10.egg-info/top_level.txt
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/__init__.py
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/_std_msgs_s.ep.rosidl_typesupport_introspection_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/_std_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/_std_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/_std_msgs_s.ep.rosidl_typesupport_c.c
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/libstd_msgs__rosidl_generator_py.so
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_string.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/__init__.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int8_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_header.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int16_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_multi_array_layout_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_float64_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int8_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int8.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int32_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_multi_array_dimension_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_bool.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int8.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_bool_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int32.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_multi_array_dimension.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_byte_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_float32_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_float32_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_byte_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int64_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_float64_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_char_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int16_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int64.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_multi_array_layout.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int32_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_empty_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int32.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_string_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_float64_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int64_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int16_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_char.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int16.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int8_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int32_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_header_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int8_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_byte_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int64.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int32_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int64_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_color_rgba_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int8_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int64_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int32_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_byte.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_float64.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int16_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int16.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int64_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_float32_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int16_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int16_multi_array.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_float32.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_empty.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int64_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_int8_multi_array_s.c
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_color_rgba.py
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg/_u_int32_multi_array.py
+Listing '/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs'...
+Compiling '/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/__init__.py'...
+Listing '/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/msg'...
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/local/lib/python3.10/dist-packages/std_msgs/std_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_generator_py.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/std_msgs/lib/libstd_msgs__rosidl_generator_py.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Bool.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Byte.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/ByteMultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Char.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/ColorRGBA.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Empty.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Float32.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Float32MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Float64.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Float64MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Header.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int16.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int16MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int32.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int32MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int64.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int64MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int8.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int8MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/MultiArrayDimension.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/MultiArrayLayout.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/String.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt16.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt16MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt32.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt32MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt64.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt64MultiArray.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt8.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt8MultiArray.idl
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Bool.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Byte.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/ByteMultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Char.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/ColorRGBA.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Empty.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Float32.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Float32MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Float64.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Float64MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Header.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int16.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int16MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int32.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int32MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int64.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int64MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int8.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/Int8MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/MultiArrayDimension.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/MultiArrayLayout.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/String.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt16.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt16MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt32.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt32MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt64.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt64MultiArray.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt8.msg
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/msg/UInt8MultiArray.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/ament_index/resource_index/package_run_dependencies/std_msgs
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/ament_index/resource_index/parent_prefix_path/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/environment/path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/local_setup.bash
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/local_setup.sh
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/package.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/ament_index/resource_index/packages/std_msgs
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgs__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgs__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgs__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgs__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgs__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_generator_pyExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/export_std_msgs__rosidl_generator_pyExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/rosidl_cmake-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgsConfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/cmake/std_msgsConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/install/std_msgs/share/std_msgs/package.xml
