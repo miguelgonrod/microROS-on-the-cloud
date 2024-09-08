@@ -1,2 +1,0 @@
-int32 my_integer
-float32 my_float

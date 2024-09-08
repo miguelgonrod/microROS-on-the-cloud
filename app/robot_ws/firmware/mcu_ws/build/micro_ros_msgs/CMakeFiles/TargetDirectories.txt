@@ -1,0 +1,14 @@
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/uninstall.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/micro_ros_msgs_uninstall.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/micro_ros_msgs.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/micro_ros_msgs__rosidl_generator_c.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/micro_ros_msgs__rosidl_typesupport_introspection_c.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/micro_ros_msgs__rosidl_typesupport_microxrcedds_c.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/micro_ros_msgs__rosidl_typesupport_c.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/test.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/edit_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/rebuild_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/list_install_components.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/install.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/install/local.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/micro_ros_msgs/CMakeFiles/install/strip.dir

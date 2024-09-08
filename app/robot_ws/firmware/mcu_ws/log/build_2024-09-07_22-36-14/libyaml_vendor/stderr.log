@@ -1,0 +1,8 @@
+Cloning into 'libyaml-0.2.5'...
+HEAD is now at 2c891fc Changes for v0.2.5 release
+[33mCMake Warning (dev) at CMakeLists.txt:56 (add_library):
+  ADD_LIBRARY called with SHARED option but the target platform does not
+  support dynamic linking.  Building a STATIC library instead.  This may lead
+  to problems.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+[0m

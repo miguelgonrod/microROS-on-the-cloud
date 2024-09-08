@@ -1,0 +1,4 @@
+Invoking command in '/home/robot/app/robot_ws/build/my_custom_message': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/my_custom_message -- -j8 -l8
+Invoked command in '/home/robot/app/robot_ws/build/my_custom_message' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/my_custom_message -- -j8 -l8
+Invoking command in '/home/robot/app/robot_ws/build/my_custom_message': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/my_custom_message
+Invoked command in '/home/robot/app/robot_ws/build/my_custom_message' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/my_custom_message

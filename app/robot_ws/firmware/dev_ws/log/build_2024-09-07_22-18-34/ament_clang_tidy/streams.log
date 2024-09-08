@@ -1,0 +1,37 @@
+[1.840s] Invoking command in '/home/robot/app/robot_ws/firmware/dev_ws/ament/ament_lint/ament_clang_tidy': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_clang_tidy build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/install.log --single-version-externally-managed install_data
+[2.152s] running egg_info
+[2.153s] creating ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info
+[2.153s] writing ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/PKG-INFO
+[2.154s] writing dependency_links to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/dependency_links.txt
+[2.154s] writing entry points to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/entry_points.txt
+[2.155s] writing requirements to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/requires.txt
+[2.155s] writing top-level names to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/top_level.txt
+[2.156s] writing manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[2.159s] reading manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[2.161s] writing manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[2.162s] running build
+[2.162s] running build_py
+[2.162s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build
+[2.162s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib
+[2.163s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[2.163s] copying ament_clang_tidy/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[2.163s] copying ament_clang_tidy/main.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[2.164s] running install
+[2.165s] running install_lib
+[2.167s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[2.167s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[2.167s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy/main.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[2.169s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy/__init__.py to __init__.cpython-310.pyc
+[2.169s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy/main.py to main.cpython-310.pyc
+[2.175s] running install_data
+[2.175s] copying package.xml -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_clang_tidy
+[2.176s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index
+[2.176s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index/resource_index
+[2.176s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index/resource_index/packages
+[2.177s] copying resource/ament_clang_tidy -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index/resource_index/packages
+[2.177s] running install_egg_info
+[2.182s] Copying ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info to /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy-0.12.11-py3.10.egg-info
+[2.184s] running install_scripts
+[2.216s] Installing ament_clang_tidy script to /home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/bin
+[2.217s] writing list of installed files to '/home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/install.log'
+[2.270s] Invoked command in '/home/robot/app/robot_ws/firmware/dev_ws/ament/ament_lint/ament_clang_tidy' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_clang_tidy build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/ament_clang_tidy/install.log --single-version-externally-managed install_data

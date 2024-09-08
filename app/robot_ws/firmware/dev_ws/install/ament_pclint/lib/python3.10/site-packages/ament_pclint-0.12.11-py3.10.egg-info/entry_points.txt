@@ -1,0 +1,3 @@
+[console_scripts]
+ament_pclint = ament_pclint.main:main
+

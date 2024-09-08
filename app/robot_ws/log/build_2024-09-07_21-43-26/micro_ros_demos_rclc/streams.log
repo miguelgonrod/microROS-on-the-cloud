@@ -1,0 +1,318 @@
+[0.171s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_demos_rclc': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/my_custom_message:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/my_custom_message/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/micro_ros_demos_rclc -- -j8 -l8
+[0.444s] [  1%] [34m[1mPerforming build step for 'graph_visualizer'[0m
+[0.456s] [  1%] [34m[1mPerforming build step for 'subscription_count'[0m
+[0.456s] [  2%] [34m[1mPerforming build step for 'int32_subscriber'[0m
+[0.477s] [  2%] [34m[1mPerforming build step for 'int32_publisher'[0m
+[0.478s] [  2%] [34m[1mPerforming build step for 'publisher_count'[0m
+[0.486s] [  3%] [34m[1mPerforming build step for 'configured_publisher'[0m
+[0.489s] [  3%] [34m[1mPerforming build step for 'addtwoints_server'[0m
+[0.504s] [  4%] [34m[1mPerforming build step for 'configured_subscriber'[0m
+[0.670s] [100%] Built target configured_publisher
+[0.671s] [100%] Built target subscription_count
+[0.672s] [100%] Built target int32_subscriber
+[0.673s] [100%] Built target publisher_count
+[0.695s] [100%] Built target addtwoints_server
+[0.709s] [100%] Built target graph_visualizer
+[0.715s] [100%] Built target int32_publisher
+[0.733s] [  4%] [34m[1mPerforming install step for 'subscription_count'[0m
+[0.753s] [  4%] [34m[1mPerforming install step for 'configured_publisher'[0m
+[0.756s] [  5%] [34m[1mPerforming install step for 'publisher_count'[0m
+[0.771s] [  5%] [34m[1mPerforming install step for 'int32_subscriber'[0m
+[0.772s] [100%] Built target configured_subscriber
+[0.781s] [  6%] [34m[1mPerforming install step for 'addtwoints_server'[0m
+[0.782s] [  6%] [34m[1mPerforming install step for 'graph_visualizer'[0m
+[0.792s] [  7%] [34m[1mPerforming install step for 'int32_publisher'[0m
+[0.835s] [  7%] [34m[1mPerforming install step for 'configured_subscriber'[0m
+[0.925s] [100%] Built target publisher_count
+[0.926s] [100%] Built target subscription_count
+[0.929s] [100%] Built target configured_publisher
+[0.944s] [100%] Built target addtwoints_server
+[0.960s] [100%] Built target int32_subscriber
+[0.967s] [100%] Built target graph_visualizer
+[0.973s] [100%] Built target int32_publisher
+[0.993s] [36mInstall the project...[0m
+[0.993s] [36mInstall the project...[0m
+[0.999s] [100%] Built target configured_subscriber
+[1.001s] [36mInstall the project...[0m
+[1.008s] [36mInstall the project...[0m
+[1.026s] -- Install configuration: ""
+[1.027s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/subscription_count/subscription_count
+[1.034s] -- Install configuration: ""
+[1.035s] [36mInstall the project...[0m
+[1.035s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/configured_publisher/configured_publisher
+[1.038s] -- Install configuration: ""
+[1.039s] -- Install configuration: ""
+[1.039s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/publisher_count/publisher_count
+[1.039s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_server/addtwoints_server
+[1.042s] [36mInstall the project...[0m
+[1.045s] [36mInstall the project...[0m
+[1.062s] [36mInstall the project...[0m
+[1.063s] -- Install configuration: ""
+[1.064s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/graph_visualizer/graph_visualizer
+[1.072s] -- Install configuration: ""
+[1.073s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_subscriber/int32_subscriber
+[1.074s] -- Install configuration: ""
+[1.075s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher/int32_publisher
+[1.091s] -- Install configuration: ""
+[1.092s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/configured_subscriber/configured_subscriber
+[1.094s] [  8%] [34m[1mCompleted 'subscription_count'[0m
+[1.100s] [  8%] [34m[1mCompleted 'configured_publisher'[0m
+[1.102s] [  9%] [34m[1mCompleted 'publisher_count'[0m
+[1.137s] [  9%] [34m[1mCompleted 'graph_visualizer'[0m
+[1.138s] [ 10%] [34m[1mCompleted 'addtwoints_server'[0m
+[1.140s] [ 11%] [34m[1mCompleted 'int32_subscriber'[0m
+[1.140s] [ 11%] [34m[1mCompleted 'int32_publisher'[0m
+[1.160s] [ 11%] [34m[1mCompleted 'configured_subscriber'[0m
+[1.207s] [ 14%] Built target subscription_count
+[1.212s] [ 17%] Built target configured_publisher
+[1.221s] [ 19%] Built target publisher_count
+[1.261s] [ 21%] Built target int32_subscriber
+[1.264s] [ 23%] Built target addtwoints_server
+[1.268s] [ 25%] Built target int32_publisher
+[1.274s] [ 28%] Built target graph_visualizer
+[1.285s] [ 30%] Built target configured_subscriber
+[1.296s] [ 30%] [34m[1mPerforming build step for 'addtwoints_client'[0m
+[1.300s] [ 30%] [34m[1mPerforming build step for 'fibonacci_action_client'[0m
+[1.301s] [ 31%] [34m[1mPerforming build step for 'fibonacci_action_server'[0m
+[1.338s] [ 32%] [34m[1mPerforming build step for 'int32_multinode'[0m
+[1.343s] [ 32%] [34m[1mPerforming build step for 'int32_publisher_subscriber'[0m
+[1.351s] [ 33%] [34m[1mPerforming build step for 'ping_uros_agent'[0m
+[1.368s] [ 33%] [34m[1mPerforming build step for 'fragmented_publication'[0m
+[1.370s] [ 34%] [34m[1mPerforming build step for 'ping_pong'[0m
+[1.464s] [100%] Built target fibonacci_action_server
+[1.471s] [100%] Built target addtwoints_client
+[1.482s] [100%] Built target fibonacci_action_client
+[1.504s] [100%] Built target int32_multinode
+[1.517s] [100%] Built target ping_uros_agent
+[1.523s] [100%] Built target int32_publisher_subscriber
+[1.533s] [ 35%] [34m[1mPerforming install step for 'addtwoints_client'[0m
+[1.542s] [ 35%] [34m[1mPerforming install step for 'fibonacci_action_server'[0m
+[1.546s] [100%] Built target ping_pong
+[1.549s] [100%] Built target fragmented_publication
+[1.555s] [ 35%] [34m[1mPerforming install step for 'fibonacci_action_client'[0m
+[1.569s] [ 35%] [34m[1mPerforming install step for 'int32_multinode'[0m
+[1.578s] [ 35%] [34m[1mPerforming install step for 'int32_publisher_subscriber'[0m
+[1.581s] [ 36%] [34m[1mPerforming install step for 'ping_uros_agent'[0m
+[1.614s] [ 37%] [34m[1mPerforming install step for 'ping_pong'[0m
+[1.614s] [ 37%] [34m[1mPerforming install step for 'fragmented_publication'[0m
+[1.713s] [100%] Built target addtwoints_client
+[1.719s] [100%] Built target fibonacci_action_client
+[1.729s] [100%] Built target fibonacci_action_server
+[1.740s] [100%] Built target int32_multinode
+[1.764s] [100%] Built target ping_uros_agent
+[1.769s] [100%] Built target int32_publisher_subscriber
+[1.771s] [100%] Built target ping_pong
+[1.781s] [100%] Built target fragmented_publication
+[1.786s] [36mInstall the project...[0m
+[1.788s] [36mInstall the project...[0m
+[1.794s] [36mInstall the project...[0m
+[1.808s] [36mInstall the project...[0m
+[1.817s] -- Install configuration: ""
+[1.817s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_client/fibonacci_action_client
+[1.828s] -- Install configuration: ""
+[1.828s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fibonacci_action_server/fibonacci_action_server
+[1.830s] -- Install configuration: ""
+[1.831s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/addtwoints_client/addtwoints_client
+[1.836s] [36mInstall the project...[0m
+[1.836s] -- Install configuration: ""
+[1.837s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_multinode/int32_multinode
+[1.839s] [36mInstall the project...[0m
+[1.845s] [36mInstall the project...[0m
+[1.846s] [36mInstall the project...[0m
+[1.862s] -- Install configuration: ""
+[1.864s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/int32_publisher_subscriber/int32_publisher_subscriber
+[1.869s] -- Install configuration: ""
+[1.870s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/ping_uros_agent/ping_uros_agent
+[1.875s] -- Install configuration: ""
+[1.875s] -- Install configuration: ""
+[1.876s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fragmented_publication/fragmented_publication
+[1.876s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/ping_pong/ping_pong
+[1.885s] [ 38%] [34m[1mCompleted 'fibonacci_action_client'[0m
+[1.895s] [ 38%] [34m[1mCompleted 'fibonacci_action_server'[0m
+[1.899s] [ 38%] [34m[1mCompleted 'int32_multinode'[0m
+[1.900s] [ 38%] [34m[1mCompleted 'addtwoints_client'[0m
+[1.929s] [ 39%] [34m[1mCompleted 'int32_publisher_subscriber'[0m
+[1.944s] [ 39%] [34m[1mCompleted 'fragmented_publication'[0m
+[1.944s] [ 39%] [34m[1mCompleted 'ping_pong'[0m
+[1.957s] [ 39%] [34m[1mCompleted 'ping_uros_agent'[0m
+[2.008s] [ 42%] Built target fibonacci_action_server
+[2.016s] [ 45%] Built target fibonacci_action_client
+[2.018s] [ 47%] Built target int32_multinode
+[2.033s] [ 49%] Built target addtwoints_client
+[2.048s] [ 52%] Built target int32_publisher_subscriber
+[2.060s] [ 55%] Built target ping_pong
+[2.061s] [ 57%] Built target fragmented_publication
+[2.077s] [ 58%] Built target ping_uros_agent
+[2.090s] [ 58%] [34m[1mPerforming build step for 'fragmented_subscription'[0m
+[2.099s] [ 58%] [34m[1mPerforming build step for 'complex_msg_subscriber'[0m
+[2.109s] [ 60%] [34m[1mPerforming build step for 'timer'[0m
+[2.109s] [ 59%] [34m[1mPerforming build step for 'complex_msg_publisher'[0m
+[2.119s] [ 61%] [34m[1mPerforming build step for 'string_publisher'[0m
+[2.134s] [ 62%] [34m[1mPerforming build step for 'autodiscover_agent'[0m
+[2.136s] [ 62%] [34m[1mPerforming build step for 'string_subscriber'[0m
+[2.152s] [ 63%] [34m[1mPerforming build step for 'static_type_handling'[0m
+[2.272s] [100%] Built target fragmented_subscription
+[2.275s] [100%] Built target complex_msg_subscriber
+[2.284s] [100%] Built target string_publisher
+[2.286s] [100%] Built target timer
+[2.297s] [100%] Built target complex_msg_publisher
+[2.324s] [100%] Built target autodiscover_agent
+[2.324s] [100%] Built target string_subscriber
+[2.332s] [ 64%] [34m[1mPerforming install step for 'fragmented_subscription'[0m
+[2.336s] [ 65%] [34m[1mPerforming install step for 'complex_msg_subscriber'[0m
+[2.339s] [100%] Built target static_type_handling
+[2.345s] [ 65%] [34m[1mPerforming install step for 'string_publisher'[0m
+[2.357s] [ 66%] [34m[1mPerforming install step for 'complex_msg_publisher'[0m
+[2.371s] [ 66%] [34m[1mPerforming install step for 'timer'[0m
+[2.385s] [ 66%] [34m[1mPerforming install step for 'autodiscover_agent'[0m
+[2.391s] [ 67%] [34m[1mPerforming install step for 'string_subscriber'[0m
+[2.402s] [ 67%] [34m[1mPerforming install step for 'static_type_handling'[0m
+[2.506s] [100%] Built target complex_msg_subscriber
+[2.508s] [100%] Built target fragmented_subscription
+[2.529s] [100%] Built target string_publisher
+[2.536s] [100%] Built target complex_msg_publisher
+[2.552s] [100%] Built target autodiscover_agent
+[2.553s] [100%] Built target string_subscriber
+[2.553s] [100%] Built target timer
+[2.568s] [100%] Built target static_type_handling
+[2.586s] [36mInstall the project...[0m
+[2.590s] [36mInstall the project...[0m
+[2.590s] [36mInstall the project...[0m
+[2.601s] [36mInstall the project...[0m
+[2.629s] -- Install configuration: ""
+[2.629s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/fragmented_subscription/fragmented_subscription
+[2.630s] [36mInstall the project...[0m
+[2.630s] -- Install configuration: ""
+[2.630s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/string_publisher/string_publisher
+[2.630s] [36mInstall the project...[0m
+[2.630s] [36mInstall the project...[0m
+[2.631s] -- Install configuration: ""
+[2.631s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_subscriber/complex_msg_subscriber
+[2.633s] [36mInstall the project...[0m
+[2.638s] -- Install configuration: ""
+[2.642s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_publisher/complex_msg_publisher
+[2.649s] -- Install configuration: ""
+[2.650s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/timer/timer
+[2.658s] -- Install configuration: ""
+[2.661s] -- Install configuration: ""
+[2.662s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/autodiscover_agent/autodiscover_agent
+[2.662s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/string_subscriber/string_subscriber
+[2.662s] -- Install configuration: ""
+[2.663s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/static_type_handling/static_type_handling
+[2.683s] [ 68%] [34m[1mCompleted 'fragmented_subscription'[0m
+[2.694s] [ 68%] [34m[1mCompleted 'string_publisher'[0m
+[2.697s] [ 69%] [34m[1mCompleted 'complex_msg_subscriber'[0m
+[2.719s] [ 69%] [34m[1mCompleted 'complex_msg_publisher'[0m
+[2.722s] [ 69%] [34m[1mCompleted 'autodiscover_agent'[0m
+[2.723s] [ 70%] [34m[1mCompleted 'string_subscriber'[0m
+[2.728s] [ 70%] [34m[1mCompleted 'static_type_handling'[0m
+[2.729s] [ 70%] [34m[1mCompleted 'timer'[0m
+[2.807s] [ 73%] Built target string_publisher
+[2.807s] [ 74%] Built target fragmented_subscription
+[2.808s] [ 76%] Built target complex_msg_subscriber
+[2.839s] [ 77%] Built target complex_msg_publisher
+[2.839s] [ 79%] Built target string_subscriber
+[2.839s] [ 82%] Built target autodiscover_agent
+[2.859s] [ 85%] Built target timer
+[2.861s] [ 88%] Built target static_type_handling
+[2.872s] [ 88%] [34m[1mPerforming build step for 'epoch_synchronization'[0m
+[2.872s] [ 88%] [34m[1mPerforming build step for 'parameter_server'[0m
+[2.875s] [ 88%] [34m[1mPerforming build step for 'multithread_publisher_subscriber'[0m
+[2.984s] [100%] Built target epoch_synchronization
+[2.984s] [100%] Built target multithread_publisher_subscriber
+[2.985s] [100%] Built target parameter_server
+[3.027s] [ 89%] [34m[1mPerforming install step for 'multithread_publisher_subscriber'[0m
+[3.028s] [ 89%] [34m[1mPerforming install step for 'parameter_server'[0m
+[3.028s] [ 90%] [34m[1mPerforming install step for 'epoch_synchronization'[0m
+[3.142s] [100%] Built target epoch_synchronization
+[3.143s] [100%] Built target multithread_publisher_subscriber
+[3.143s] [100%] Built target parameter_server
+[3.187s] [36mInstall the project...[0m
+[3.187s] [36mInstall the project...[0m
+[3.187s] [36mInstall the project...[0m
+[3.206s] -- Install configuration: ""
+[3.207s] -- Install configuration: ""
+[3.207s] -- Install configuration: ""
+[3.207s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/parameter_server/parameter_server
+[3.207s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/epoch_synchronization/epoch_synchronization
+[3.207s] -- Up-to-date: /home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/multithread_publisher_subscriber/multithread_publisher_subscriber
+[3.258s] [ 91%] [34m[1mCompleted 'epoch_synchronization'[0m
+[3.259s] [ 93%] [34m[1mCompleted 'multithread_publisher_subscriber'[0m
+[3.259s] [ 93%] [34m[1mCompleted 'parameter_server'[0m
+[3.347s] [ 99%] Built target parameter_server
+[3.348s] [100%] Built target epoch_synchronization
+[3.348s] [100%] Built target multithread_publisher_subscriber
+[3.373s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_demos_rclc' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/my_custom_message:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/my_custom_message/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/micro_ros_demos_rclc -- -j8 -l8
+[3.679s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_demos_rclc': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/my_custom_message:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/my_custom_message/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/micro_ros_demos_rclc
+[3.720s] -- Install configuration: ""
+[3.721s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc
+[3.722s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/subscription_count
+[3.722s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/subscription_count/subscription_count
+[3.723s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_publisher
+[3.724s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_publisher/complex_msg_publisher
+[3.724s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_client
+[3.724s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_client/fibonacci_action_client
+[3.725s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_subscription
+[3.725s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_subscription/fragmented_subscription
+[3.725s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_uros_agent
+[3.726s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_uros_agent/ping_uros_agent
+[3.727s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_pong
+[3.728s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/ping_pong/ping_pong
+[3.729s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher
+[3.729s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher/int32_publisher
+[3.730s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_publisher
+[3.731s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_publisher/string_publisher
+[3.732s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/parameter_server
+[3.732s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/parameter_server/parameter_server
+[3.732s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_subscriber
+[3.733s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_subscriber/int32_subscriber
+[3.733s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/static_type_handling
+[3.733s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/static_type_handling/static_type_handling
+[3.734s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_publisher
+[3.735s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_publisher/configured_publisher
+[3.735s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_server
+[3.735s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fibonacci_action_server/fibonacci_action_server
+[3.736s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_subscriber
+[3.736s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/complex_msg_subscriber/complex_msg_subscriber
+[3.736s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_client
+[3.737s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_client/addtwoints_client
+[3.737s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_subscriber
+[3.737s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/configured_subscriber/configured_subscriber
+[3.737s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher_subscriber
+[3.738s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_publisher_subscriber/int32_publisher_subscriber
+[3.738s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/publisher_count
+[3.739s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/publisher_count/publisher_count
+[3.739s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_server
+[3.739s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/addtwoints_server/addtwoints_server
+[3.740s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_publication
+[3.740s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/fragmented_publication/fragmented_publication
+[3.742s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/multithread_publisher_subscriber
+[3.743s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/multithread_publisher_subscriber/multithread_publisher_subscriber
+[3.743s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_subscriber
+[3.743s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/string_subscriber/string_subscriber
+[3.743s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/graph_visualizer
+[3.744s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/graph_visualizer/graph_visualizer
+[3.744s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/timer
+[3.745s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/timer/timer
+[3.745s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/epoch_synchronization
+[3.749s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/epoch_synchronization/epoch_synchronization
+[3.749s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/autodiscover_agent
+[3.750s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/autodiscover_agent/autodiscover_agent
+[3.750s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_multinode
+[3.750s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/lib/micro_ros_demos_rclc/int32_multinode/int32_multinode
+[3.751s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/package_run_dependencies/micro_ros_demos_rclc
+[3.751s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/parent_prefix_path/micro_ros_demos_rclc
+[3.752s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/ament_prefix_path.sh
+[3.752s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/ament_prefix_path.dsv
+[3.753s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/path.sh
+[3.753s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/environment/path.dsv
+[3.753s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.bash
+[3.754s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.sh
+[3.754s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.zsh
+[3.755s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/local_setup.dsv
+[3.755s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/package.dsv
+[3.756s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/ament_index/resource_index/packages/micro_ros_demos_rclc
+[3.757s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/cmake/micro_ros_demos_rclcConfig.cmake
+[3.757s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/cmake/micro_ros_demos_rclcConfig-version.cmake
+[3.757s] -- Up-to-date: /home/robot/app/robot_ws/install/micro_ros_demos_rclc/share/micro_ros_demos_rclc/package.xml
+[3.758s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_demos_rclc' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/visualization_msgs:/home/robot/app/robot_ws/install/rclc_parameter:/home/robot/app/robot_ws/install/sensor_msgs:/home/robot/app/robot_ws/install/rmw_microxrcedds:/home/robot/app/robot_ws/install/rclc:/home/robot/app/robot_ws/install/test_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/geometry_msgs:/home/robot/app/robot_ws/install/example_interfaces:/home/robot/app/robot_ws/install/std_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/rcl_interfaces:/home/robot/app/robot_ws/install/microxrcedds_client:/home/robot/app/robot_ws/install/complex_msgs:/home/robot/app/robot_ws/install/action_msgs:/home/robot/app/robot_ws/install/unique_identifier_msgs:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/micro_ros_utilities:/home/robot/app/robot_ws/install/micro_ros_msgs:/home/robot/app/robot_ws/install/builtin_interfaces:/home/robot/app/robot_ws/install/micro_ros_demos_rclc:/home/robot/app/robot_ws/install/common_interfaces:/home/robot/app/robot_ws/install/trajectory_msgs:/home/robot/app/robot_ws/install/stereo_msgs:/home/robot/app/robot_ws/install/std_srvs:/home/robot/app/robot_ws/install/shape_msgs:/home/robot/app/robot_ws/install/nav_msgs:/home/robot/app/robot_ws/install/diagnostic_msgs:/home/robot/app/robot_ws/install/actionlib_msgs:/home/robot/app/robot_ws/install/statistics_msgs:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_test_msg:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp_tests:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c_tests:/home/robot/app/robot_ws/install/rosgraph_msgs:/home/robot/app/robot_ws/install/composition_interfaces:/home/robot/app/robot_ws/install/lifecycle_msgs:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/my_custom_message:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/visualization_msgs/lib:/home/robot/app/robot_ws/install/rclc_parameter/lib:/home/robot/app/robot_ws/install/sensor_msgs/lib:/home/robot/app/robot_ws/install/rmw_microxrcedds/lib:/home/robot/app/robot_ws/install/rclc/lib:/home/robot/app/robot_ws/install/test_msgs/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/geometry_msgs/lib:/home/robot/app/robot_ws/install/example_interfaces/lib:/home/robot/app/robot_ws/install/std_msgs/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/rcl_interfaces/lib:/home/robot/app/robot_ws/install/microxrcedds_client/lib:/home/robot/app/robot_ws/install/complex_msgs/lib:/home/robot/app/robot_ws/install/action_msgs/lib:/home/robot/app/robot_ws/install/unique_identifier_msgs/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/micro_ros_utilities/lib:/home/robot/app/robot_ws/install/micro_ros_msgs/lib:/home/robot/app/robot_ws/install/builtin_interfaces/lib:/home/robot/app/robot_ws/install/trajectory_msgs/lib:/home/robot/app/robot_ws/install/stereo_msgs/lib:/home/robot/app/robot_ws/install/std_srvs/lib:/home/robot/app/robot_ws/install/shape_msgs/lib:/home/robot/app/robot_ws/install/nav_msgs/lib:/home/robot/app/robot_ws/install/diagnostic_msgs/lib:/home/robot/app/robot_ws/install/actionlib_msgs/lib:/home/robot/app/robot_ws/install/statistics_msgs/lib:/home/robot/app/robot_ws/install/rosgraph_msgs/lib:/home/robot/app/robot_ws/install/composition_interfaces/lib:/home/robot/app/robot_ws/install/lifecycle_msgs/lib:/home/robot/app/robot_ws/install/my_custom_message/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/micro_ros_demos_rclc

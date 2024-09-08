@@ -1,0 +1,2 @@
+/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc librclc_parameter.a CMakeFiles/rclc_parameter.dir/src/rclc_parameter/parameter_server.c.obj CMakeFiles/rclc_parameter.dir/src/rclc_parameter/parameter_utils.c.obj
+/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib librclc_parameter.a

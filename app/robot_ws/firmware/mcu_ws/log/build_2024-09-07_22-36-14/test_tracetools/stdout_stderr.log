@@ -1,0 +1,46 @@
+Not searching for unused variables given on the command line.
+-- The C compiler identification is GNU 8.2.0
+-- The CXX compiler identification is GNU 8.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.10 (/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake/share/ament_cmake/cmake)
+-- Found Python3: /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+-- Checking for module 'lttng-ust'
+--   No package 'lttng-ust' found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools
+gmake[4]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools'
+/usr/bin/cmake -S/home/robot/app/robot_ws/firmware/mcu_ws/uros/tracetools/test_tracetools -B/home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles /home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools//CMakeFiles/progress.marks
+/usr/bin/gmake  -f CMakeFiles/Makefile2 all
+gmake[5]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools'
+gmake[5]: Nothing to be done for 'all'.
+gmake[5]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools'
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools/CMakeFiles 0
+gmake[4]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools'
+-- Install configuration: "Debug"
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/package_run_dependencies/test_tracetools
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/parent_prefix_path/test_tracetools
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/environment/ament_prefix_path.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/environment/path.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/local_setup.bash
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/local_setup.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/package.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages/test_tracetools
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/cmake/test_tracetoolsConfig.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/cmake/test_tracetoolsConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools/package.xml

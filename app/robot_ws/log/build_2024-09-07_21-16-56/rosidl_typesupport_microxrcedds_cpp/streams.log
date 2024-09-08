@@ -1,0 +1,69 @@
+[0.045s] Invoking command in '/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/my_custom_message:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/my_custom_message/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp -- -j8 -l8
+[2.626s] [35m[1mConsolidate compiler generated dependencies of target rosidl_typesupport_microxrcedds_cpp[0m
+[2.626s] [100%] Built target rosidl_typesupport_microxrcedds_cpp
+[2.626s] [100%] Built target ament_cmake_python_copy_rosidl_typesupport_microxrcedds_cpp
+[2.626s] running egg_info
+[2.626s] writing rosidl_typesupport_microxrcedds_cpp.egg-info/PKG-INFO
+[2.627s] writing dependency_links to rosidl_typesupport_microxrcedds_cpp.egg-info/dependency_links.txt
+[2.627s] writing top-level names to rosidl_typesupport_microxrcedds_cpp.egg-info/top_level.txt
+[2.627s] reading manifest file 'rosidl_typesupport_microxrcedds_cpp.egg-info/SOURCES.txt'
+[2.627s] writing manifest file 'rosidl_typesupport_microxrcedds_cpp.egg-info/SOURCES.txt'
+[2.627s] [100%] Built target ament_cmake_python_build_rosidl_typesupport_microxrcedds_cpp_egg
+[2.657s] Invoked command in '/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/my_custom_message:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/my_custom_message/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp -- -j8 -l8
+[2.715s] Invoking command in '/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/my_custom_message:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/my_custom_message/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp
+[3.501s] -- Install configuration: ""
+[3.501s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/environment/pythonpath.sh
+[3.501s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/environment/pythonpath.dsv
+[3.501s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp-3.0.1-py3.10.egg-info
+[3.501s] -- Installing: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp-3.0.1-py3.10.egg-info/dependency_links.txt
+[3.505s] -- Installing: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp-3.0.1-py3.10.egg-info/PKG-INFO
+[3.505s] -- Installing: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp-3.0.1-py3.10.egg-info/SOURCES.txt
+[3.505s] -- Installing: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp-3.0.1-py3.10.egg-info/top_level.txt
+[3.505s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp
+[3.505s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp/__init__.py
+[3.506s] Listing '/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp'...
+[3.506s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/environment/library_path.sh
+[3.506s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/environment/library_path.dsv
+[3.506s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/ament_index/resource_index/rosidl_typesupport_cpp/rosidl_typesupport_microxrcedds_cpp
+[3.506s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/ament_index/resource_index/package_run_dependencies/rosidl_typesupport_microxrcedds_cpp
+[3.507s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/ament_index/resource_index/parent_prefix_path/rosidl_typesupport_microxrcedds_cpp
+[3.507s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/environment/ament_prefix_path.sh
+[3.507s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/environment/ament_prefix_path.dsv
+[3.534s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/environment/path.sh
+[3.534s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/environment/path.dsv
+[3.534s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/local_setup.bash
+[3.534s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/local_setup.sh
+[3.535s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/local_setup.zsh
+[3.535s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/local_setup.dsv
+[3.535s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/package.dsv
+[3.535s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/ament_index/resource_index/packages/rosidl_typesupport_microxrcedds_cpp
+[3.535s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/rosidl_typesupport_microxrcedds_cppExport.cmake
+[3.535s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/rosidl_typesupport_microxrcedds_cppExport-noconfig.cmake
+[3.536s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/rosidl_typesupport_microxrcedds_cpp-extras.cmake
+[3.536s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.536s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.536s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/ament_cmake_export_libraries-extras.cmake
+[3.536s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/ament_cmake_export_targets-extras.cmake
+[3.537s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/rosidl_typesupport_microxrcedds_cppConfig.cmake
+[3.537s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/rosidl_typesupport_microxrcedds_cppConfig-version.cmake
+[3.537s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/package.xml
+[3.537s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib/rosidl_typesupport_microxrcedds_cpp/rosidl_typesupport_microxrcedds_cpp
+[3.537s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake
+[3.537s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/cmake/rosidl_typesupport_microxrcedds_cpp_generate_interfaces.cmake
+[3.557s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource
+[3.557s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/rosidl_typesupport_microxrcedds_cpp__visibility_control.h.in
+[3.557s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__type_support_cpp.cpp.em
+[3.558s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__rosidl_typesupport_microxrcedds_cpp.hpp.em
+[3.558s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__rosidl_typesupport_microxrcedds_cpp.hpp.em
+[3.558s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__type_support_cpp.cpp.em
+[3.558s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__type_support_cpp.cpp.em
+[3.558s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__rosidl_typesupport_microxrcedds_cpp.hpp.em
+[3.559s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/include
+[3.559s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/include/rosidl_typesupport_microxrcedds_cpp
+[3.559s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/include/rosidl_typesupport_microxrcedds_cpp/service_type_support_decl.hpp
+[3.559s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/include/rosidl_typesupport_microxrcedds_cpp/identifier.h
+[3.559s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/include/rosidl_typesupport_microxrcedds_cpp/message_type_support_decl.hpp
+[3.559s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/include/rosidl_typesupport_microxrcedds_cpp/identifier.hpp
+[3.560s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/include/rosidl_typesupport_microxrcedds_cpp/visibility_control.h
+[3.560s] -- Up-to-date: /home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib/librosidl_typesupport_microxrcedds_cpp.so
+[3.575s] Invoked command in '/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp' returned '0': CMAKE_PREFIX_PATH=/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c:/home/robot/app/robot_ws/install/microcdr:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp:/home/robot/app/robot_ws/install/micro_ros_setup:/home/robot/app/robot_ws/install/my_custom_message:/opt/ros/humble LD_LIBRARY_PATH=/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_c/lib:/home/robot/app/robot_ws/install/microcdr/lib:/home/robot/app/robot_ws/install/rosidl_typesupport_microxrcedds_cpp/lib:/home/robot/app/robot_ws/install/my_custom_message/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp

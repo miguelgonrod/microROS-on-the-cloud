@@ -1,0 +1,4 @@
+source;share/ament_cmake_pycodestyle/local_setup.bash
+source;share/ament_cmake_pycodestyle/local_setup.dsv
+source;share/ament_cmake_pycodestyle/local_setup.sh
+source;share/ament_cmake_pycodestyle/local_setup.zsh

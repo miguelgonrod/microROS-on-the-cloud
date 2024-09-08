@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5-complete.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-build.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-configure.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-download.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-install.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-mkdir.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-patch.rule"
+		},
+		{
+			"file" : "/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5-stamp/libyaml-0.2.5-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libyaml-0.2.5"
+		],
+		"name" : "libyaml-0.2.5"
+	}
+}

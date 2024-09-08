@@ -1,0 +1,8 @@
+/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/libmicrocdr.a
+/home/robot/app/robot_ws/firmware/mcu_ws/install/include/ucdr/visibility.h
+/home/robot/app/robot_ws/firmware/mcu_ws/install/include/ucdr/microcdr.h
+/home/robot/app/robot_ws/firmware/mcu_ws/install/include/ucdr/config.h
+/home/robot/app/robot_ws/firmware/mcu_ws/install/share/microcdr/cmake/microcdrTargets.cmake
+/home/robot/app/robot_ws/firmware/mcu_ws/install/share/microcdr/cmake/microcdrTargets-debug.cmake
+/home/robot/app/robot_ws/firmware/mcu_ws/install/share/microcdr/cmake/microcdrConfig.cmake
+/home/robot/app/robot_ws/firmware/mcu_ws/install/share/microcdr/cmake/microcdrConfigVersion.cmake

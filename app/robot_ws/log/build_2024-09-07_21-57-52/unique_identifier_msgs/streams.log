@@ -1,0 +1,164 @@
+[0.121s] Invoking command in '/home/robot/app/robot_ws/build/unique_identifier_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/unique_identifier_msgs -- -j8 -l8
+[0.468s] [  7%] Built target unique_identifier_msgs__rosidl_generator_c
+[0.494s] [ 10%] Built target unique_identifier_msgs__cpp
+[0.494s] [ 10%] Built target ament_cmake_python_copy_unique_identifier_msgs
+[0.829s] [ 17%] Built target unique_identifier_msgs__rosidl_typesupport_c
+[0.852s] [ 25%] Built target unique_identifier_msgs__rosidl_typesupport_microxrcedds_c
+[0.852s] [ 33%] Built target unique_identifier_msgs__rosidl_typesupport_introspection_cpp
+[0.904s] [ 41%] Built target unique_identifier_msgs__rosidl_typesupport_microxrcedds_cpp
+[0.977s] [ 48%] Built target unique_identifier_msgs__rosidl_typesupport_fastrtps_c
+[0.999s] [ 56%] Built target unique_identifier_msgs__rosidl_typesupport_cpp
+[1.021s] [ 64%] Built target unique_identifier_msgs__rosidl_typesupport_fastrtps_cpp
+[1.034s] [ 71%] Built target unique_identifier_msgs__rosidl_typesupport_introspection_c
+[1.351s] [ 71%] Built target unique_identifier_msgs
+[1.479s] [ 74%] Built target unique_identifier_msgs__py
+[1.717s] [ 79%] Built target unique_identifier_msgs__rosidl_generator_py
+[2.051s] [ 84%] Built target unique_identifier_msgs__rosidl_typesupport_fastrtps_c__pyext
+[2.112s] [ 89%] Built target unique_identifier_msgs__rosidl_typesupport_microxrcedds_c__pyext
+[2.198s] [ 94%] Built target unique_identifier_msgs__rosidl_typesupport_introspection_c__pyext
+[2.247s] [100%] Built target unique_identifier_msgs__rosidl_typesupport_c__pyext
+[2.718s] running egg_info
+[2.721s] writing unique_identifier_msgs.egg-info/PKG-INFO
+[2.723s] writing dependency_links to unique_identifier_msgs.egg-info/dependency_links.txt
+[2.724s] writing top-level names to unique_identifier_msgs.egg-info/top_level.txt
+[2.734s] reading manifest file 'unique_identifier_msgs.egg-info/SOURCES.txt'
+[2.743s] writing manifest file 'unique_identifier_msgs.egg-info/SOURCES.txt'
+[2.912s] [100%] Built target ament_cmake_python_build_unique_identifier_msgs_egg
+[2.954s] Invoked command in '/home/robot/app/robot_ws/build/unique_identifier_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/unique_identifier_msgs -- -j8 -l8
+[3.552s] Invoking command in '/home/robot/app/robot_ws/build/unique_identifier_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/unique_identifier_msgs
+[3.591s] -- Install configuration: ""
+[3.592s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/ament_index/resource_index/rosidl_interfaces/unique_identifier_msgs
+[3.592s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs
+[3.593s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg
+[3.593s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/uuid.h
+[3.593s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail
+[3.593s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__struct.h
+[3.594s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__functions.c
+[3.596s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__type_support.h
+[3.596s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__functions.h
+[3.597s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/rosidl_generator_c__visibility_control.h
+[3.597s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/environment/library_path.sh
+[3.598s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/environment/library_path.dsv
+[3.598s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_generator_c.so
+[3.598s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs
+[3.598s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg
+[3.603s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/detail
+[3.603s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/detail/microxrcedds
+[3.607s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/detail/uuid__rosidl_typesupport_microxrcedds_c.h
+[3.607s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[3.608s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_typesupport_microxrcedds_c.so
+[3.608s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs
+[3.608s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg
+[3.608s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail
+[3.608s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__rosidl_typesupport_fastrtps_c.h
+[3.609s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.618s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_typesupport_fastrtps_c.so
+[3.618s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs
+[3.618s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg
+[3.618s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.618s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail
+[3.619s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__rosidl_typesupport_introspection_c.h
+[3.619s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__type_support.c
+[3.619s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_typesupport_introspection_c.so
+[3.620s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_typesupport_c.so
+[3.620s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs
+[3.620s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg
+[3.620s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail
+[3.621s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__builder.hpp
+[3.622s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__traits.hpp
+[3.623s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__struct.hpp
+[3.627s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/uuid.hpp
+[3.628s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs
+[3.629s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg
+[3.629s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/detail
+[3.629s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/detail/microxrcedds
+[3.630s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/detail/microxrcedds/uuid__type_support_cpp.cpp
+[3.630s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/detail/uuid__rosidl_typesupport_microxrcedds_cpp.hpp
+[3.630s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[3.630s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_typesupport_microxrcedds_cpp.so
+[3.630s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs
+[3.631s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg
+[3.631s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.631s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail
+[3.631s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__rosidl_typesupport_fastrtps_cpp.hpp
+[3.631s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/dds_fastrtps
+[3.632s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_typesupport_fastrtps_cpp.so
+[3.632s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs
+[3.633s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg
+[3.638s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail
+[3.638s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__rosidl_typesupport_introspection_cpp.hpp
+[3.638s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/include/unique_identifier_msgs/unique_identifier_msgs/msg/detail/uuid__type_support.cpp
+[3.638s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_typesupport_introspection_cpp.so
+[3.641s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_typesupport_cpp.so
+[3.641s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/environment/pythonpath.sh
+[3.642s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/environment/pythonpath.dsv
+[3.642s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs-2.2.1-py3.10.egg-info
+[3.642s] -- Installing: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs-2.2.1-py3.10.egg-info/dependency_links.txt
+[3.643s] -- Installing: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs-2.2.1-py3.10.egg-info/PKG-INFO
+[3.643s] -- Installing: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs-2.2.1-py3.10.egg-info/SOURCES.txt
+[3.648s] -- Installing: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs-2.2.1-py3.10.egg-info/top_level.txt
+[3.649s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs
+[3.649s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/__init__.py
+[3.650s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/_unique_identifier_msgs_s.ep.rosidl_typesupport_microxrcedds_c.c
+[3.650s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/unique_identifier_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[3.650s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/_unique_identifier_msgs_s.ep.rosidl_typesupport_c.c
+[3.650s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/unique_identifier_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.651s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/unique_identifier_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.651s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/libunique_identifier_msgs__rosidl_generator_py.so
+[3.651s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/_unique_identifier_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[3.654s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/_unique_identifier_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[3.656s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/msg
+[3.656s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/msg/__init__.py
+[3.656s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/msg/_uuid_s.c
+[3.656s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/msg/_uuid.py
+[3.657s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/unique_identifier_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.799s] Listing '/home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs'...
+[3.799s] Listing '/home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/msg'...
+[3.844s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/unique_identifier_msgs_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[3.848s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/unique_identifier_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.853s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/unique_identifier_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.855s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages/unique_identifier_msgs/unique_identifier_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.863s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/lib/libunique_identifier_msgs__rosidl_generator_py.so
+[3.865s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl
+[3.866s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.msg
+[3.866s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/ament_index/resource_index/package_run_dependencies/unique_identifier_msgs
+[3.867s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/ament_index/resource_index/parent_prefix_path/unique_identifier_msgs
+[3.869s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/environment/ament_prefix_path.sh
+[3.869s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/environment/ament_prefix_path.dsv
+[3.869s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/environment/path.sh
+[3.869s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/environment/path.dsv
+[3.870s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/local_setup.bash
+[3.870s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/local_setup.sh
+[3.870s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/local_setup.zsh
+[3.870s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/local_setup.dsv
+[3.870s] -- Installing: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/package.dsv
+[3.871s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/ament_index/resource_index/packages/unique_identifier_msgs
+[3.871s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_generator_cExport.cmake
+[3.871s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_generator_cExport-noconfig.cmake
+[3.871s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[3.871s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[3.872s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgs__rosidl_typesupport_introspection_cExport.cmake
+[3.872s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[3.872s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgs__rosidl_typesupport_cExport.cmake
+[3.872s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[3.872s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_generator_cppExport.cmake
+[3.872s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[3.873s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[3.873s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[3.873s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.873s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgs__rosidl_typesupport_cppExport.cmake
+[3.874s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[3.874s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_generator_pyExport.cmake
+[3.879s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/export_unique_identifier_msgs__rosidl_generator_pyExport-noconfig.cmake
+[3.883s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/rosidl_cmake-extras.cmake
+[3.884s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.884s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[3.884s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[3.885s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.885s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.885s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.885s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgsConfig.cmake
+[3.885s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/cmake/unique_identifier_msgsConfig-version.cmake
+[3.886s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/package.xml
+[3.886s] -- Up-to-date: /home/robot/app/robot_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/mapping_rules.yaml
+[3.916s] Invoked command in '/home/robot/app/robot_ws/build/unique_identifier_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/unique_identifier_msgs

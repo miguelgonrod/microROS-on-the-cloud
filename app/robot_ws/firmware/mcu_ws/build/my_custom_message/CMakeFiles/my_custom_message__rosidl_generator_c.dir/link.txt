@@ -1,0 +1,2 @@
+/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libmy_custom_message__rosidl_generator_c.a CMakeFiles/my_custom_message__rosidl_generator_c.dir/rosidl_generator_c/my_custom_message/msg/detail/my_custom_message__functions.c.obj
+/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libmy_custom_message__rosidl_generator_c.a

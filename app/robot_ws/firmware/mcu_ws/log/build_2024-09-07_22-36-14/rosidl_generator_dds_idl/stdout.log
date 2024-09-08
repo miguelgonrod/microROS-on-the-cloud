@@ -1,0 +1,89 @@
+Not searching for unused variables given on the command line.
+-- Found ament_cmake: 1.3.10 (/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake/share/ament_cmake/cmake)
+-- Found Python3: /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl
+gmake[4]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+/usr/bin/cmake -S/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl -B/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl/CMakeFiles /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl//CMakeFiles/progress.marks
+/usr/bin/gmake  -f CMakeFiles/Makefile2 all
+gmake[5]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl_setup.dir/build.make CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl_setup.dir/depend
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl.dir/build.make CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl.dir/depend
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+cd /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl/CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl_setup.dir/DependInfo.cmake --color=
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+cd /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl/CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl.dir/DependInfo.cmake --color=
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl.dir/build.make CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl.dir/build
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl_setup.dir/build.make CMakeFiles/ament_cmake_python_copy_rosidl_generator_dds_idl_setup.dir/build
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+/usr/bin/cmake -E copy_directory /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl/ament_cmake_python/rosidl_generator_dds_idl/rosidl_generator_dds_idl
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+/usr/bin/cmake -E copy /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl/setup.cfg /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl/ament_cmake_python/rosidl_generator_dds_idl/setup.cfg
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+Built target ament_cmake_python_copy_rosidl_generator_dds_idl
+Built target ament_cmake_python_copy_rosidl_generator_dds_idl_setup
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_build_rosidl_generator_dds_idl_egg.dir/build.make CMakeFiles/ament_cmake_python_build_rosidl_generator_dds_idl_egg.dir/depend
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+cd /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_dds/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl/CMakeFiles/ament_cmake_python_build_rosidl_generator_dds_idl_egg.dir/DependInfo.cmake --color=
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_build_rosidl_generator_dds_idl_egg.dir/build.make CMakeFiles/ament_cmake_python_build_rosidl_generator_dds_idl_egg.dir/build
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+cd /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl/ament_cmake_python/rosidl_generator_dds_idl && /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python3 setup.py egg_info
+running egg_info
+creating rosidl_generator_dds_idl.egg-info
+writing rosidl_generator_dds_idl.egg-info/PKG-INFO
+writing dependency_links to rosidl_generator_dds_idl.egg-info/dependency_links.txt
+writing entry points to rosidl_generator_dds_idl.egg-info/entry_points.txt
+writing top-level names to rosidl_generator_dds_idl.egg-info/top_level.txt
+writing manifest file 'rosidl_generator_dds_idl.egg-info/SOURCES.txt'
+reading manifest file 'rosidl_generator_dds_idl.egg-info/SOURCES.txt'
+writing manifest file 'rosidl_generator_dds_idl.egg-info/SOURCES.txt'
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+Built target ament_cmake_python_build_rosidl_generator_dds_idl_egg
+gmake[5]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl/CMakeFiles 0
+gmake[4]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_generator_dds_idl'
+-- Install configuration: "Debug"
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/environment/pythonpath.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/environment/pythonpath.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl-0.8.1-py3.10.egg-info
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl-0.8.1-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl-0.8.1-py3.10.egg-info/entry_points.txt
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl-0.8.1-py3.10.egg-info/PKG-INFO
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl-0.8.1-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl-0.8.1-py3.10.egg-info/top_level.txt
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl/__init__.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl/cli.py
+Listing '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl/__init__.py'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_generator_dds_idl/cli.py'...
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/package_run_dependencies/rosidl_generator_dds_idl
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/parent_prefix_path/rosidl_generator_dds_idl
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/environment/ament_prefix_path.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/environment/path.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/local_setup.bash
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/local_setup.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/package.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages/rosidl_generator_dds_idl
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/cmake/rosidl_generator_dds_idl-extras.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/cmake/rosidl_generator_dds_idlConfig.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/cmake/rosidl_generator_dds_idlConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/package.xml
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/rosidl_generator_dds_idl/rosidl_generator_dds_idl
+-- Up-to-date: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/cmake/rosidl_generate_dds_interfaces.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/resource
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/resource/action.idl.em
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/resource/srv.idl.em
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/resource/idl.idl.em
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_generator_dds_idl/resource/msg.idl.em

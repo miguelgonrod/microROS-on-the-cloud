@@ -1,0 +1,3 @@
+/home/robot/app/robot_ws/firmware/mcu_ws/build/statistics_msgs/rosidl_adapter/statistics_msgs:msg/MetricsMessage.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/statistics_msgs/rosidl_adapter/statistics_msgs:msg/StatisticDataPoint.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/statistics_msgs/rosidl_adapter/statistics_msgs:msg/StatisticDataType.idl

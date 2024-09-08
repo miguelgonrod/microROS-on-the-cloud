@@ -1,0 +1,23 @@
+{
+  "package_name": "test_msgs",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/Arrays.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/BasicTypes.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/BoundedPlainSequences.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/BoundedSequences.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/Constants.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/Defaults.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/Empty.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/MultiNested.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/Nested.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/Strings.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/UnboundedSequences.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:msg/WStrings.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:srv/Arrays.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:srv/BasicTypes.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:srv/Empty.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_interface_files:action/Fibonacci.action",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/test_msgs:msg/Builtins.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/test_msgs:action/NestedMessage.action"
+  ]
+}

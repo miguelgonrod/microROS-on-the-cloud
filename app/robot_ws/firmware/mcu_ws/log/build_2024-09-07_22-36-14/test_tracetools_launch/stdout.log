@@ -1,0 +1,18 @@
+running egg_info
+creating ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info
+writing ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/PKG-INFO
+writing dependency_links to ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/dependency_links.txt
+writing requirements to ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/requires.txt
+writing top-level names to ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/top_level.txt
+writing manifest file '../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/SOURCES.txt'
+reading manifest file '../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/SOURCES.txt'
+writing manifest file '../../../build/test_tracetools_launch/test_tracetools_launch.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+copying package.xml -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/test_tracetools_launch
+copying resource/test_tracetools_launch -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+running install_egg_info
+Copying ../../../build/test_tracetools_launch/test_tracetools_launch.egg-info to /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/test_tracetools_launch-4.1.1-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/robot/app/robot_ws/firmware/mcu_ws/build/test_tracetools_launch/install.log'

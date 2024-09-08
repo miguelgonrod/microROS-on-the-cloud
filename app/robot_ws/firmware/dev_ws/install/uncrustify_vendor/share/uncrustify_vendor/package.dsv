@@ -1,0 +1,8 @@
+source;share/uncrustify_vendor/hook/cmake_prefix_path.ps1
+source;share/uncrustify_vendor/hook/cmake_prefix_path.dsv
+source;share/uncrustify_vendor/hook/cmake_prefix_path.sh
+source;share/uncrustify_vendor/local_setup.bash
+source;share/uncrustify_vendor/local_setup.dsv
+source;share/uncrustify_vendor/local_setup.ps1
+source;share/uncrustify_vendor/local_setup.sh
+source;share/uncrustify_vendor/local_setup.zsh

@@ -1,0 +1,220 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/build/my_custom_message
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_generator_c[0m
+[  2%] Built target my_custom_message__cpp
+[ 10%] Built target ament_cmake_python_copy_my_custom_message
+[ 10%] Built target my_custom_message__rosidl_generator_c
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_introspection_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_fastrtps_c[0m
+[ 12%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_fastrtps_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_introspection_c[0m
+[ 15%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[ 17%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[ 25%] Built target my_custom_message__rosidl_typesupport_introspection_cpp
+[ 33%] Built target my_custom_message__rosidl_typesupport_introspection_c
+[ 41%] Built target my_custom_message__rosidl_typesupport_fastrtps_c
+[ 43%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[ 51%] Built target my_custom_message__rosidl_typesupport_fastrtps_cpp
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_c[0m
+running egg_info
+writing my_custom_message.egg-info/PKG-INFO
+writing dependency_links to my_custom_message.egg-info/dependency_links.txt
+writing top-level names to my_custom_message.egg-info/top_level.txt
+reading manifest file 'my_custom_message.egg-info/SOURCES.txt'
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_cpp[0m
+writing manifest file 'my_custom_message.egg-info/SOURCES.txt'
+[ 53%] [32mBuilding CXX object CMakeFiles/my_custom_message__rosidl_typesupport_c.dir/rosidl_typesupport_c/my_custom_message/msg/my_custom_message__type_support.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/my_custom_message__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/my_custom_message/msg/my_custom_message__type_support.cpp.o[0m
+[ 58%] [32mBuilding C object CMakeFiles/my_custom_message__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/my_custom_message/msg/detail/microxrcedds/my_custom_message__type_support_c.c.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/my_custom_message__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/my_custom_message/msg/detail/microxrcedds/my_custom_message__type_support_cpp.cpp.o[0m
+[ 61%] Built target ament_cmake_python_build_my_custom_message_egg
+[ 64%] [32m[1mLinking CXX shared library libmy_custom_message__rosidl_typesupport_c.so[0m
+[ 66%] [32m[1mLinking C shared library libmy_custom_message__rosidl_typesupport_microxrcedds_c.so[0m
+[ 66%] Built target my_custom_message__rosidl_typesupport_c
+[ 66%] Built target my_custom_message__rosidl_typesupport_microxrcedds_c
+[ 69%] [32m[1mLinking CXX shared library libmy_custom_message__rosidl_typesupport_microxrcedds_cpp.so[0m
+[ 71%] [32m[1mLinking CXX shared library libmy_custom_message__rosidl_typesupport_cpp.so[0m
+[ 71%] Built target my_custom_message__rosidl_typesupport_cpp
+[ 71%] Built target my_custom_message__rosidl_typesupport_microxrcedds_cpp
+[ 71%] Built target my_custom_message
+[ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[ 74%] Built target my_custom_message__py
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_generator_py[0m
+[ 76%] [32mBuilding C object CMakeFiles/my_custom_message__rosidl_generator_py.dir/rosidl_generator_py/my_custom_message/msg/_my_custom_message_s.c.o[0m
+[ 79%] [32m[1mLinking C shared library rosidl_generator_py/my_custom_message/libmy_custom_message__rosidl_generator_py.so[0m
+[ 79%] Built target my_custom_message__rosidl_generator_py
+[ 82%] [32mBuilding C object CMakeFiles/my_custom_message__rosidl_typesupport_microxrcedds_c__pyext.dir/rosidl_generator_py/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_microxrcedds_c.c.o[0m
+[ 84%] [32m[1mLinking C shared library rosidl_generator_py/my_custom_message/my_custom_message_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 84%] Built target my_custom_message__rosidl_typesupport_microxrcedds_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_c__pyext[0m
+[ 87%] [32mBuilding C object CMakeFiles/my_custom_message__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_c.c.o[0m
+[ 89%] [32m[1mLinking C shared library rosidl_generator_py/my_custom_message/my_custom_message_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 89%] Built target my_custom_message__rosidl_typesupport_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_introspection_c__pyext[0m
+[ 92%] [32mBuilding C object CMakeFiles/my_custom_message__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 94%] [32m[1mLinking C shared library rosidl_generator_py/my_custom_message/my_custom_message_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[ 94%] Built target my_custom_message__rosidl_typesupport_introspection_c__pyext
+[35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_fastrtps_c__pyext[0m
+[ 97%] [32mBuilding C object CMakeFiles/my_custom_message__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[100%] [32m[1mLinking C shared library rosidl_generator_py/my_custom_message/my_custom_message_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[100%] Built target my_custom_message__rosidl_typesupport_fastrtps_c__pyext
+-- Install configuration: ""
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/ament_index/resource_index/rosidl_interfaces/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/my_custom_message.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__type_support.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__functions.c
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__struct.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__functions.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/rosidl_generator_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/library_path.sh
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/library_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_generator_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/microxrcedds
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_microxrcedds_c.h
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_microxrcedds_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_microxrcedds_c.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__type_support.c
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_introspection_c.so
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_c.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_c.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/my_custom_message.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__builder.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__struct.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__traits.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/microxrcedds
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/microxrcedds/my_custom_message__type_support_cpp.cpp
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_microxrcedds_cpp.hpp
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_microxrcedds_cpp.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_microxrcedds_cpp.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/dds_fastrtps
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_fastrtps_cpp.so
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__type_support.cpp
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_introspection_cpp.so
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_cpp.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/pythonpath.sh
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/pythonpath.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info/top_level.txt
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/__init__.py
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_microxrcedds_c.c
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_c.c
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/libmy_custom_message__rosidl_generator_py.so
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_introspection_c.c
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg/__init__.py
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg/_my_custom_message.py
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg/_my_custom_message_s.c
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_fastrtps_c.c
+Listing '/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message'...
+Compiling '/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/__init__.py'...
+Listing '/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg'...
+Compiling '/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg/__init__.py'...
+Compiling '/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg/_my_custom_message.py'...
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_generator_py.so
+-- Set runtime path of "/home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_generator_py.so" to ""
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/msg/MyCustomMessage.idl
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/msg/MyCustomMessage.msg
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/ament_index/resource_index/package_run_dependencies/my_custom_message
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/ament_index/resource_index/parent_prefix_path/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/path.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/local_setup.bash
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/local_setup.sh
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/package.dsv
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/ament_index/resource_index/packages/my_custom_message
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_typesupport_fastrtps_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_cppExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_pyExport.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_pyExport-noconfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/rosidl_cmake-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_messageConfig.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_messageConfig-version.cmake
+-- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/package.xml

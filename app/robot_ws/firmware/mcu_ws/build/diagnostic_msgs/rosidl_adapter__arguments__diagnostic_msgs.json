@@ -1,0 +1,10 @@
+{
+  "package_name": "diagnostic_msgs",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/diagnostic_msgs:msg/DiagnosticArray.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/diagnostic_msgs:msg/DiagnosticStatus.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/diagnostic_msgs:msg/KeyValue.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/diagnostic_msgs:srv/AddDiagnostics.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/diagnostic_msgs:srv/SelfTest.srv"
+  ]
+}

@@ -1,0 +1,79 @@
+[1.466s] Invoking command in '/home/robot/app/robot_ws/firmware/dev_ws/ament/ament_lint/ament_pclint': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_pclint build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/install.log --single-version-externally-managed install_data
+[1.786s] running egg_info
+[1.788s] creating ../../../build/ament_pclint/ament_pclint.egg-info
+[1.789s] writing ../../../build/ament_pclint/ament_pclint.egg-info/PKG-INFO
+[1.789s] writing dependency_links to ../../../build/ament_pclint/ament_pclint.egg-info/dependency_links.txt
+[1.789s] writing entry points to ../../../build/ament_pclint/ament_pclint.egg-info/entry_points.txt
+[1.789s] writing requirements to ../../../build/ament_pclint/ament_pclint.egg-info/requires.txt
+[1.789s] writing top-level names to ../../../build/ament_pclint/ament_pclint.egg-info/top_level.txt
+[1.789s] writing manifest file '../../../build/ament_pclint/ament_pclint.egg-info/SOURCES.txt'
+[1.796s] reading manifest file '../../../build/ament_pclint/ament_pclint.egg-info/SOURCES.txt'
+[1.796s] writing manifest file '../../../build/ament_pclint/ament_pclint.egg-info/SOURCES.txt'
+[1.796s] running build
+[1.796s] running build_py
+[1.796s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build
+[1.797s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib
+[1.797s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint
+[1.797s] copying ament_pclint/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint
+[1.798s] copying ament_pclint/main.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint
+[1.799s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config
+[1.799s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.799s] copying ament_pclint/config/gcc/co-g++.h -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.799s] copying ament_pclint/config/gcc/co-g++.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.799s] copying ament_pclint/config/gcc/co-gcc.h -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.800s] copying ament_pclint/config/gcc/co-gcc.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.800s] copying ament_pclint/config/gcc/co-osx-g++.h -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.803s] copying ament_pclint/config/gcc/co-osx-g++.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.803s] copying ament_pclint/config/gcc/co-osx-gcc.h -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.804s] copying ament_pclint/config/gcc/co-osx-gcc.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[1.804s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/msvc
+[1.804s] copying ament_pclint/config/msvc/co-cl.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/msvc
+[1.804s] copying ament_pclint/config/msvc/co-cl++.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/msvc
+[1.805s] copying ament_pclint/config/msvc/co-cl.h -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/msvc
+[1.805s] copying ament_pclint/config/au-misra3.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config
+[1.805s] copying ament_pclint/config/au-misra3-amd1.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config
+[1.805s] copying ament_pclint/config/au-misra-cpp.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config
+[1.805s] copying ament_pclint/config/c99.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config
+[1.805s] copying ament_pclint/config/c++.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config
+[1.805s] copying ament_pclint/config/deprecate.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config
+[1.805s] copying ament_pclint/config/env-xml.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config
+[1.806s] running install
+[1.806s] running install_lib
+[1.806s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint
+[1.806s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint
+[1.806s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config
+[1.806s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/au-misra-cpp.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config
+[1.806s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.807s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-osx-g++.h -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.807s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-osx-gcc.h -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.807s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-gcc.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.807s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-osx-g++.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.807s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-osx-gcc.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.809s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-gcc.h -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.809s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-g++.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.809s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-g++.h -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/gcc
+[1.809s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/env-xml.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config
+[1.809s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/au-misra3.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config
+[1.809s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/c++.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config
+[1.809s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/au-misra3-amd1.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config
+[1.809s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/c99.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config
+[1.810s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/deprecate.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config
+[1.811s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/msvc
+[1.813s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/msvc/co-cl++.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/msvc
+[1.814s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/msvc/co-cl.h -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/msvc
+[1.814s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/config/msvc/co-cl.lnt -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/config/msvc
+[1.814s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build/lib/ament_pclint/main.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint
+[1.814s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/__init__.py to __init__.cpython-310.pyc
+[1.814s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint/main.py to main.cpython-310.pyc
+[1.815s] running install_data
+[1.816s] copying package.xml -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/share/ament_pclint
+[1.816s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/share/ament_index
+[1.816s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/share/ament_index/resource_index
+[1.816s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/share/ament_index/resource_index/packages
+[1.816s] copying resource/ament_pclint -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/share/ament_index/resource_index/packages
+[1.816s] running install_egg_info
+[1.820s] Copying ../../../build/ament_pclint/ament_pclint.egg-info to /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages/ament_pclint-0.12.11-py3.10.egg-info
+[1.825s] running install_scripts
+[1.854s] Installing ament_pclint script to /home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/bin
+[1.860s] writing list of installed files to '/home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/install.log'
+[1.911s] Invoked command in '/home/robot/app/robot_ws/firmware/dev_ws/ament/ament_lint/ament_pclint' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pclint/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_pclint build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/ament_pclint/install.log --single-version-externally-managed install_data

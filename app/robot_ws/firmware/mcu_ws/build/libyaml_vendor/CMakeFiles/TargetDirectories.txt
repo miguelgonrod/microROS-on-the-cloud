@@ -1,0 +1,10 @@
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/uninstall.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml_vendor_uninstall.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/libyaml-0.2.5.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/test.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/edit_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/rebuild_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/list_install_components.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/install.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/install/local.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/CMakeFiles/install/strip.dir

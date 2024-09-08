@@ -1,0 +1,8 @@
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/uninstall.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/rosidl_typesupport_interface_uninstall.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/test.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/edit_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/rebuild_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/list_install_components.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/install.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/install/local.dir

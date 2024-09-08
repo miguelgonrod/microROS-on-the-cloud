@@ -1,0 +1,17 @@
+source;share/my_custom_message/hook/cmake_prefix_path.ps1
+source;share/my_custom_message/hook/cmake_prefix_path.dsv
+source;share/my_custom_message/hook/cmake_prefix_path.sh
+source;share/my_custom_message/hook/path.ps1
+source;share/my_custom_message/hook/path.dsv
+source;share/my_custom_message/hook/path.sh
+source;share/my_custom_message/hook/pythonpath.ps1
+source;share/my_custom_message/hook/pythonpath.dsv
+source;share/my_custom_message/hook/pythonpath.sh
+source;share/my_custom_message/hook/pythonscriptspath.ps1
+source;share/my_custom_message/hook/pythonscriptspath.dsv
+source;share/my_custom_message/hook/pythonscriptspath.sh
+source;share/my_custom_message/local_setup.bash
+source;share/my_custom_message/local_setup.dsv
+source;share/my_custom_message/local_setup.ps1
+source;share/my_custom_message/local_setup.sh
+source;share/my_custom_message/local_setup.zsh

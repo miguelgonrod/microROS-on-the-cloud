@@ -1,0 +1,65 @@
+[1.788s] Invoking command in '/home/robot/app/robot_ws/firmware/mcu_ws/uros/tracetools/tracetools_trace': PYTHONPATH=/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/prefix_override:/home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/tracetools_trace build --build-base /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build install --record /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/install.log --single-version-externally-managed install_data
+[2.061s] /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[2.062s]   warnings.warn(msg)
+[2.141s] running egg_info
+[2.142s] creating ../../../build/tracetools_trace/tracetools_trace.egg-info
+[2.158s] writing ../../../build/tracetools_trace/tracetools_trace.egg-info/PKG-INFO
+[2.161s] writing dependency_links to ../../../build/tracetools_trace/tracetools_trace.egg-info/dependency_links.txt
+[2.162s] writing entry points to ../../../build/tracetools_trace/tracetools_trace.egg-info/entry_points.txt
+[2.168s] writing requirements to ../../../build/tracetools_trace/tracetools_trace.egg-info/requires.txt
+[2.168s] writing top-level names to ../../../build/tracetools_trace/tracetools_trace.egg-info/top_level.txt
+[2.169s] writing manifest file '../../../build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[2.251s] reading manifest file '../../../build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[2.253s] writing manifest file '../../../build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[2.253s] running build
+[2.253s] running build_py
+[2.253s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build
+[2.253s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib
+[2.256s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace
+[2.257s] copying tracetools_trace/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace
+[2.260s] copying tracetools_trace/trace.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace
+[2.263s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.263s] copying tracetools_trace/tools/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.264s] copying tracetools_trace/tools/lttng.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.265s] copying tracetools_trace/tools/args.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.265s] copying tracetools_trace/tools/path.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.266s] copying tracetools_trace/tools/names.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.272s] copying tracetools_trace/tools/lttng_impl.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.276s] copying tracetools_trace/tools/lttng_stub.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.277s] copying tracetools_trace/tools/signals.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.277s] copying tracetools_trace/tools/tracepoints.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools
+[2.279s] running install
+[2.298s] running install_lib
+[2.329s] creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace
+[2.331s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace
+[2.334s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/trace.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace
+[2.335s] creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.336s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.336s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/lttng.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.336s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/args.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.336s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/path.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.341s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/names.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.341s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/lttng_impl.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.342s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/lttng_stub.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.342s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/signals.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.342s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build/lib/tracetools_trace/tools/tracepoints.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools
+[2.344s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/__init__.py to __init__.cpython-310.pyc
+[2.344s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/trace.py to trace.cpython-310.pyc
+[2.346s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/__init__.py to __init__.cpython-310.pyc
+[2.346s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/lttng.py to lttng.cpython-310.pyc
+[2.352s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/args.py to args.cpython-310.pyc
+[2.353s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/path.py to path.cpython-310.pyc
+[2.353s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/names.py to names.cpython-310.pyc
+[2.354s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/lttng_impl.py to lttng_impl.cpython-310.pyc
+[2.371s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/lttng_stub.py to lttng_stub.cpython-310.pyc
+[2.372s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/signals.py to signals.cpython-310.pyc
+[2.381s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace/tools/tracepoints.py to tracepoints.cpython-310.pyc
+[2.385s] running install_data
+[2.389s] copying package.xml -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/tracetools_trace
+[2.389s] copying resource/tracetools_trace -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[2.390s] running install_egg_info
+[2.427s] Copying ../../../build/tracetools_trace/tracetools_trace.egg-info to /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_trace-4.1.1-py3.10.egg-info
+[2.437s] running install_scripts
+[2.797s] Installing trace script to /home/robot/app/robot_ws/firmware/mcu_ws/install/bin
+[2.809s] writing list of installed files to '/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/install.log'
+[2.970s] Invoked command in '/home/robot/app/robot_ws/firmware/mcu_ws/uros/tracetools/tracetools_trace' returned '0': PYTHONPATH=/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/prefix_override:/home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/tracetools_trace build --build-base /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/build install --record /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_trace/install.log --single-version-externally-managed install_data

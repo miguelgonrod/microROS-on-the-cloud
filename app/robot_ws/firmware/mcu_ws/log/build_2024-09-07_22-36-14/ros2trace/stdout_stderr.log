@@ -1,0 +1,43 @@
+/home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+creating ../../../build/ros2trace/ros2trace.egg-info
+writing ../../../build/ros2trace/ros2trace.egg-info/PKG-INFO
+writing dependency_links to ../../../build/ros2trace/ros2trace.egg-info/dependency_links.txt
+writing entry points to ../../../build/ros2trace/ros2trace.egg-info/entry_points.txt
+writing requirements to ../../../build/ros2trace/ros2trace.egg-info/requires.txt
+writing top-level names to ../../../build/ros2trace/ros2trace.egg-info/top_level.txt
+writing manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+reading manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+writing manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build
+creating /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib
+creating /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace
+copying ros2trace/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace
+creating /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command
+copying ros2trace/command/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command
+copying ros2trace/command/trace.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command
+creating /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/api
+copying ros2trace/api/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/api
+running install
+running install_lib
+creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace
+copying /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace
+creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command
+copying /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command
+copying /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/command/trace.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command
+creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/api
+copying /home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/build/lib/ros2trace/api/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/api
+byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/command/trace.py to trace.cpython-310.pyc
+byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace/api/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying package.xml -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ros2trace
+copying resource/ros2trace -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+running install_egg_info
+Copying ../../../build/ros2trace/ros2trace.egg-info to /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/ros2trace-4.1.1-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/robot/app/robot_ws/firmware/mcu_ws/build/ros2trace/install.log'

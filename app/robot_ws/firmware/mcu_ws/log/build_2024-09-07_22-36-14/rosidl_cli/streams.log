@@ -1,0 +1,79 @@
+[1.828s] Invoking command in '/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_cli': PYTHONPATH=/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/prefix_override:/home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/rosidl_cli build --build-base /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build install --record /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/install.log --single-version-externally-managed install_data
+[2.141s] /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[2.141s]   warnings.warn(msg)
+[2.262s] running egg_info
+[2.262s] creating ../../../build/rosidl_cli/rosidl_cli.egg-info
+[2.285s] writing ../../../build/rosidl_cli/rosidl_cli.egg-info/PKG-INFO
+[2.285s] writing dependency_links to ../../../build/rosidl_cli/rosidl_cli.egg-info/dependency_links.txt
+[2.285s] writing entry points to ../../../build/rosidl_cli/rosidl_cli.egg-info/entry_points.txt
+[2.285s] writing requirements to ../../../build/rosidl_cli/rosidl_cli.egg-info/requires.txt
+[2.285s] writing top-level names to ../../../build/rosidl_cli/rosidl_cli.egg-info/top_level.txt
+[2.286s] writing manifest file '../../../build/rosidl_cli/rosidl_cli.egg-info/SOURCES.txt'
+[2.380s] reading manifest file '../../../build/rosidl_cli/rosidl_cli.egg-info/SOURCES.txt'
+[2.387s] writing manifest file '../../../build/rosidl_cli/rosidl_cli.egg-info/SOURCES.txt'
+[2.387s] running build
+[2.387s] running build_py
+[2.387s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build
+[2.387s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib
+[2.387s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[2.387s] copying rosidl_cli/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[2.387s] copying rosidl_cli/extensions.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[2.387s] copying rosidl_cli/common.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[2.388s] copying rosidl_cli/entry_points.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[2.388s] copying rosidl_cli/cli.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli
+[2.391s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command
+[2.391s] copying rosidl_cli/command/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command
+[2.392s] copying rosidl_cli/command/helpers.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command
+[2.396s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[2.397s] copying rosidl_cli/command/translate/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[2.398s] copying rosidl_cli/command/translate/api.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[2.399s] copying rosidl_cli/command/translate/extensions.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[2.400s] creating /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[2.400s] copying rosidl_cli/command/generate/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[2.402s] copying rosidl_cli/command/generate/api.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[2.403s] copying rosidl_cli/command/generate/extensions.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[2.416s] running install
+[2.427s] running install_lib
+[2.446s] creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli
+[2.447s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli
+[2.447s] creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command
+[2.449s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command
+[2.449s] creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/translate
+[2.450s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/translate
+[2.450s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate/api.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/translate
+[2.451s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/translate/extensions.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/translate
+[2.452s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/helpers.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command
+[2.452s] creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/generate
+[2.452s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/generate
+[2.453s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate/api.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/generate
+[2.454s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/command/generate/extensions.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/generate
+[2.454s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/extensions.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli
+[2.455s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/common.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli
+[2.455s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/entry_points.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli
+[2.456s] copying /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build/lib/rosidl_cli/cli.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli
+[2.458s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/__init__.py to __init__.cpython-310.pyc
+[2.459s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/__init__.py to __init__.cpython-310.pyc
+[2.460s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/translate/__init__.py to __init__.cpython-310.pyc
+[2.461s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/translate/api.py to api.cpython-310.pyc
+[2.462s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/translate/extensions.py to extensions.cpython-310.pyc
+[2.463s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/helpers.py to helpers.cpython-310.pyc
+[2.466s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/generate/__init__.py to __init__.cpython-310.pyc
+[2.466s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/generate/api.py to api.cpython-310.pyc
+[2.467s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/command/generate/extensions.py to extensions.cpython-310.pyc
+[2.469s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/extensions.py to extensions.cpython-310.pyc
+[2.471s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/common.py to common.cpython-310.pyc
+[2.473s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/entry_points.py to entry_points.cpython-310.pyc
+[2.474s] byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli/cli.py to cli.cpython-310.pyc
+[2.477s] running install_data
+[2.477s] copying resource/rosidl_cli -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[2.477s] copying package.xml -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_cli
+[2.479s] copying resource/package.dsv -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_cli
+[2.479s] creating /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_cli/environment
+[2.479s] copying completion/rosidl-argcomplete.bash -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_cli/environment
+[2.482s] copying completion/rosidl-argcomplete.zsh -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_cli/environment
+[2.485s] running install_egg_info
+[2.501s] Copying ../../../build/rosidl_cli/rosidl_cli.egg-info to /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_cli-3.1.5-py3.10.egg-info
+[2.503s] running install_scripts
+[2.744s] Installing rosidl script to /home/robot/app/robot_ws/firmware/mcu_ws/install/bin
+[2.749s] writing list of installed files to '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/install.log'
+[2.924s] Invoked command in '/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_cli' returned '0': PYTHONPATH=/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/prefix_override:/home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages:${PYTHONPATH} /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/rosidl_cli build --build-base /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/build install --record /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_cli/install.log --single-version-externally-managed install_data

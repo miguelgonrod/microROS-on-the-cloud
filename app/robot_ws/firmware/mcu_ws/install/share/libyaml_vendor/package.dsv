@@ -1,0 +1,17 @@
+source;share/libyaml_vendor/hook/cmake_prefix_path.ps1
+source;share/libyaml_vendor/hook/cmake_prefix_path.dsv
+source;share/libyaml_vendor/hook/cmake_prefix_path.sh
+source;share/libyaml_vendor/hook/path.ps1
+source;share/libyaml_vendor/hook/path.dsv
+source;share/libyaml_vendor/hook/path.sh
+source;share/libyaml_vendor/hook/pythonpath.ps1
+source;share/libyaml_vendor/hook/pythonpath.dsv
+source;share/libyaml_vendor/hook/pythonpath.sh
+source;share/libyaml_vendor/hook/pythonscriptspath.ps1
+source;share/libyaml_vendor/hook/pythonscriptspath.dsv
+source;share/libyaml_vendor/hook/pythonscriptspath.sh
+source;share/libyaml_vendor/local_setup.bash
+source;share/libyaml_vendor/local_setup.dsv
+source;share/libyaml_vendor/local_setup.ps1
+source;share/libyaml_vendor/local_setup.sh
+source;share/libyaml_vendor/local_setup.zsh

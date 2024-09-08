@@ -34,11 +34,8 @@ AMENT_CMAKE_UNINSTALL_TARGET:BOOL=ON
 //The path where test results are generated
 AMENT_TEST_RESULTS_DIR:PATH=/home/robot/app/robot_ws/build/micro_ros_agent/test_results
 
-//No help, variable specified on the command line.
-BUILD_SHARED_LIBS:UNINITIALIZED=ON
-
 //Build the testing tree.
-BUILD_TESTING:BOOL=OFF
+BUILD_TESTING:BOOL=ON
 
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=/usr/bin/addr2line

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libexlib.so -o libexlib.so CMakeFiles/exlib.dir/src/exlib.c.o 

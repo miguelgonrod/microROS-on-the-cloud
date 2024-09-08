@@ -1,0 +1,32 @@
+/home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+creating ../../../build/tracetools_read/tracetools_read.egg-info
+writing ../../../build/tracetools_read/tracetools_read.egg-info/PKG-INFO
+writing dependency_links to ../../../build/tracetools_read/tracetools_read.egg-info/dependency_links.txt
+writing requirements to ../../../build/tracetools_read/tracetools_read.egg-info/requires.txt
+writing top-level names to ../../../build/tracetools_read/tracetools_read.egg-info/top_level.txt
+writing manifest file '../../../build/tracetools_read/tracetools_read.egg-info/SOURCES.txt'
+reading manifest file '../../../build/tracetools_read/tracetools_read.egg-info/SOURCES.txt'
+writing manifest file '../../../build/tracetools_read/tracetools_read.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_read/build
+creating /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_read/build/lib
+creating /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_read/build/lib/tracetools_read
+copying tracetools_read/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_read/build/lib/tracetools_read
+copying tracetools_read/trace.py -> /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_read/build/lib/tracetools_read
+running install
+running install_lib
+creating /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_read
+copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_read/build/lib/tracetools_read/__init__.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_read
+copying /home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_read/build/lib/tracetools_read/trace.py -> /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_read
+byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_read/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_read/trace.py to trace.cpython-310.pyc
+running install_data
+copying package.xml -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/tracetools_read
+copying resource/tracetools_read -> /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+running install_egg_info
+Copying ../../../build/tracetools_read/tracetools_read.egg-info to /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/tracetools_read-4.1.1-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools_read/install.log'

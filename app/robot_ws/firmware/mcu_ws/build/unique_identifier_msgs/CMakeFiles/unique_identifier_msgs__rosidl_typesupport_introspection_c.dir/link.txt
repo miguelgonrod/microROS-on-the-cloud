@@ -1,0 +1,2 @@
+/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libunique_identifier_msgs__rosidl_typesupport_introspection_c.a CMakeFiles/unique_identifier_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/unique_identifier_msgs/msg/detail/uuid__type_support.c.obj
+/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libunique_identifier_msgs__rosidl_typesupport_introspection_c.a

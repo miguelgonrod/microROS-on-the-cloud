@@ -1,0 +1,8 @@
+{
+  "package_name": "statistics_msgs",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/statistics_msgs:msg/MetricsMessage.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/statistics_msgs:msg/StatisticDataPoint.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/statistics_msgs:msg/StatisticDataType.msg"
+  ]
+}

@@ -1,0 +1,13 @@
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/ImageMarker.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarker.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerControl.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerFeedback.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerInit.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerPose.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerUpdate.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/Marker.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MarkerArray.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MenuEntry.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MeshFile.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/UVCoordinate.idl
+/home/robot/app/robot_ws/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:srv/GetInteractiveMarkers.idl

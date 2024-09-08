@@ -1,0 +1,13 @@
+{
+  "package_name": "lifecycle_msgs",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/lifecycle_msgs:msg/State.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/lifecycle_msgs:msg/Transition.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/lifecycle_msgs:msg/TransitionDescription.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/lifecycle_msgs:msg/TransitionEvent.msg",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/lifecycle_msgs:srv/ChangeState.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/lifecycle_msgs:srv/GetAvailableStates.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/lifecycle_msgs:srv/GetAvailableTransitions.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/lifecycle_msgs:srv/GetState.srv"
+  ]
+}

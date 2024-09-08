@@ -1,0 +1,136 @@
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/env.c:20[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/errno.h:18:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K "errno.h"
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/char_array.c:16[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/filesystem.c:21[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/errno.h:18:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K "errno.h"
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/error_handling.c:22[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/array_list.c:23[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/env.c:25[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/filesystem.c:50[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/allocator.c:20[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/types/string_array.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/types.h:26[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/find.h:25[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/find.c:25[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/process.c:20[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/errno.h:18:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K "errno.h"
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/logging.c:21[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/errno.h:18:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K "errno.h"
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/qsort.c:22[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/hash_map.c:24[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/snprintf.c:22[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/errno.h:18:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K "errno.h"
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/process.c:43[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/shared_library.c:57[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/logging.c:47[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/strcasecmp.c:20[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/errno.h:18:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K "errno.h"
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/split.c:24[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/./common.h:23[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/strdup.c:25[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/strerror.c:20[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/errno.h:18:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K "errno.h"
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/string_array.c:24[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/string_map.c:22[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/uint8_array.c:15[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/types/string_array.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/types.h:26[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/time.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/time_unix.c:24[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/error_handling.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/types/string_array.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/types.h:26[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/include/rcutils/time.h:28[m[K,
+                 from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/time.c:20[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/assert.h:24:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <assert.h>
+  [01;35m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/robot/app/robot_ws/firmware/mcu_ws/uros/rcutils/src/time_unix.c:40[m[K:
+[01m[K/home/robot/app/robot_ws/firmware/toolchain/esp-idf/components/newlib/platform_include/time.h:22:2:[m[K [01;35m[Kwarning: [m[K#include_next is a GCC extension
+ #[01;35m[Kinclude_next[m[K <time.h>
+  [01;35m[K^~~~~~~~~~~~[m[K

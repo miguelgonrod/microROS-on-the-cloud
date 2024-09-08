@@ -1,0 +1,33 @@
+Not searching for unused variables given on the command line.
+-- Found ament_cmake: 1.3.10 (/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake/share/ament_cmake/cmake)
+-- Found Python3: /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators
+gmake[4]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators'
+/usr/bin/cmake -S/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl_defaults/rosidl_default_generators -B/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators/CMakeFiles /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators//CMakeFiles/progress.marks
+/usr/bin/gmake  -f CMakeFiles/Makefile2 all
+gmake[5]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators'
+gmake[5]: Nothing to be done for 'all'.
+gmake[5]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators'
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators/CMakeFiles 0
+gmake[4]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_generators'
+-- Install configuration: "Debug"
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/package_run_dependencies/rosidl_default_generators
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/parent_prefix_path/rosidl_default_generators
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/environment/ament_prefix_path.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/environment/path.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/local_setup.bash
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/local_setup.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/package.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages/rosidl_default_generators
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/cmake/rosidl_default_generators-extras.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/cmake/rosidl_default_generatorsConfig.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/cmake/rosidl_default_generatorsConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_default_generators/package.xml

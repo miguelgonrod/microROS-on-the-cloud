@@ -1,0 +1,17 @@
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_index/resource_index/package_run_dependencies/ament_cmake_include_directories
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_index/resource_index/parent_prefix_path/ament_cmake_include_directories
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/environment/ament_prefix_path.sh
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/environment/ament_prefix_path.dsv
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/environment/path.sh
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/environment/path.dsv
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/local_setup.bash
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/local_setup.sh
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/local_setup.zsh
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/local_setup.dsv
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/package.dsv
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_index/resource_index/packages/ament_cmake_include_directories
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake/ament_cmake_include_directories-extras.cmake
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake/ament_cmake_include_directoriesConfig.cmake
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake/ament_cmake_include_directoriesConfig-version.cmake
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/package.xml
+/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake/ament_include_directories_order.cmake

@@ -1,0 +1,36 @@
+[1.161s] Invoking command in '/home/robot/app/robot_ws/firmware/dev_ws/ament/ament_lint/ament_lint': PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_lint build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/install.log --single-version-externally-managed install_data
+[1.347s] running egg_info
+[1.350s] creating ../../../build/ament_lint/ament_lint.egg-info
+[1.350s] writing ../../../build/ament_lint/ament_lint.egg-info/PKG-INFO
+[1.350s] writing dependency_links to ../../../build/ament_lint/ament_lint.egg-info/dependency_links.txt
+[1.350s] writing entry points to ../../../build/ament_lint/ament_lint.egg-info/entry_points.txt
+[1.351s] writing requirements to ../../../build/ament_lint/ament_lint.egg-info/requires.txt
+[1.351s] writing top-level names to ../../../build/ament_lint/ament_lint.egg-info/top_level.txt
+[1.351s] writing manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.351s] reading manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.352s] writing manifest file '../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.352s] running build
+[1.353s] running build_py
+[1.354s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build
+[1.354s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build/lib
+[1.354s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[1.354s] copying ament_lint/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[1.354s] copying ament_lint/pytest_marker.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint
+[1.355s] running install
+[1.355s] running install_lib
+[1.355s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[1.355s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[1.355s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build/lib/ament_lint/pytest_marker.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint
+[1.355s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint/__init__.py to __init__.cpython-310.pyc
+[1.355s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint/pytest_marker.py to pytest_marker.cpython-310.pyc
+[1.355s] running install_data
+[1.356s] copying package.xml -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/share/ament_lint
+[1.356s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/share/ament_index
+[1.356s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index
+[1.356s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index/packages
+[1.356s] copying resource/ament_lint -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/share/ament_index/resource_index/packages
+[1.356s] running install_egg_info
+[1.358s] Copying ../../../build/ament_lint/ament_lint.egg-info to /home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages/ament_lint-0.12.11-py3.10.egg-info
+[1.359s] running install_scripts
+[1.383s] writing list of installed files to '/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/install.log'
+[1.556s] Invoked command in '/home/robot/app/robot_ws/firmware/dev_ws/ament/ament_lint/ament_lint' returned '0': PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_lint build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint/install.log --single-version-externally-managed install_data

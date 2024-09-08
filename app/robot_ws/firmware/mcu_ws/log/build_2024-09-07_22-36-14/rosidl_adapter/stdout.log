@@ -1,0 +1,111 @@
+Not searching for unused variables given on the command line.
+-- Found ament_cmake: 1.3.10 (/home/robot/app/robot_ws/firmware/dev_ws/install/ament_cmake/share/ament_cmake/cmake)
+-- Found Python3: /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter
+gmake[4]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+/usr/bin/cmake -S/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter -B/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter/CMakeFiles /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter//CMakeFiles/progress.marks
+/usr/bin/gmake  -f CMakeFiles/Makefile2 all
+gmake[5]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_copy_rosidl_adapter_setup.dir/build.make CMakeFiles/ament_cmake_python_copy_rosidl_adapter_setup.dir/depend
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_copy_rosidl_adapter.dir/build.make CMakeFiles/ament_cmake_python_copy_rosidl_adapter.dir/depend
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+cd /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter/CMakeFiles/ament_cmake_python_copy_rosidl_adapter_setup.dir/DependInfo.cmake --color=
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+cd /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter/CMakeFiles/ament_cmake_python_copy_rosidl_adapter.dir/DependInfo.cmake --color=
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_copy_rosidl_adapter_setup.dir/build.make CMakeFiles/ament_cmake_python_copy_rosidl_adapter_setup.dir/build
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_copy_rosidl_adapter.dir/build.make CMakeFiles/ament_cmake_python_copy_rosidl_adapter.dir/build
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+/usr/bin/cmake -E copy /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter/setup.cfg /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter/ament_cmake_python/rosidl_adapter/setup.cfg
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+/usr/bin/cmake -E copy_directory /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter/ament_cmake_python/rosidl_adapter/rosidl_adapter
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+Built target ament_cmake_python_copy_rosidl_adapter_setup
+Built target ament_cmake_python_copy_rosidl_adapter
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_build_rosidl_adapter_egg.dir/build.make CMakeFiles/ament_cmake_python_build_rosidl_adapter_egg.dir/depend
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+cd /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/ros2/rosidl/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter/CMakeFiles/ament_cmake_python_build_rosidl_adapter_egg.dir/DependInfo.cmake --color=
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+/usr/bin/gmake  -f CMakeFiles/ament_cmake_python_build_rosidl_adapter_egg.dir/build.make CMakeFiles/ament_cmake_python_build_rosidl_adapter_egg.dir/build
+gmake[6]: Entering directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+cd /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter/ament_cmake_python/rosidl_adapter && /home/robot/app/robot_ws/firmware/toolchain/espressif/python_env/idf4.1_py3.10_env/bin/python3 setup.py egg_info
+running egg_info
+creating rosidl_adapter.egg-info
+writing rosidl_adapter.egg-info/PKG-INFO
+writing dependency_links to rosidl_adapter.egg-info/dependency_links.txt
+writing entry points to rosidl_adapter.egg-info/entry_points.txt
+writing top-level names to rosidl_adapter.egg-info/top_level.txt
+writing manifest file 'rosidl_adapter.egg-info/SOURCES.txt'
+reading manifest file 'rosidl_adapter.egg-info/SOURCES.txt'
+writing manifest file 'rosidl_adapter.egg-info/SOURCES.txt'
+gmake[6]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+Built target ament_cmake_python_build_rosidl_adapter_egg
+gmake[5]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+/usr/bin/cmake -E cmake_progress_start /home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter/CMakeFiles 0
+gmake[4]: Leaving directory '/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_adapter'
+-- Install configuration: "Debug"
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/environment/pythonpath.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/environment/pythonpath.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter-3.1.5-py3.10.egg-info
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter-3.1.5-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter-3.1.5-py3.10.egg-info/entry_points.txt
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter-3.1.5-py3.10.egg-info/PKG-INFO
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter-3.1.5-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter-3.1.5-py3.10.egg-info/top_level.txt
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/resource
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/resource/__init__.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/resource/struct.idl.em
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/resource/action.idl.em
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/resource/srv.idl.em
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/resource/msg.idl.em
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/__init__.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/action
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/action/__init__.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/srv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/srv/__init__.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/__main__.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/parser.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/main.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/cli.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/msg
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/msg/__init__.py
+Listing '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/__init__.py'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/__main__.py'...
+Listing '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/action'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/action/__init__.py'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/cli.py'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/main.py'...
+Listing '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/msg'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/msg/__init__.py'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/parser.py'...
+Listing '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/resource'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/resource/__init__.py'...
+Listing '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/srv'...
+Compiling '/home/robot/app/robot_ws/firmware/mcu_ws/install/lib/python3.10/site-packages/rosidl_adapter/srv/__init__.py'...
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/package_run_dependencies/rosidl_adapter
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/parent_prefix_path/rosidl_adapter
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/environment/ament_prefix_path.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/environment/ament_prefix_path.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/environment/path.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/environment/path.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/local_setup.bash
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/local_setup.sh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/local_setup.zsh
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/local_setup.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/package.dsv
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages/rosidl_adapter
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/cmake/rosidl_adapter-extras.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/cmake/rosidl_adapterConfig.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/cmake/rosidl_adapterConfig-version.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/package.xml
+-- Up-to-date: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/rosidl_adapter/msg2idl.py
+-- Installing: /home/robot/app/robot_ws/firmware/mcu_ws/install/lib/rosidl_adapter/srv2idl.py

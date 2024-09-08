@@ -1,0 +1,44 @@
+[0.576s] Invoking command in '/home/robot/app/robot_ws/firmware/dev_ws/ament/ament_lint/ament_flake8': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_flake8 build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/install.log --single-version-externally-managed install_data
+[1.012s] running egg_info
+[1.012s] creating ../../../build/ament_flake8/ament_flake8.egg-info
+[1.012s] writing ../../../build/ament_flake8/ament_flake8.egg-info/PKG-INFO
+[1.012s] writing dependency_links to ../../../build/ament_flake8/ament_flake8.egg-info/dependency_links.txt
+[1.012s] writing entry points to ../../../build/ament_flake8/ament_flake8.egg-info/entry_points.txt
+[1.012s] writing requirements to ../../../build/ament_flake8/ament_flake8.egg-info/requires.txt
+[1.013s] writing top-level names to ../../../build/ament_flake8/ament_flake8.egg-info/top_level.txt
+[1.013s] writing manifest file '../../../build/ament_flake8/ament_flake8.egg-info/SOURCES.txt'
+[1.013s] reading manifest file '../../../build/ament_flake8/ament_flake8.egg-info/SOURCES.txt'
+[1.013s] writing manifest file '../../../build/ament_flake8/ament_flake8.egg-info/SOURCES.txt'
+[1.013s] running build
+[1.013s] running build_py
+[1.014s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build
+[1.014s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib
+[1.014s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8
+[1.014s] copying ament_flake8/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8
+[1.014s] copying ament_flake8/main.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8
+[1.014s] copying ament_flake8/pytest_marker.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8
+[1.015s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8/configuration
+[1.015s] copying ament_flake8/configuration/ament_flake8.ini -> /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8/configuration
+[1.015s] running install
+[1.015s] running install_lib
+[1.015s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8
+[1.016s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8
+[1.016s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8/configuration
+[1.016s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8/configuration/ament_flake8.ini -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8/configuration
+[1.016s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8/main.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8
+[1.022s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build/lib/ament_flake8/pytest_marker.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8
+[1.023s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8/__init__.py to __init__.cpython-310.pyc
+[1.027s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8/main.py to main.cpython-310.pyc
+[1.029s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8/pytest_marker.py to pytest_marker.cpython-310.pyc
+[1.030s] running install_data
+[1.030s] copying package.xml -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/share/ament_flake8
+[1.030s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/share/ament_index
+[1.036s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/share/ament_index/resource_index
+[1.036s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/share/ament_index/resource_index/packages
+[1.036s] copying resource/ament_flake8 -> /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/share/ament_index/resource_index/packages
+[1.036s] running install_egg_info
+[1.036s] Copying ../../../build/ament_flake8/ament_flake8.egg-info to /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages/ament_flake8-0.12.11-py3.10.egg-info
+[1.037s] running install_scripts
+[1.037s] Installing ament_flake8 script to /home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/bin
+[1.037s] writing list of installed files to '/home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/install.log'
+[1.050s] Invoked command in '/home/robot/app/robot_ws/firmware/dev_ws/ament/ament_lint/ament_flake8' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_flake8 build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/ament_flake8/install.log --single-version-externally-managed install_data

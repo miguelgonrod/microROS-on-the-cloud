@@ -1,0 +1,8 @@
+{
+  "package_name": "composition_interfaces",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/composition_interfaces:srv/LoadNode.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/composition_interfaces:srv/ListNodes.srv",
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/composition_interfaces:srv/UnloadNode.srv"
+  ]
+}

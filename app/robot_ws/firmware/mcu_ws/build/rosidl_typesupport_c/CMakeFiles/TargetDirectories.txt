@@ -1,0 +1,13 @@
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/uninstall.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/rosidl_typesupport_c_uninstall.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/ament_cmake_python_copy_rosidl_typesupport_c.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/ament_cmake_python_copy_rosidl_typesupport_c_setup.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/ament_cmake_python_build_rosidl_typesupport_c_egg.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/rosidl_typesupport_c.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/test.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/edit_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/rebuild_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/list_install_components.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/install.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/install/local.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_typesupport_c/CMakeFiles/install/strip.dir

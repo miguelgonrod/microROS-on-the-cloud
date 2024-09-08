@@ -1,0 +1,172 @@
+[0.125s] Invoking command in '/home/robot/app/robot_ws/build/my_custom_message': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/my_custom_message -- -j8 -l8
+[0.552s] [  7%] Built target my_custom_message__rosidl_generator_c
+[0.552s] [ 10%] Built target my_custom_message__cpp
+[0.553s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_microxrcedds_c[0m
+[0.553s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_c[0m
+[0.622s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_microxrcedds_cpp[0m
+[0.623s] [ 10%] Built target ament_cmake_python_copy_my_custom_message
+[0.631s] [ 17%] Built target my_custom_message__rosidl_typesupport_fastrtps_c
+[0.632s] [ 25%] Built target my_custom_message__rosidl_typesupport_microxrcedds_c
+[0.638s] [ 33%] Built target my_custom_message__rosidl_typesupport_c
+[0.655s] [ 41%] Built target my_custom_message__rosidl_typesupport_introspection_c
+[0.671s] [ 48%] Built target my_custom_message__rosidl_typesupport_introspection_cpp
+[0.706s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_cpp[0m
+[0.709s] [ 56%] Built target my_custom_message__rosidl_typesupport_microxrcedds_cpp
+[0.713s] [ 64%] Built target my_custom_message__rosidl_typesupport_fastrtps_cpp
+[0.805s] [ 71%] Built target my_custom_message__rosidl_typesupport_cpp
+[0.925s] [ 71%] Built target my_custom_message
+[1.044s] [ 74%] Built target my_custom_message__py
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_generator_py[0m
+[1.135s] [ 79%] Built target my_custom_message__rosidl_generator_py
+[1.187s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.208s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_microxrcedds_c__pyext[0m
+[1.214s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_introspection_c__pyext[0m
+[1.220s] [35m[1mConsolidate compiler generated dependencies of target my_custom_message__rosidl_typesupport_c__pyext[0m
+[1.293s] [ 84%] Built target my_custom_message__rosidl_typesupport_fastrtps_c__pyext
+[1.296s] [ 92%] Built target my_custom_message__rosidl_typesupport_c__pyext
+[1.299s] [ 94%] Built target my_custom_message__rosidl_typesupport_introspection_c__pyext
+[1.306s] [100%] Built target my_custom_message__rosidl_typesupport_microxrcedds_c__pyext
+[1.638s] running egg_info
+[1.639s] writing my_custom_message.egg-info/PKG-INFO
+[1.639s] writing dependency_links to my_custom_message.egg-info/dependency_links.txt
+[1.639s] writing top-level names to my_custom_message.egg-info/top_level.txt
+[1.639s] reading manifest file 'my_custom_message.egg-info/SOURCES.txt'
+[1.640s] writing manifest file 'my_custom_message.egg-info/SOURCES.txt'
+[1.660s] [100%] Built target ament_cmake_python_build_my_custom_message_egg
+[1.745s] Invoked command in '/home/robot/app/robot_ws/build/my_custom_message' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/my_custom_message -- -j8 -l8
+[2.096s] Invoking command in '/home/robot/app/robot_ws/build/my_custom_message': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/my_custom_message
+[2.150s] -- Install configuration: ""
+[2.151s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/ament_index/resource_index/rosidl_interfaces/my_custom_message
+[2.151s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+[2.151s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+[2.152s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/my_custom_message.h
+[2.153s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+[2.153s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__type_support.h
+[2.154s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__functions.c
+[2.155s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__struct.h
+[2.158s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__functions.h
+[2.158s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/rosidl_generator_c__visibility_control.h
+[2.158s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/library_path.sh
+[2.159s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/library_path.dsv
+[2.159s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_generator_c.so
+[2.159s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message
+[2.159s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg
+[2.160s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail
+[2.160s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/microxrcedds
+[2.160s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_microxrcedds_c.h
+[2.160s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[2.161s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_microxrcedds_c.so
+[2.161s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+[2.161s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+[2.161s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+[2.161s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_fastrtps_c.h
+[2.161s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.162s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_fastrtps_c.so
+[2.164s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+[2.164s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+[2.164s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.165s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+[2.166s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__type_support.c
+[2.166s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_introspection_c.h
+[2.166s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_introspection_c.so
+[2.166s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_c.so
+[2.166s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+[2.167s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+[2.167s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/my_custom_message.hpp
+[2.167s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+[2.167s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__builder.hpp
+[2.167s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__struct.hpp
+[2.168s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__traits.hpp
+[2.168s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message
+[2.168s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg
+[2.168s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail
+[2.168s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/microxrcedds
+[2.179s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/microxrcedds/my_custom_message__type_support_cpp.cpp
+[2.179s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_microxrcedds_cpp.hpp
+[2.179s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[2.179s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_microxrcedds_cpp.so
+[2.179s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+[2.180s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+[2.180s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.180s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+[2.180s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/dds_fastrtps
+[2.180s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_fastrtps_cpp.hpp
+[2.180s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_fastrtps_cpp.so
+[2.181s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message
+[2.181s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg
+[2.181s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail
+[2.181s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__type_support.cpp
+[2.181s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/include/my_custom_message/my_custom_message/msg/detail/my_custom_message__rosidl_typesupport_introspection_cpp.hpp
+[2.182s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_introspection_cpp.so
+[2.186s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_typesupport_cpp.so
+[2.186s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/pythonpath.sh
+[2.187s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/pythonpath.dsv
+[2.187s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info
+[2.187s] -- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.187s] -- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info/PKG-INFO
+[2.188s] -- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.188s] -- Installing: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message-0.0.0-py3.10.egg-info/top_level.txt
+[2.188s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message
+[2.188s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/__init__.py
+[2.188s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.189s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_microxrcedds_c.c
+[2.189s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.189s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_c.c
+[2.189s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[2.189s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/libmy_custom_message__rosidl_generator_py.so
+[2.189s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.190s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_introspection_c.c
+[2.190s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg
+[2.190s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg/__init__.py
+[2.191s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg/_my_custom_message.py
+[2.191s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg/_my_custom_message_s.c
+[2.191s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/_my_custom_message_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.288s] Listing '/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message'...
+[2.289s] Listing '/home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/msg'...
+[2.300s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[2.301s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.302s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.302s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/local/lib/python3.10/dist-packages/my_custom_message/my_custom_message_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.303s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/lib/libmy_custom_message__rosidl_generator_py.so
+[2.304s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/msg/MyCustomMessage.idl
+[2.305s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/msg/MyCustomMessage.msg
+[2.305s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/ament_index/resource_index/package_run_dependencies/my_custom_message
+[2.305s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/ament_index/resource_index/parent_prefix_path/my_custom_message
+[2.305s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/ament_prefix_path.sh
+[2.305s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/ament_prefix_path.dsv
+[2.306s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/path.sh
+[2.306s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/environment/path.dsv
+[2.307s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/local_setup.bash
+[2.307s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/local_setup.sh
+[2.308s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/local_setup.zsh
+[2.308s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/local_setup.dsv
+[2.308s] -- Installing: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/package.dsv
+[2.308s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/ament_index/resource_index/packages/my_custom_message
+[2.309s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_cExport.cmake
+[2.309s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_cExport-noconfig.cmake
+[2.309s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_typesupport_fastrtps_cExport.cmake
+[2.310s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.311s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_introspection_cExport.cmake
+[2.312s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.313s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_cExport.cmake
+[2.313s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_cExport-noconfig.cmake
+[2.314s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_cppExport.cmake
+[2.314s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.314s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.314s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_introspection_cppExport.cmake
+[2.315s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.315s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_cppExport.cmake
+[2.315s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_message__rosidl_typesupport_cppExport-noconfig.cmake
+[2.317s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_pyExport.cmake
+[2.317s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/export_my_custom_message__rosidl_generator_pyExport-noconfig.cmake
+[2.317s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/rosidl_cmake-extras.cmake
+[2.317s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.317s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/ament_cmake_export_libraries-extras.cmake
+[2.317s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/ament_cmake_export_targets-extras.cmake
+[2.318s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.318s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.318s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.318s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_messageConfig.cmake
+[2.318s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/cmake/my_custom_messageConfig-version.cmake
+[2.319s] -- Up-to-date: /home/robot/app/robot_ws/install/my_custom_message/share/my_custom_message/package.xml
+[2.324s] Invoked command in '/home/robot/app/robot_ws/build/my_custom_message' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/app/robot_ws/install/sensor_msgs_py:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/my_custom_message

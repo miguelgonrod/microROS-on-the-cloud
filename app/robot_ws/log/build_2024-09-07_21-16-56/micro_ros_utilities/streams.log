@@ -1,0 +1,57 @@
+[0.079s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_utilities': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/uros/micro_ros_utilities -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/micro_ros_utilities
+[0.265s] -- The C compiler identification is GNU 11.4.0
+[0.430s] -- The CXX compiler identification is GNU 11.4.0
+[0.450s] -- Detecting C compiler ABI info
+[0.633s] -- Detecting C compiler ABI info - done
+[0.663s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.663s] -- Detecting C compile features
+[0.663s] -- Detecting C compile features - done
+[0.671s] -- Detecting CXX compiler ABI info
+[0.868s] -- Detecting CXX compiler ABI info - done
+[0.896s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.897s] -- Detecting CXX compile features
+[0.898s] -- Detecting CXX compile features - done
+[0.907s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.243s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.469s] -- Found rosidl_typesupport_introspection_c: 3.1.5 (/opt/ros/humble/share/rosidl_typesupport_introspection_c/cmake)
+[1.490s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.732s] -- Configuring done
+[1.741s] -- Generating done
+[1.744s] -- Build files have been written to: /home/robot/app/robot_ws/build/micro_ros_utilities
+[1.757s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_utilities' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/robot/app/robot_ws/src/uros/micro_ros_utilities -DBUILD_TESTING=OFF -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=/home/robot/app/robot_ws/install/micro_ros_utilities
+[1.764s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_utilities': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/micro_ros_utilities -- -j8 -l8
+[1.896s] [ 33%] [32mBuilding C object CMakeFiles/micro_ros_utilities.dir/src/string_utilities.c.o[0m
+[1.908s] [ 66%] [32mBuilding C object CMakeFiles/micro_ros_utilities.dir/src/type_utilities.c.o[0m
+[2.076s] [100%] [32m[1mLinking C shared library libmicro_ros_utilities.so[0m
+[2.168s] [100%] Built target micro_ros_utilities
+[2.205s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_utilities' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robot/app/robot_ws/build/micro_ros_utilities -- -j8 -l8
+[2.280s] Invoking command in '/home/robot/app/robot_ws/build/micro_ros_utilities': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/micro_ros_utilities
+[2.779s] -- Install configuration: ""
+[2.779s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/include
+[2.779s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/include/micro_ros_utilities
+[2.780s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/include/micro_ros_utilities/string_utilities.h
+[2.780s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/include/micro_ros_utilities/type_utilities.h
+[2.781s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/include/micro_ros_utilities/visibility_control.h
+[2.781s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/lib/libmicro_ros_utilities.so
+[2.781s] -- Set runtime path of "/home/robot/app/robot_ws/install/micro_ros_utilities/lib/libmicro_ros_utilities.so" to ""
+[2.781s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/environment/library_path.sh
+[2.781s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/environment/library_path.dsv
+[2.782s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/ament_index/resource_index/package_run_dependencies/micro_ros_utilities
+[2.782s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/ament_index/resource_index/parent_prefix_path/micro_ros_utilities
+[2.782s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/environment/ament_prefix_path.sh
+[2.782s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/environment/ament_prefix_path.dsv
+[2.785s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/environment/path.sh
+[2.785s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/environment/path.dsv
+[2.786s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/local_setup.bash
+[2.786s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/local_setup.sh
+[2.786s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/local_setup.zsh
+[2.786s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/local_setup.dsv
+[2.786s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/package.dsv
+[2.787s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/ament_index/resource_index/packages/micro_ros_utilities
+[2.787s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.787s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake/ament_cmake_export_libraries-extras.cmake
+[2.787s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.788s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake/micro_ros_utilitiesConfig.cmake
+[2.788s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/cmake/micro_ros_utilitiesConfig-version.cmake
+[2.788s] -- Installing: /home/robot/app/robot_ws/install/micro_ros_utilities/share/micro_ros_utilities/package.xml
+[2.788s] Invoked command in '/home/robot/app/robot_ws/build/micro_ros_utilities' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robot/app/robot_ws/build/micro_ros_utilities

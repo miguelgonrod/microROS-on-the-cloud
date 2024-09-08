@@ -1,0 +1,6 @@
+{
+  "package_name": "rosgraph_msgs",
+  "non_idl_tuples": [
+    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/rcl_interfaces/rosgraph_msgs:msg/Clock.msg"
+  ]
+}

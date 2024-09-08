@@ -1,0 +1,4 @@
+source;share/rclc_lifecycle/local_setup.bash
+source;share/rclc_lifecycle/local_setup.dsv
+source;share/rclc_lifecycle/local_setup.sh
+source;share/rclc_lifecycle/local_setup.zsh

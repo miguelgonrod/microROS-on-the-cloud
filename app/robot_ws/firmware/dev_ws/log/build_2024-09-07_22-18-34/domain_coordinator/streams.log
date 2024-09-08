@@ -1,0 +1,35 @@
+[0.946s] Invoking command in '/home/robot/app/robot_ws/firmware/dev_ws/ros2/ament_cmake_ros/domain_coordinator': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/domain_coordinator build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data
+[1.302s] running egg_info
+[1.303s] creating ../../../build/domain_coordinator/domain_coordinator.egg-info
+[1.303s] writing ../../../build/domain_coordinator/domain_coordinator.egg-info/PKG-INFO
+[1.303s] writing dependency_links to ../../../build/domain_coordinator/domain_coordinator.egg-info/dependency_links.txt
+[1.304s] writing requirements to ../../../build/domain_coordinator/domain_coordinator.egg-info/requires.txt
+[1.304s] writing top-level names to ../../../build/domain_coordinator/domain_coordinator.egg-info/top_level.txt
+[1.304s] writing manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.307s] reading manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.310s] writing manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.310s] running build
+[1.310s] running build_py
+[1.310s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build
+[1.310s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build/lib
+[1.310s] creating /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.310s] copying domain_coordinator/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.311s] copying domain_coordinator/impl.py -> /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.311s] running install
+[1.311s] running install_lib
+[1.312s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.312s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator/__init__.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.312s] copying /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator/impl.py -> /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.313s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator/__init__.py to __init__.cpython-310.pyc
+[1.314s] byte-compiling /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator/impl.py to impl.cpython-310.pyc
+[1.315s] running install_data
+[1.315s] copying package.xml -> /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/share/domain_coordinator
+[1.315s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index
+[1.315s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index
+[1.315s] creating /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[1.315s] copying resource/domain_coordinator -> /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[1.315s] running install_egg_info
+[1.318s] Copying ../../../build/domain_coordinator/domain_coordinator.egg-info to /home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator-0.10.0-py3.10.egg-info
+[1.320s] running install_scripts
+[1.356s] writing list of installed files to '/home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/install.log'
+[1.399s] Invoked command in '/home/robot/app/robot_ws/firmware/dev_ws/ros2/ament_cmake_ros/domain_coordinator' returned '0': AMENT_PREFIX_PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint PATH=/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/bin:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/app/robot_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/robot/app/robot_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/domain_coordinator build --build-base /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/build install --record /home/robot/app/robot_ws/firmware/dev_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data

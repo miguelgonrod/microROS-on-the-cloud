@@ -1,0 +1,7 @@
+/home/robot/app/robot_ws/firmware/mcu_ws/build/microcdr/CMakeFiles/microcdr.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/microcdr/CMakeFiles/edit_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/microcdr/CMakeFiles/rebuild_cache.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/microcdr/CMakeFiles/list_install_components.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/microcdr/CMakeFiles/install.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/microcdr/CMakeFiles/install/local.dir
+/home/robot/app/robot_ws/firmware/mcu_ws/build/microcdr/CMakeFiles/install/strip.dir
