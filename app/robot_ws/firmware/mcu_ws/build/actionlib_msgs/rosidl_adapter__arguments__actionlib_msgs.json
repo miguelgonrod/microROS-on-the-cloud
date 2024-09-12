@@ -1,8 +1,0 @@
-{
-  "package_name": "actionlib_msgs",
-  "non_idl_tuples": [
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/actionlib_msgs:msg/GoalID.msg",
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/actionlib_msgs:msg/GoalStatus.msg",
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/actionlib_msgs:msg/GoalStatusArray.msg"
-  ]
-}

@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,libmy_custom_message__rosidl_generator_c.so -o libmy_custom_message__rosidl_generator_c.so CMakeFiles/my_custom_message__rosidl_generator_c.dir/rosidl_generator_c/my_custom_message/msg/detail/my_custom_message__functions.c.o  -Wl,-rpath,/opt/ros/humble/lib: /opt/ros/humble/lib/librosidl_runtime_c.so /opt/ros/humble/lib/librcutils.so -ldl 

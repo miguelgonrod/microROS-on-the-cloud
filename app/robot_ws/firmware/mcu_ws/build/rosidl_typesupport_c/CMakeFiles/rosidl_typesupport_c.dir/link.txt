@@ -1,2 +1,0 @@
-/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc librosidl_typesupport_c.a CMakeFiles/rosidl_typesupport_c.dir/src/identifier.c.obj CMakeFiles/rosidl_typesupport_c.dir/src/message_type_support_dispatch.cpp.obj CMakeFiles/rosidl_typesupport_c.dir/src/service_type_support_dispatch.cpp.obj
-/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib librosidl_typesupport_c.a

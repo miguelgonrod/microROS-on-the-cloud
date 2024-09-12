@@ -1,5 +1,0 @@
-/home/robot/app/robot_ws/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:msg/DiagnosticArray.idl
-/home/robot/app/robot_ws/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:msg/DiagnosticStatus.idl
-/home/robot/app/robot_ws/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:msg/KeyValue.idl
-/home/robot/app/robot_ws/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:srv/AddDiagnostics.idl
-/home/robot/app/robot_ws/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:srv/SelfTest.idl

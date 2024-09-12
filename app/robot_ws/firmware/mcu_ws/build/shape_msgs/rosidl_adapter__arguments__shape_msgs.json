@@ -1,9 +1,0 @@
-{
-  "package_name": "shape_msgs",
-  "non_idl_tuples": [
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/shape_msgs:msg/Mesh.msg",
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/shape_msgs:msg/MeshTriangle.msg",
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/shape_msgs:msg/Plane.msg",
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/shape_msgs:msg/SolidPrimitive.msg"
-  ]
-}

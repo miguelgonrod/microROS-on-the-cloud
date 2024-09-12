@@ -1,8 +1,0 @@
-{
-  "package_name": "std_srvs",
-  "non_idl_tuples": [
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/std_srvs:srv/Empty.srv",
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/std_srvs:srv/SetBool.srv",
-    "/home/robot/app/robot_ws/firmware/mcu_ws/ros2/common_interfaces/std_srvs:srv/Trigger.srv"
-  ]
-}

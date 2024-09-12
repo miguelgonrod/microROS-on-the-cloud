@@ -1,6 +1,0 @@
-/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/include/libyaml_vendor/yaml.h
-/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/lib/libyaml.a
-/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/cmake/yamlConfig.cmake
-/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/cmake/yamlTargets.cmake
-/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/cmake/yamlTargets-debug.cmake
-/home/robot/app/robot_ws/firmware/mcu_ws/build/libyaml_vendor/libyaml_install/cmake/yamlConfigVersion.cmake

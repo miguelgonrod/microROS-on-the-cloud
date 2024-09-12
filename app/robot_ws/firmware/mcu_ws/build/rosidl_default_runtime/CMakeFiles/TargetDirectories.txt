@@ -1,8 +1,0 @@
-/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_runtime/CMakeFiles/uninstall.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_runtime/CMakeFiles/rosidl_default_runtime_uninstall.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_runtime/CMakeFiles/test.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_runtime/CMakeFiles/edit_cache.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_runtime/CMakeFiles/rebuild_cache.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_runtime/CMakeFiles/list_install_components.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_runtime/CMakeFiles/install.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/rosidl_default_runtime/CMakeFiles/install/local.dir

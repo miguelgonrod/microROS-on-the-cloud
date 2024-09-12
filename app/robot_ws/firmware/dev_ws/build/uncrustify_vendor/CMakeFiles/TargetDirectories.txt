@@ -1,9 +1,0 @@
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/uninstall.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/uncrustify_vendor_uninstall.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/test.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/edit_cache.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/rebuild_cache.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/list_install_components.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/install.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/install/local.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/uncrustify_vendor/CMakeFiles/install/strip.dir

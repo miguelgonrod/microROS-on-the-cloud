@@ -1,9 +1,0 @@
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/uninstall.dir
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/rosidl_typesupport_microxrcedds_cpp_tests_uninstall.dir
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/test.dir
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/edit_cache.dir
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/rebuild_cache.dir
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/list_install_components.dir
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/install.dir
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/install/local.dir
-/home/robot/app/robot_ws/build/rosidl_typesupport_microxrcedds_cpp_tests/CMakeFiles/install/strip.dir

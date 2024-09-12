@@ -1,1 +1,0 @@
-/home/robot/app/robot_ws/build/micro_ros_demos_rclc/temp_install/complex_msg_subscriber/complex_msg_subscriber

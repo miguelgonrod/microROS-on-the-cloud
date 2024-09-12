@@ -1,7 +1,0 @@
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint_common/CMakeFiles/uninstall.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint_common/CMakeFiles/ament_lint_common_uninstall.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint_common/CMakeFiles/edit_cache.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint_common/CMakeFiles/rebuild_cache.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint_common/CMakeFiles/list_install_components.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint_common/CMakeFiles/install.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_lint_common/CMakeFiles/install/local.dir

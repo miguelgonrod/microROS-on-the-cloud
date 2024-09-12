@@ -1,4 +1,0 @@
-source;share/test_interface_files/local_setup.bash
-source;share/test_interface_files/local_setup.dsv
-source;share/test_interface_files/local_setup.sh
-source;share/test_interface_files/local_setup.zsh

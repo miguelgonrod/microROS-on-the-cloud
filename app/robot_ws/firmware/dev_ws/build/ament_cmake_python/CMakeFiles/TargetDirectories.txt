@@ -1,7 +1,0 @@
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_cmake_python/CMakeFiles/uninstall.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_cmake_python/CMakeFiles/ament_cmake_python_uninstall.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_cmake_python/CMakeFiles/edit_cache.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_cmake_python/CMakeFiles/rebuild_cache.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_cmake_python/CMakeFiles/list_install_components.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_cmake_python/CMakeFiles/install.dir
-/home/robot/app/robot_ws/firmware/dev_ws/build/ament_cmake_python/CMakeFiles/install/local.dir

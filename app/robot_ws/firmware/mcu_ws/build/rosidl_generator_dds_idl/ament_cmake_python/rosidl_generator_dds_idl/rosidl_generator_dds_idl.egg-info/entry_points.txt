@@ -1,2 +1,0 @@
-[rosidl_cli.command.translate.extensions]
-idl2ddsidl = rosidl_generator_dds_idl.cli:TranslateIDLToDDSIDL

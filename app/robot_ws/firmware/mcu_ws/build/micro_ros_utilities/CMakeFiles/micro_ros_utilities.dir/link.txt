@@ -1,2 +1,0 @@
-/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libmicro_ros_utilities.a CMakeFiles/micro_ros_utilities.dir/src/string_utilities.c.obj CMakeFiles/micro_ros_utilities.dir/src/type_utilities.c.obj
-/home/robot/app/robot_ws/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libmicro_ros_utilities.a

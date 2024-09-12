@@ -1,3 +1,0 @@
-repository='https://github.com/eProsima/Micro-XRCE-DDS-Agent.git'
-module=''
-tag='origin'

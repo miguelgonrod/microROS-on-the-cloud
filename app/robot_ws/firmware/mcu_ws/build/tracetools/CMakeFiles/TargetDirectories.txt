@@ -1,9 +1,0 @@
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/uninstall.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/tracetools_uninstall.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/test.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/edit_cache.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/rebuild_cache.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/list_install_components.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/install.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/install/local.dir
-/home/robot/app/robot_ws/firmware/mcu_ws/build/tracetools/CMakeFiles/install/strip.dir

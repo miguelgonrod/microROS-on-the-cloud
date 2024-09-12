@@ -1,7 +1,0 @@
-[33mCMake Warning at /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rcutils/cmake/ament_cmake_export_libraries-extras.cmake:116 (message):
-  Package 'rcutils' exports library 'dl' which couldn't be found
-Call Stack (most recent call first):
-  /home/robot/app/robot_ws/firmware/mcu_ws/install/share/rcutils/cmake/rcutilsConfig.cmake:41 (include)
-  CMakeLists.txt:21 (find_package)
-
-[0m

@@ -1,3 +1,0 @@
-repository='https://github.com/yaml/libyaml.git'
-module=''
-tag='origin'
