@@ -14,24 +14,17 @@ RUN useradd -m -s /bin/bash -N -u 1000 robot && \
 
 USER robot
 
+RUN pip install opencv-python numpy mediapipe 
+
 WORKDIR /home/robot/app
 
 COPY --chown=robot app/ .
 
-RUN chmod 774 ~/app/robot_ws/
+RUN chmod 774 ~/app/microros_ws/
+RUN chmod 774 ~/app/ros2_ws/
 
-WORKDIR /home/robot/app/robot_ws
+WORKDIR /home/robot/app
 
 RUN /bin/bash -c "source /opt/ros/humble/setup.bash;"
 
 RUN /bin/bash -c "rosdep update;"
-
-#RUN /bin/bash -c "rosdep install --from-paths src --ignore-src -y;"
-
-#RUN /bin/bash -c "source ~/app/robot_ws/install/setup.bash;"
-
-#RUN /bin/bash -c "ros2 run micro_ros_setup build_firmware.sh;"
-
-#RUN /bin/bash -c "ros2 run micro_ros_setup build_agent.sh;"
-
-
