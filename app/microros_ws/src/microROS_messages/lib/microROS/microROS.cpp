@@ -45,10 +45,10 @@ void microROS::initialize() {
     ESP_LOGI(TAG, "Initializing micro-ROS for image publishing and subscribing.");
 
     // Connect to WiFi and setup micro-ROS
-    IPAddress agent_ip(119, 12, 164, 198);
+    IPAddress agent_ip(192, 168, 0, 6);
     size_t agent_port = 8888;
-    char ssid[] = "FAMILIA GONROD 2.4 ETB ";  // Replace with your WiFi SSID
-    char psk[] = "MedellinCr20*";  // Replace with your WiFi Password
+    char ssid[] = "SSID";  // Replace with your WiFi SSID
+    char psk[] = "Password";  // Replace with your WiFi Password
 
     set_microros_wifi_transports(ssid, psk, agent_ip, agent_port);
 
