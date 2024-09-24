@@ -15,7 +15,7 @@ This project showcases the use of an ESP32-CAM with micro-ROS and an OLED screen
 
 ## Demostration
 
-https://github.com/user-attachments/assets/679ae389-1bac-4e7b-b248-10654c7dd610
+https://github.com/user-attachments/assets/f711379f-cfff-406f-838a-5009e789d02f
 
 ## Technologies
 This project was created with:
